@@ -1,5 +1,6 @@
-# AIFFELTHON Final Project Repository - `saturi translator`
-last update : FEB 16, 2023
+# AIFFELTHON Final Project Repository 
+`saturi translator`
+- #### last update : FEB 16, 2023
 ---
 ## Project name : Saturi
 ## Participants :
@@ -10,7 +11,7 @@ last update : FEB 16, 2023
 |2. SH| (coder)
 |3. SA| (coder)|
 |4. JI| (coder|
-|5. DS| (coordinatro)|
+|5. DS| (coordinator)|
 
 # Description :
 - ### This is a repository that contains code for Eng-to-Korean dialect translation Webapp.
