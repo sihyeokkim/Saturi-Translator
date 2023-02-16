@@ -2,7 +2,7 @@
 # `saturi translator`
 - #### last update : FEB 16, 2023
 ---
-## Project name : Saturi
+## Team name : Saturi
 ## Participants :
 
 | name | role |
