@@ -5,6 +5,7 @@ last update : FEB 16, 2023
 ## Participants :
 
 | name | role |
+|------|-----|
 |1. SY| (lead)|
 |2. SH| (coder)
 |3. SA| (coder)|
