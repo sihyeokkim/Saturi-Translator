@@ -23,10 +23,10 @@
 
 - basic transformer model inference :
 
-[![example1](img/t1.png)]
-[![example2](img/t2.png)]
-[![example3](img/t3.png)]
-[![example4](img/t4.pn)]
+![example1](img/t1.png)
+![example2](img/t2.png)
+![example3](img/t3.png)
+![example4](img/t4.png)
 
 (more updates to come)
 
