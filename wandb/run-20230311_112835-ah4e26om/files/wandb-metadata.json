@@ -1,0 +1,64 @@
+{
+    "os": "Linux-5.4.228+-x86_64-with-glibc2.31",
+    "python": "3.9.7",
+    "heartbeatAt": "2023-03-11T11:28:36.348830",
+    "startedAt": "2023-03-11T11:28:35.776872",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "aiffel/saturi/[Aiffelthon]_Saturi_BaseModelTR_Dial_Final_1M_ERR.ipynb",
+    "root": "/aiffel/aiffel/saturi",
+    "git": {
+        "remote": "https://github.com/seuyon0101/saturi.git",
+        "commit": "08dc6576e76c713a86f55e20ccba8f8d7d069b5a"
+    },
+    "email": "sihyeok.kim@gmail.com",
+    "host": "wmpcgctp5j1v5yr5eujt3h86x-5cdfc5db75-lrhv9",
+    "username": "root",
+    "executable": "/opt/conda/bin/python",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 2199.998,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2199.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2199.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2199.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2199.998,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 121.81595230102539,
+        "used": 56.17107009887695
+    },
+    "gpu": "Tesla T4",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "Tesla T4",
+            "memory_total": 15843721216
+        }
+    ],
+    "memory": {
+        "total": 17.580486297607422
+    }
+}

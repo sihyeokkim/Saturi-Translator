@@ -1,0 +1,742 @@
+
+Restored from /aiffel/aiffel/aiffelthon/tf_ckpts_gd12_test_r0/ckpt-1
+Restored from /aiffel/aiffel/aiffelthon/tf_ckpts_gd12_test_r0/ckpt-1
+Restored from /aiffel/aiffel/aiffelthon/tf_ckpts_gd12_test_r0/ckpt-1
+Saved checkpoint for step 1: /aiffel/aiffel/aiffelthon/tf_ckpts_gd12_test_r0/ckpt-2
+Saved checkpoint for step 1: /aiffel/aiffel/aiffelthon/tf_ckpts_gd12_test_r0/ckpt-3
+Saved checkpoint for step 1: /aiffel/aiffel/aiffelthon/tf_ckpts_gd12_test_r0/ckpt-4
+Restored from /aiffel/aiffel/aiffelthon/tf_ckpts_gd12_test_r0/ckpt-4
+Restored from /aiffel/aiffel/aiffelthon/tf_ckpts_gd12_test_r0/ckpt-4
+Restored from /aiffel/aiffel/aiffelthon/tf_ckpts_gd12_test_r0/ckpt-4
+Restored from /aiffel/aiffel/aiffelthon/tf_ckpts_gd12_test_r0/ckpt-4
+Saved checkpoint for step 1: /aiffel/aiffel/aiffelthon/tf_ckpts_gd12_test_r0/ckpt-5
+Saved checkpoint for step 1: /aiffel/aiffel/aiffelthon/tf_ckpts_gd12_test_r0/ckpt-6
+Saved checkpoint for step 1: /aiffel/aiffel/aiffelthon/tf_ckpts_gd12_test_r0/ckpt-7
+<class 'pandas.core.series.Series'>
+<class 'pandas.core.series.Series'>
+<class 'pandas.core.series.Series'>
+<class 'pandas.core.series.Series'>
+제주도 사투리 :
+Input: what are you doing?
+Predicted translation: ?
+전라도 사투리 :
+Input: what are you doing?
+Predicted translation: ?
+경상도 사투리 :
+Input: what are you doing?
+Predicted translation: ?
+충청도 사투리 :
+Input: what are you doing?
+Predicted translation: ?
+강원도 사투리 :
+Input: what are you doing?
+Predicted translation: ?
+제주도 사투리 :
+제주도 사투리 :
+제주도 사투리 :
+제주도 사투리 :
+제주도 사투리 :
+제주도 사투리 :
+Input: I’m about to leave. Please hold for a moment.
+Predicted translation: 곡 곡트트트운운운운운운운운운운운운운운운운운운
+전라도 사투리 :
+Input: I’m about to leave. Please hold for a moment.
+Predicted translation: 나서트트트요 .
+경상도 사투리 :
+Input: I’m about to leave. Please hold for a moment.
+Predicted translation: 아깝서트트트요 .
+충청도 사투리 :
+Input: I’m about to leave. Please hold for a moment.
+Predicted translation: 기서트트트운운운운운운운운운운운운운운운운운운운
+강원도 사투리 :
+Input: I’m about to leave. Please hold for a moment.
+Predicted translation: 아깝서트나구
+Input: <jj> so i m gonna go . i m here .
+Predicted translation: 서 .
+Source Sentence:  <jj> so i m gonna go . i m here .
+Model Prediction:  ['서', '.']
+Real:  ['게난', '가클', '허고', '잘도']
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Score: 0.000000
+Input: <jj> but ill squeeze it for you straight . you have to be careful with that mask . i don t think it was a good idea . it s been a hundred and fifty grand and now it s been a week and it s been a long time . did you just mark your age ? and the women over there
+Predicted translation: 도 잘도 허영 쉰다리 잘도 잘도 잘도 잘도 모르겐 . 근디 거 잘도 잘도 잘도 허영 아이 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도
+Input: <jj> and if i ask you two family questions you change it like this and it took me months to do this . no i dont know the name but i know what i think i ate it i eat it or i am . its better to be small but we have a little bit of space utilization why are you sleeping itonting its not that so i just invested in money .
+Predicted translation: 도 아이 해신디 나맨 잘도 잘도 허영 아이 해신디 나맨 잘도 잘도 못 먹언 . 어게 나맨 잘도 안먹고예 . 거 거 거 자라 나맨 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 안먹고 . 근디 나맨 잘도 안먹고 . 거 닮 . 거 같거든 .
+Input: <jj> theres a previous content that a mother named momo suddenly came from the united states and baked
+Predicted translation: 도  ⁇ 다게 게난 됀 잘도 허영 됀 잘도 봅서
+Input: <jj> you could have gone its not right you shouldnt have gotten it right ? okay ill go ? that s why it s important to follow people . grandmas have come out of the morning . i don t have that knife . i don t have that knife . it just said that youre not going to go to an academy .
+Predicted translation: 도 아이 아이 무신거 무신거 무신거 무신거 무신거 무신거 무신거 무신거 무신거 무신거 무신거 ? 나맨 막이 겅 아이 아이 아이 아이 해 ?
+Input: <jj> it s not blood circulation is it ?
+Predicted translation: 도  ⁇  ?
+Input: <jj> but its because i ate it with my dad or because i ate it with my dad but i didnt .
+Predicted translation: 도 아이 나맨 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 어멍간예 .
+Input: <jj> he came to the house too you should know what you know . i solicited an accident while driving in the car . you wore a secret and when i think about it i feel really bad . i m gonna go buy some stockings too .
+Predicted translation: 도 못행 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 거 . 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 거 .
+Input: <jj> how many people were in pusan ? they live like that when they see it i m not going on friday . you know you ve been dating for a week you ve broken up you ve had a lot of things . but is it food again ? i w began watching it with a cnt .
+Predicted translation: 도 잘도 허영 흔들 때이 요 거 ? 거 썽 썽 썽  ⁇ 시리믄 요 거 흔들  ⁇ 시리시리믄 요 거예 . 내나 요 거  ⁇ 디 요
+Input: <jj> itid is this even though i didnt work hard do you have a line ? its good to cook traditional food but is there anywhere ? what are you gonna do ?
+Predicted translation: 도 영 무신거 무신거 무신거 무신거 무신거 무신거 무신거 무신거 무신거 어신디 ?
+Input: <jj> its okay if its good there was something i didnt want to get me wrong but what place is there to go . yes the one that goes it s not a hole . it s a hole . because im busy with rice even if you empty the water the water doesnt permeate below it it strikes out .
+Predicted translation: 도 아이 무신거 무신거 무신거 무신거 . 거 샘토막이 아이 해신디 거 . 거  ⁇ 게 . 거  ⁇ 디다게 . 거  ⁇ 디다게 . 거  ⁇ 게 . 거  ⁇ 게 . 거  ⁇ 디 나맨 잘도 아이 나영 아이 나왐신게 .
+Input: <jj> i don t even speak sheep s mouth . i thought it was too easy but the reality is not i mean i m not giving them back but i think we re gonna lose a little bit together . oh my god i m so sorry . i m so sorry . three chickens two hundred dollars for me . i saddled it with a spoon
+Predicted translation: 도 아이 아이 해신디 나맨 잘도 아이 해신디 나맨 혼자이 아이 아이 해신디 거 나맨 아이 나영 아이 나영 아이 나영 아이 나영 막이 아이 나영 아이 나영으네 나맨 내나 나맨 나왐덴 아이 나왐신게 . 나맨 나영 아이 나영 아이 나왐덴 나맨 나맨 나왐신게 .
+Input: <jj> looking at his face when he was sitting he just said i can guess his age roughly looking at his face i thought he was like that .
+Predicted translation: 막이 뱀 뱀 뱀 뱀 뱀 뱀 뱀 뱀 뱀 뱀 뱀 뱀 뱀 뱀 뱀
+Input: <jj> youre young but i go to the fifthday market and still do well
+Predicted translation: 도 잘도 잘도 잘도 잘도 잘도 놀러 가꾸난 요
+Input: <jj> anyway i did that and its electric mosquito slices and electric mosquito slices
+Predicted translation: 도  ⁇ 리진  ⁇ 리신게 거  ⁇ 고 요
+Input: <jj> you dont know if its pretty or not when you wear a mask right it s heavy . i got off at nohyeong church no speak in dialect the round shape is like the stone used for the gut you want something to eat ?
+Predicted translation: 도 아이 아이 잘도 잘도 허영 잘도 잘도 잘도 잘도 잘도 잘도 잘도 잘도 아이 가신게 거 거 거 거 거 거 거 거 거 거 거 거 거 거 거 거 거 거 거 거 거 거 닮아 .
+Input: <jj> we cant do it with our hearts we have to know that each person can help become a big rock and a stone .
+Predicted translation: 도 막이 무신거 무신거 무신거 무신거 무신거 무신거 무신거 무신거 무신거 막이 막이 막이 막이
+Input: <jj> its crazy just three steps . ithe said there was no such thing i ve never shared it in a neighborhood with him . i said i d introduce you to him but you can t . now whether youre doing business or not to start with something
+Predicted translation: 도 아이 무신거 무신거 무신거 무신거 무신거 무신거 무신거 무신거 무신거 무신거 무신거 무신거 무신거 .
+Input: <jj> that s why i couldn t do it so i just kind of figured it out .
+Predicted translation: 도 막이 겅 막이 겅 막이 겅 막이 겅 막이 막이
+Input: <jj> it s too youtube . its been a month right ? i like having a lot of friends its his fault . you re good to me baby . isnt the snow coming back to me now ?
+Predicted translation: 도  ⁇ 게 거  ⁇ 게 거  ⁇ 게 .
+Input: <jj> but the penalty points are getting penalty points so im going to go in but im going to order a jump rope so that i cant go in and im not going to get punished
+Predicted translation: 도 아이 가사 가사 경헌 게 아이 가사 겅 아이 가신게 거 거 거 거 거 거 거 거 거 거 거 거
+Input: <jj> no i was supposed to trade at but i forgot about it when you re in the field and you pick it up people are coming for you now . there s an adult who wants to buy it if it s sold . like three daughters and three daughters . we ll sell it this year after seven grand and so will we .
+Predicted translation: 도 아이 해신디 나맨 잘도 허영 아이 했댄 핸 . 나맨 아이 해신디 아이 해신디 아이 해신디 아이 해신디 아이 해신디 아이 해신디
+Input: <jj> so i jumped into my car and took it right away . im so angry while running you know that youre doing this because youre doing this because you always put the ball in like this grandmas going for orange they had a traffic accident . i registered but i havent made a card yet burreung burreung burreung
+Predicted translation: 도 아이 나맨 상 년 영 썽  ⁇ 이 거 썽 아이 나왐덴 아이 아이 했고이 영 핸 거  ⁇ 게 영  ⁇ 이 거  ⁇ 게 영 핸 거  ⁇ 게 요 거  ⁇ 이
+Input: <jj> i didn t tell jeju to have a new day because i didn t make that progress . they re all going home but their brothers aren t going home . yesh while eating and when i told him to eat he was worried but he just eats and eats its raining . no no they were satisfied there . i don t care what you say about my service .
+Predicted translation: 도 아이 아이 아이 아이 아이 아이 아이 아이 아이 아이 아이 아이 해신디 아이 해신디 아이 해신디 아이 아이 아이 아이 아이 아이 아이 아이 아이 나한티 아이 나한티 아이 아이 나한티 아이 나왐덴 아이 아이 아이 아이 아이 아이 아이 아이 아이 아이 아이 아이 아이 아이 아이 아이 나왐덴 아이 아이 아이 아이 아이 나한티 아이 나한티
+Input: <jj> a person who has the thought of doing something as he wants to do as he wants
+Predicted translation: 도  ⁇ 은 거 쉰다리러레 울리 팍 거
+Input: <jj> sikhae flounder is making sikhye like real sikhye ?
+Predicted translation: 도  ⁇ 이  ⁇ 고 가젠  ⁇ 게  ⁇ 게
+Input: <jj> if you want to go to europe a little closer go to vladivostok .
+Predicted translation: 도 하믄 가민 하믄 줭
+Input: <jj> that s what i m talking about . i m sure there ll be more guests to eat . im tired of breathing now . its not a medicine that causes this but a medicine that kills it i made rice cakes on the table and bread on the table but it was hard to buy and eat them
+Predicted translation: 도 뱀 뱀 뱀 뱀 뱀 뱀 뱀 뱀 뱀 뱀 뱀 뱀 뱀 뱀 뱀 뱀 뱀 뱀 뱀 거  ⁇ 게 뱀 거 뱀 거  ⁇ 게
+Input: <jj> sprinkle sesame seeds what farming is only in the village so theres nothing else to do i told him to let me go with the crabs but he didn t even have to look for them so . . . if youre hungry after eating the potatoes you can scoop it up with soup and ladle and if its small it was so funny that my friend filmed it in a row i ll do it . i ll do it . i ll do it .
+Predicted translation: 도 못행 예 잘도 허영  ⁇ 게 막이  ⁇ 게 . 거  ⁇ 을  ⁇ 게 막이 봅서 봅서게 . 거  ⁇ 게 막이  ⁇ 시러레 막이  ⁇ 게 .  ⁇ 게 . 거 거 거 거 거 거 거 거 거 거 거 봅서 왓 왓 썽 겅허난 .
+Input: <jj> but did you pretend to have seen it without seeing you guys ? i feel good just looking at the succulents on the veranda when i get angry oh maybe he s a relative across the street . he told me not to put my feet up and i told him not to eat food there . my husband . i dont have much baggage than i thought
+Predicted translation: 도 아이 나영 무신거 거 ? 근디 거 수영으네 거 ? 근디 나맨 잘도 잘도 허영 아이 나영으네 양
+Input: <jj> no looking at the hearing over there the driver and the driver were there seted up at home . we ate pancakes earlier it s okay . i m always so loud i can t sleep . so what kind of bread do you like ? i went to that big hospital and got an examination so im going to get an examination
+Predicted translation: 도 아이 해신디 ? 겅하진 거 자락 거 . 거 자시에 양 예 아이 가능이 거 봅서게 . 거  ⁇ 디여 . 거 봅서 . 거 수영 아이 가신지 않주게 .
+Input: <jj> young people . yeah i think it s more fun . that s what my family used to eat the other day . ive never been there because i came down this winter i don t know . i don t know . i don t know . i tried to take off the one i wore inside and then did it there
+Predicted translation: 도 아이 해신디 아이 해신디 아이 해신디 아이 해신디 아이 해신디 . 아이 해신디 아이 해신디 아이 해신디 아이 해신디 아이 해신디 아이 해신디 아이 해신디
+Input: <jj> if you buy this much won per bottle its amazing
+Predicted translation: 도 하믄 요  ⁇ 러레
+Input: <jj> so the salaries of the office workers are required to be quarterly for the general public officials
+Predicted translation: 시리시  ⁇ 시리시리시리시리기만 잘도
+Input: <jj> i whether i would eat it at home or not i had a scrap meat at home ?
+Predicted translation: 도 못디 나맨 내나 못만 아이 가쥬 ? 나맨 아이 가신디
+Input: <jj> so either make it a chance to sell or . . . now ill talk about gas stations . i can see the day of that event on the road and i m carrying my grandmothers eggs and i m carrying a toilet . i only met my high school friends i didnt meet school people ? iside from shopping oh man im a little parttime these days so its a popular example i bought the same thing and the ones are the same pants as mine
+Predicted translation: 도 아이 양지러레 막이 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 말은 아이 나한티 울리 울리 울리 울리 울리 울리 울리 울리 울리 거시민
+Input: <jj> i have to prepare first and get it later so i need to get it from my son
+Predicted translation: 도 못행 울리 울리 울리 나갈행예
+Input: <jj> since youre a pharmacist you can get that training why did you hear someone saying that i didn t tell them i d tell them i d be sure of it . go to the academy and live three hours i thought it was okay to deliver it it hardened and my mouth was closed
+Predicted translation: 도 아이 해신디 아이 해신디 아이 해신디 해신디 거 거  ⁇ 도 아이 해신디 아이 해신디 아이 해신디 아이 해신디
+Input: <jj> looking at the timing this is it its easy to learn japanese because its order is like korean huge if you get miscarried you have a family i cant say anything i cant say anything this is really too hard really . i decided to get it right and i just got it right at first and wrote it down and scrubbed it like this if this guys wife heard me at that time it would be a good idea to eat well and live well
+Predicted translation: 도 못행 예 예 예 예 예 예 예 예 예 요 나맨 걍 걍 걍 걍 걍 걍 걍 걍 걍 거  ⁇ 게 . 걍 거  ⁇ 만 아이 나영 요 걍 요 걍 요것도 안먹고 요 걍 요 걍 요것도 안먹을 했언 . 걍 요것도 안먹어진 안먹어 .
+Input: <jj> i don t understand why you re so involved in other people s farming .
+Predicted translation: 막이 영 막이 영 허다가 인제 막이 영  ⁇ 예 .
+Input: <jj> since the number of hundreds to three hundreds of gigabytes has increased so much its burdensome to install the pc rooms
+Predicted translation: 도 아이 가진만 솥에 봅서  ⁇ 게  ⁇ 이  ⁇ 이
+Input: <jj> its been a while since we didnt meet up with each other grandmother and grandfather .
+Predicted translation: 시리믄 울리 울리 울리 울리 울리 울리 울리 울리 거예 .
+Input: <jj> i always go on days when its not polluted by the sea but he says he likes it
+Predicted translation: 도 아이 아이 아이 아이 나왐댄 주게 인제
+Input: <jj> oh i just said that school has all the nutrients in it so only eat one meal a day and the rest eat sweet potatoes or cabbage my grandson s got a picture of him so he s like a real killer . i m here because i really don t like lighting lights up . yes i dont complain i ate it but i was told to eat it on an empty stomach so i was going to vomit i think its because of my hair
+Predicted translation: 도 아이 아이 해신디 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 거예 . 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 거예 . 울리 거예 . 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 거예
+Input: <jj> i lost . hey i m having a hard time exercising so i m gonna be doing this . the rest of them trembled and admitted it and the rest of them trembled . no he is a clown . because that kind of drinking game is too old . didnt you do it ?
+Predicted translation: 도 아이 나맨 혼자이 영 학교에 영  ⁇ 도 잘도 허영 아이 아이 해신디 . 나맨 혼자이 영 영 영 영 영  ⁇ 네 . 나맨 잘도 영  ⁇ 도 잘도 잘도 잘도 잘도 잘도 아이 아이 아이 .
+Input: <jj> the tree is really big so it doesnt rain at all ?
+Predicted translation: 이 막이  ⁇ 이 막이 센치지 않거든 ?
+Input: <jj> go well im busy that i cant breathe ?
+Predicted translation: ? 무신거 무신거 가생이 가 ?
+Input: <jj> if you get married you ll still be yeah at the price of food
+Predicted translation: 도 하믄 울리 울리 울리 울리 울리 울리 울리 거
+Input: <jj> its the same in the back and the front is lost lot
+Predicted translation: 도  ⁇ 리민
+Input: <jj> thats a good way but i should do it after the interview do i dye my hair ?
+Predicted translation: 도 아이 훌 무신거 경헌 게 닮아 ?
+Input: <jj> i m at the front and i m the only one who s ever seen the earth roll down .
+Predicted translation: 맏은  ⁇  빙원에서  ⁇ 만  ⁇   ⁇   ⁇
+Input: <jj> it s kaolyu . it s kaolyu .
+Predicted translation: 뱀 뱀 뱀 뱀 뱀 뱀 뱀 봅서
+Input: <jj> im worried about that popularly im old now i also thought of something while talking i don t remember my dad doing that . so if you try to follow everything
+Predicted translation: 도 아이 . 나맨 인제 무신거 거 인제 무신거 무신거 인제 거 같거든 .
+Input: <jj> you shouldnt think this much . uh it lasts a year and renews the contract every year if the west listens well the house will work well . they keep coming in remodeling and sunken because theyre not filled with castles we ll take our kids and we ll take care of them later . how much was that ?
+Predicted translation: 도 아이 핸 . 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 거예 . 울리 거예 . 울리 울리 울리 울리 거  ⁇ 이 거 울리 울리 울리 울리 울리 거 울리 울리 울리 울리 울리 거 울리 거 울리 거예 . 울리 거 울리 거래에 대신지 않지 않지러레 거 울리 거 울리 거 ?
+Input: <jj> i bought it every day and i bought it every day when my mother fell down like this
+Predicted translation: 도 아이 나왐덴 나왐신디 아이 나왐댄
+Input: <jj> because we re the father of the west and we re talking about busan and we re talking about it .
+Predicted translation: 시리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리
+Input: <jj> dont be in a hurry dont be in a hurry with a serious color isnt it like dont be in a hurry
+Predicted translation: 시민이 아이 되시 아이 되시 봅서
+Input: <jj> i have a job and i have something to do and i feel so vague about why i don t think it s my way .
+Predicted translation: 도 못행 허영 허영 빙원 허영 허영 허영 썽예 .
+Input: <jj> are you going to tell us what we live ? imll try that i guess its cut now i ate a lot of things i dont think i can live in a house forever hey not being upset i think it s gonna be okay .
+Predicted translation: 도 인제 무신거 무신거 무신거 무신거 나맨 나맨 나맨 나맨 나맨 나맨 나맨 나맨 나맨 나맨 나맨 나맨 나맨 나맨 나맨 영핸 .
+Input: <jj> isn t that the color that stimulates you ?
+Predicted translation: 도 아니 ?
+Input: <jj> oh but i think i exercise a lot because im a little slimmer than myself
+Predicted translation: 도 근디 나맨 잘도 허영 영 영 영 영 영 허영 영 생각해신디
+Input: <jj> what s the first movie you saw in the movie theater ?
+Predicted translation: 도 영화가 거 영화가 ?
+Input: <jj> that s when the professor went to me and asked me what i was doing at the same class that you asked me to do . so when are you going what if im at the speed now ? no matter how much i think about it all i want to do is travel and i want to get out of here right now . oh okay that s enough . that s it . that dream comes true . i had no time to think about it .
+Predicted translation: 도 인제 무신거 무신거 인제 거 인제 거 인제 거예 . 나맨 인제 무신거 인제 거 자랜 하믄 인제 거 인제 무신거 인제 인제 거 인제 거 인제 무신거 인제 무신거 인제 무신거 인제 무신거 인제 겡 울리 거 자랜 하믄 인제 나이 영 핸 .
+Input: <jj> so i m gonna go . i m here .
+Predicted translation: 서 .
+Input: <jj> park sodam is stabbed to death park sodam is good and all of them are dead ?
+Predicted translation: 도 영 다이 영 영행 영 영 영 영 영행 ?
+Input: <jj> yeah well i said we should go . it doesnt fit us i dont think i recognized that well theyide want to do it i leave my watch a lot when i was in high school warm warm there
+Predicted translation: 도 아이 가신게 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 울리 거
+Input: <jj> i cut my hair at home cut my hair and i took the ground down like this and i cut it off .
+Predicted translation: 도 못  ⁇ 고예 .  ⁇ 만  ⁇ 고예 .
+Input: <jd> grandma says when you watch a movie
+Predicted translation: 영화잉
+Input: <jd> yes thats what you think so i would like to go together . now quite a disappointment for me . i m old these days and i m taking pictures of nuns . there s one of the best actors in the world and that s what i m doing . itinto become a more interesting movie because its refreshing . even after that numerous technologies have been developed for superficial voice films
+Predicted translation: 가 쭉 맨들는 거이 같애 . 지끔  ⁇ 을 값이 어짤 거이 같애 . 지끔  ⁇ 디 어짤 거이 같애 . 지끔  ⁇ 디 어짤 거이 같애 . 지끔 지끔 지끔 지끔 지끔 값이 어짤 수 있는 거이 같애 . 지끔 지끔 지끔 지끔 쌩고 있은께 고  ⁇ 게 .
+Input: <jd> its a little bit like this i ve been using netflix a little bit and i ve been looking for a lot of drama . there the students say i have a conversation with each other i think i need to write a script for a little refinement i really didn t really care about the documentary or anything like this . i think its because he replaced it
+Predicted translation: 가 좀 약깐 좀  ⁇ 께  ⁇ 께  ⁇ 께 이른 곳도 없고잉 좀 마이 좀 마이 좀 마이 좀 마이 좀 더 마이 좀 더 마이 허고
+Input: <jd> ive been to churches but i dont think i want to go like this
+Predicted translation: 지 근디 인제 그른 꺼를 규모 쌩에는 좀
+Input: <jd> when you go on a cruise why do you rest once in the middle .
+Predicted translation: 을 땐 고을 땐  ⁇ 을 띠 고  ⁇ 을 띠
+Input: <jd> you know if you want to you re going to make something attractive and you re going to be successful and you re going to feel like you re going to be able to do something more challenging .
+Predicted translation: 을 모을 쫌 더 따로고 긍게 그른 거이 같다고 하다잉 본께
+Input: <jd> but lets not ride our car for that long this time .
+Predicted translation: 요잉 고 장면 긍게
+Input: <jd> why don t you find out a lot of tastes and stuff ? how many years did you always date thats right it was really hard back then but now you live like this like this i was called by the teacher or doing something else so i couldnt touch her i did it this time for my birthday so i m a problem .
+Predicted translation: 지 안 된 거이  ⁇ 을 수도 있은께  ⁇ 다 본께 인제 안 된닥 안 ?
+Input: <jd> they re offering you watts in watts .
+Predicted translation: 조전에  ⁇ 을  ⁇ 을  ⁇ 을  ⁇ 을  ⁇ 을  ⁇
+Input: <jd> thats very comfortable and they said that air drops are handphones that cant even air drops
+Predicted translation: 이 하도 마이  ⁇ 께 마잉 그른 꺼를 더 마이  ⁇ 이
+Input: <jd> its all separated and theres already a turret record so do i have to do this here
+Predicted translation: 게  ⁇ 이  ⁇ 이  ⁇ 이  ⁇ 이  ⁇ 을  ⁇ 이  ⁇ 고
+Input: <jd> you dont cover your front and back when youre young you dont cover your front and back and someone next to you says this
+Predicted translation:  ⁇ 을 띠 안 안 안 안 안 된닥 찔고 근디
+Input: <jd> i mean if you re not going either you re not going to be like this you re not going to be two or six years old you re going to be like this .
+Predicted translation: 고 이르케  ⁇ 을 찔디 안 된닥 걍 가꾸 긍게
+Input: <jd> i dope you dont have too much time but you said you like brain development so you want to do it again
+Predicted translation: 가 싶고잉 또잉 오면 안 된닥  ⁇ 도
+Input: <jd> its okay but the owner of the specifications is also sorry if you do this youll be annoyed .
+Predicted translation: 요잉  ⁇ 은 클리 클수록 클션도 안다요잉 .
+Input: <jd> i heard its an industrial calculator and all the kids used that these days
+Predicted translation: 가  ⁇ 리믄  ⁇   ⁇ 다 본께 안 허는 게잉 안인디
+Input: <jd> dont do this or the bahamas travel destination here here yes
+Predicted translation:  ⁇ 리로  ⁇ 께  ⁇ 께  ⁇
+Input: <jd> in comparison to the phone its an item that corresponds to a primitive feature phone so at the end of the hundredths and septuagints
+Predicted translation: 이  ⁇ 에 대한  ⁇ 을  ⁇ 다 본께로로로로로로로로
+Input: <jd> do you want me to leave that for ten years or do you want me to leave that with jatech ?
+Predicted translation: 만  ⁇ 을 해줄게 해줄게 해가주고 그른 게잉 아니라잉 그른 게잉
+Input: <jd> i wll do it when i go to work and ill do it while i was doing it
+Predicted translation: 게 해가주고 인제  ⁇ 을 허고 싶고잉
+Input: <jd> i think i ve seen a lot of them . there s a guy who s got a little bit of leadership around here that doesn t look familiar . she tried to turn the words to some extent that s why i think it s changing . because im in a hurry
+Predicted translation: 가 좀 더는 거이 같애요잉 . 근디 인제 그른 거이 같애 .
+Input: <jd> it was a little warm in the fall . first of all i m most concerned about the safety of my eyes in winter . that s why i thanked you and went back to kang neung . that s right so . . . oh this is a little difficult . so i didnt but its a little big now
+Predicted translation: 게 된 거이 같애 .  ⁇ 께  ⁇ 께  ⁇ 을  ⁇ 을  ⁇ 을  ⁇ 을  ⁇ 을  ⁇ 을  ⁇ 디여 .
+Input: <jd> what i can see is red so i just have to put in red pepper paste i dont know a lot of things but i dont know if i want to make it sweet
+Predicted translation: 게 되냐 긍게 고 쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜
+Input: <jd> the goal was to get ahead of the process and start to feel the fun of that murder . it s been a long time . oh my anyway he fell into a celebrity who had passed by its pretty . well that s really interesting . in any case we re gonna have to make a little bit of a baseline .
+Predicted translation: 지 말했던 거이 같고잉 또잉 고 고 고  ⁇ 을 때게 해볼을 때게 .
+Input: <jd> honestly only korea is there how is it that korea is not the only one
+Predicted translation: 가  ⁇ 이 캉상에 대한  ⁇ 이
+Input: <jd> and now after ten days it s over a week so oh my god the more i put on the better it s going to be .
+Predicted translation: 가 옳은 거이 같여 .
+Input: <jd> a little bit of a recent idea is that if you manage well when you re young
+Predicted translation: 을 쫌 좋아혀지 좀
+Input: <jd> don t come around . you keep telling me how good you are and i m gonna take you out . ajit . we re ajit . yeah i ve been to the hill of the wind . yeah i ll have to try it later . the internet is doing well these days i husually had to go at oclock but i had to get on a plane to get up
+Predicted translation: 게 옳게  ⁇ 도  ⁇ 다 .  ⁇ 게  ⁇ 디  ⁇ 을  ⁇ 을  ⁇ 을  ⁇ 다 .
+Input: <jd> so suzy there was a family of suzy mom dad and sister
+Predicted translation: 가 있은께 어때는 거이 때매 근디
+Input: <jd> its very expensive . it s also a big ipad and uh it s so expensive these days and that s why it s so much more expensive . i didnt feel the need to buy an apple watch ims actually doing it to see it to that extent i feel a little bit like that too . what i want to have is that we cant buy electronic devices because theyre usually expensive
+Predicted translation: 게 고거 안 된닥  ⁇  . 긍게 그른 게잉 아니라잉 안 된 거이 안 된닥  ⁇ 도 안 된 거이 같애 . 긍게 그른 게잉 아니라잉 그른 게잉 아니라잉 또잉  ⁇ 고 긍게 그른 거이 같애 . 긍게 그른 거이 같애 . 긍게 그른 게잉 아니라잉 안 된 거이 같애 .
+Input: <jd> he doesn t eat it again because he s hot . i m so happy for you and i m happy for you now . you ve got a lot of flu vaccines this time . she was being treated and she sat down in a group .
+Predicted translation: 가 찔뻐가지고 요시 댓디 찔디 그러드라고 .
+Input: <jd> i ve decided to do something a little bit bigger . does it feel like theyre talking a little slowly on purpose when youre talking ? its getting loser and its quite urgent
+Predicted translation: 지 말짝에 값을  ⁇ 을  ⁇ 을  ⁇ 을  ⁇ 을  ⁇ 도 안 대는 거이 같애요잉 .
+Input: <jd> i go to a pharmacy but i go to another pharmacy not the pharmacy i work for and its not until i get sick
+Predicted translation: 사 못만 원을 띠 가꾸 내잉 내만 원을 띠 근디
+Input: <jd> i woke up in the morning and i was knitting and i saw the tv .
+Predicted translation: 장  ⁇ 어버리 쌩 쌩 쌩 쌩  ⁇ 을  ⁇ 을 쌩더라고 .
+Input: <jd> now i m gonna see what i m doing .
+Predicted translation: 고 인제 인자 인제
+Input: <jd> at that time i said that they would come to seoul but the older people there are and weve got older
+Predicted translation: 가 모 그른 곳도 고 거이 같은디
+Input: <jd> im going to be crazy because i have affection . well but its true that parents faults are very big so i thought right away for example i would try to get rid of the smell she s still young but that s why she loves going to her grandma s house because she knows like a ghost . thats a pain in my heart . thats right thats right thats right
+Predicted translation: 가  ⁇ 께  ⁇ 을 쩜쩜쩜 또잉 그른 게잉 아니라잉 그른 게잉 아니라잉 그른 게잉 아니라잉 그른 게잉 아니라잉 고  ⁇ 게 그른 게잉 아니라잉 그른 게잉 아니라잉 그른 거이 같애 . 긍게 그른 게잉 아니라잉 또잉  ⁇ 을 안될 거이 같애 . 긍게 그른 게잉 아니라잉 그른 게잉 아니라잉 또잉  ⁇ 을 안전을 안전을 안전을 맨 허다가
+Input: <jd> what s wrong with you and your wife and what s wrong with you ?
+Predicted translation: 지 뭐 쌩고  ⁇ 고 쌩더라도 안 하다잉 ?
+Input: <jd> i have too many . when do i do all this ? my shoulder hurts . just a little bit of a bucket . yes but now i m okay i can collect up to won . that s a little bit of a thing . he s a little smaller than you and lee . thats right the kimchi you gave me last time was so good
+Predicted translation: 가 좀 더는 거이 같애요잉 . 쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜쩜
+Input: <jd> its a memory and on instagram whats good about me is that i can find these friends i didnt know a little bit .
+Predicted translation: 가 좀 마이  ⁇ 을 값이 좀 마이 엮어 .
+Input: <jd> that s why i had to take the air conditioner and put it in the room but i didn t let it go so i got off the top of it and he died the next day .
+Predicted translation: 가  ⁇ 고  ⁇ 고  ⁇ 고  ⁇ 고 안 안 안 대는  ⁇ 고 안 대는  ⁇
+Input: <jd> eh imae imaek im using it but the reason imaek imaek imaek im buying it because i didnt buy it because i was afraid i was going to play a game
+Predicted translation: 을  ⁇ 을 때도야  ⁇ 을 띠 안전을 안전을  ⁇ 을  ⁇ 을  ⁇ 을  ⁇
+Input: <jd> i sold that i couldnt even choose a cheap one so i just gave up early
+Predicted translation: 가 쌩려가 쌩도 쌩도 안 되는디
+Input: <jd> because of covid i originally lived abroad but now i came to korea because of covid i don t have that high salary so i think there s a problem with that too . once is it the tube box ? i don t know if i should be a little bit special at any given moment but what i ve heard lately is
+Predicted translation: 가 어렸을 띠 고 전학을 띠 그는 거이 마이 가긴 한디 근디 근디 근디 근디 근디 인자 그랑께 그른 거이 같은디
+Input: <jd> i don t care about it and i don t care about it and i do what i want to do and i don t care about what the employees are laughing at . i just got a phone call to call my mom and i just lost it on the bus in the middle of it again . since you did it at all
+Predicted translation: 지 안 안 혔고 싶고잉 걍 안 된 거이 같애잉 근디 걍 안 안 안 안 안 안 안 된 거이 같애잉 안 안녕 안녕 안녕 안녕
+Input: <jd> civil engineering is like that what certificate do you have ? so it changed so that there were a lot of peripheral problems so its a little difficult . there s already been a growing popularity of animal programs in tv programs . i m not coming either . but it s now developed as a military drone in the early s . oh i heard that these days .
+Predicted translation: 게 인제 그른 거이 같여 .  ⁇ 이  ⁇ 이 하도 마이 값이  ⁇ 이  ⁇ 이  ⁇ 이  ⁇ 이  ⁇ 이  ⁇ 이 값이 값이  ⁇ 고 . 긍게 그른 거이 같애 . 긍게 그른 거이 같애 .
+Input: <jd> but i don t know she s just gone . so i think thats a good person with interior designs but i also do but since ikea is not the regular furniture store and she s hugely wide there were times when the store next door sent flower delivery like this sometimes a lot of shopping a lot of shopping just a lot of shopping . call your motherinlaw and make sure to give it to her once every two days
+Predicted translation: 가 근디 인자 총에 안 된 거이 내잉 그른 거이 그른 거이 같애 . 근디 근디 근디 근디 근디 그또  ⁇ 을  ⁇ 을 안있잖아요잉 . 근디 인제 지끔 지끔 지끔 지끔 지끔 지끔 지끔 지끔 지끔 안 된 거이 같애 . 근디 울 근디 인자 그는 그른 거이 같애 . 근디 인자 쌩게 마잉 그른 거이 같애 .
+Num of Sample: 59
+Total Score: 0.5750463494561953
+Input: <gs> its not like your waist or your back its not like you can come to your knees or you can come to your knees or you can come like this
+Predicted translation: 니 말하느 기 알았느 돟은 꺼 삘에 삘이머 삘이 삘이머  ⁇ 대이 아이가
+Input: <gs> so if i give birth to a child later im going to raise her in the opposite direction rather than a patriarchal and very strict family
+Predicted translation: 를  ⁇ 꼬 또 쌩머  ⁇ 꼬 또  ⁇ 꼬 막 이케  ⁇ 꼬 또  ⁇ 꼬
+Input: <gs> i cant study gold grass but it doesnt make sense to be a doctor
+Predicted translation: 이가 그래나가 쌩나 염을 꺼 겉은데
+Input: <gs> imasking if you could tell me my melon id and password and saying im going to put my phone out naturally .
+Predicted translation: 대이 내느 내나 친구나 인대이 걍 내 인대이 걍  ⁇ 대이 아가  ⁇ 대이 아가  ⁇ 대이 아가  ⁇ 대이 카느 기
+Input: <gs> i think its convenient for humans but in every way it was really long time ago
+Predicted translation: 니가 그기 쫌 알았느 되느 꺼 겉은데 내느 내나마대이 아이가 .
+Input: <gs> tron rock i know tron but its also there
+Predicted translation: 데 찰 읍대이 뭐 읍대이 아이가
+Input: <gs> i hope you have a little young day trying not to go through it yeah if you gain a lot of weight you have cholesterol levels when preparing for wedding men say that they like folic acid so they eat folic acid . you know the one that carries a small string on one side the one thats really small and the one thats light
+Predicted translation: 니느 막 고런 껄 쫌 마이 알았느 그도 고런 꺼 겉은데 니 말꼬 막 고런 꺼 같애예 . 어 니느 흔들꼬 막 맑대이 보이꼬 인대이 막 고런 껄 쫌 삘에 인대이 쫌 더 마이 했꼬 어 니느 값을 쫌 더  ⁇ 꼬 어 니느 맑을 쫌 더 맑꼬
+Input: <gs> should i do it i think i should do it but when you learn the machine its a little subdivided from that machine
+Predicted translation: 대이 쫌 더 카꼬 싶은데 카긴 하구마 지느 인대이 핸 번씩 쫌 더 이케
+Input: <gs> yeah i ve seen a lot of that stuff .
+Predicted translation: 니느 마이 마이 마이 했꼬 .
+Input: <gs> its a little bit reasonable to open the door for a little ventilation in the morning right
+Predicted translation: 고런  ⁇ 이 쫌  ⁇ 꼬 걍  ⁇ 꼬 막
+Input: <gs> i gave him a little bit of won each and even if he did a long time he gave him tens of millions of won
+Predicted translation: 이가 쫌 쭐았는데 걍 쭐단 말이라꼬
+Input: <gs> i want to grind all the fryers if you have a little thought about this if you express the product like this do you have any other sns ? but its a little expensive its like seconds or seconds i did it a lot like that even if i took pictures just taking pictures of landscapes or something
+Predicted translation: 이가 이케 쫌 알았느 칼 땐 인대이 내 인대이 쫌  ⁇ 꼬 막  ⁇ 꼬 막  ⁇ 꼬 어 쫌  ⁇ 예 지느 쫌  ⁇ 꼬 ?
+Input: <gs> i heard you ll be there soon . you ll take care of her for public school ?
+Predicted translation: 니느 걔 아가  ⁇ 꼬 고런 꺼 겉은데 걍  ⁇ 꼬 ?
+Input: <gs> its like we are reunited after years of age .
+Predicted translation: 이케 인대이  ⁇ 지를 인대이  ⁇ 지를 인대이  ⁇ 꼬
+Input: <gs> but he thinks it s better when there s a lot of kids he might like a little bit .
+Predicted translation: 데 어 쫌 마이 밸지를 캐야 되노 고런 기 쫌 마이 했지마
+Input: <gs> yesh i went to the villa and looked at it
+Predicted translation: 데 내나에 대꼬 인대이
+Input: <gs> it s hot it s hot it s warm it s a little warm .
+Predicted translation: 니느 삘이 쫄리꼬 삘이 삘이  ⁇ 지를
+Input: <gs> i just asked how to save money so i said its good to make a subscription account with this much installment savings and fund people around me say that people around me say that if you do that its so scattered so it started from the s of our age so its time to watch tv and let s move on to something else .
+Predicted translation: 니느 고런 꺼 겉은데 걍 그 돈을 핸 번에 대마 걍  ⁇ 을 꺼 겉은데 걍  ⁇ 꼬 막  ⁇ 꼬 막 이케 막 고런 꺼 겉대이 아가 걍 끕으로 인대이 걍  ⁇ 꼬 막 이케 막 이케 막 고런 꺼 겉대이 아가 걍  ⁇ 도 쫌 더 인대이  ⁇ 꼬 막 이케  ⁇ 꼬 인대이 고런 꺼 겉은데
+Input: <gs> the minimum cost is a little high so i thought a lot about it and ate it .
+Predicted translation: 겉은 꺼꼬 막 쫄대이 보이꼬 인대이  ⁇ 꼬 막 흔이 쫌 맑대이 .
+Input: <gs> helper if you do it again will you watch it again ?
+Predicted translation: 또 또 또 또 또 또 또 또 또 또 또 또 또 또 또 또 또
+Input: <gs> i m gonna buy it from the air . it s a little less pressure on my ankle . it s comfortable walking .
+Predicted translation: 에느 쫌  ⁇ 리다꼬  ⁇ 께  ⁇ 꼬 막  ⁇ 께  ⁇ 지를 .
+Input: <gs> its very proud and envious to see people who succeed at a young age i was doing this because i got a crisis so i thought you should go to the competition . im at a nightclub and the palace is shaking . when you watch tv in the past set the goal in detail anyway or what kind of singer was it ? then i wouldnt be able to go there this time you are economical but by doing that
+Predicted translation: 니느 니느 인대이 뭐  ⁇ 꼬 인대이 쫌  ⁇ 꼬 막 이케  ⁇ 꼬 막 이케  ⁇ 꼬 인대이 뭐 걍  ⁇ 꼬 막 고런 꺼 같거든예 . 고런 꺼 같았던 꺼 같았꼬 인대이 쫌 마이 인대이 쫌 마이 인대이 쫌  ⁇ 꼬 ? 니 말이라꼬 ? 어 쫌  ⁇ 꼬 ? 어떤 꺼 같았나 ?
+Input: <gs> i lread the food i like a little bit because i really like the type of seafood . so now i m being careful . but you know one pack is going to be a little short . you have to buy two packs . i thought it was because it came out because it was done and thought about why squid sashimi is coming out like this . uh thin ham like this dakgalbi is still hovering in my head right now ?
+Predicted translation: 데 어 쫌 찰 어 고런 긋도 어 쫌 쭐꼬 어 고런 껄 쫌 쭐이 있었꼬 어릴 꺼 같거든 . 어떤지를 . 어 고런 껄 쫌 마이 봅꼬 어 쫌 삔또 어 쫌 삔또 어 고런 껄로예 . 어 쫌 센스트가 쫌 더  ⁇ 꼬 어니예 .
+Input: <gs> i talked to my brother about it and he was a little more serious than usual .
+Predicted translation: 니느 고런 꺼 겉은데 그기 그기 그기 그기 그기 그기 그기 쫌 더 마이 알았느 그도
+Input: <gs> when i look at boys younger than me it feels like they are just looking at their younger brothers and they dont feel like men .
+Predicted translation: 금마 염꼬 또 찰도 염꼬 어플들꼬 막  ⁇ 꼬
+Input: <gs> in our case the size of the unit was a little unitary and there were not many people and now the executives were very strong .
+Predicted translation: 겉은 경우에느 그기 쫌  ⁇ 꼬 또 센치 밸로  ⁇ 이  ⁇ 사  ⁇ 사  ⁇
+Input: <gs> well there s nothing else to think about and i m just trying to focus on what s going on .
+Predicted translation: 겉은 꺼 겉대이 걍  ⁇ 꼬 걍  ⁇ 꼬 이른 긋도 있고이
+Input: <gs> but why did i always tell you that i have to eat it when i go to gangneung .
+Predicted translation: 데 내 내느 데 내 내느 데 내나 데 그라꼬 데 그라꼬 데 그라꼬 데
+Input: <gs> and he said look for something hot and not something like western style .
+Predicted translation: 니느  ⁇ 예 그기  ⁇ 지를 카꼬  ⁇ 지를 카꼬
+Input: <gs> but its just worrying about its frustrating im thinking of looking into stocks a little bit now but im still compare those worries like this i m a little bit vulnerable to this . you should say that you opened your eyes for the first time in financial technology before that i eshaped it like this
+Predicted translation: 트를 이케 어 쫌  ⁇ 께 걍 끕으로 이케  ⁇ 꼬 막 이케  ⁇ 꼬 그래도 쫌  ⁇ 긴 하구마 어 쫌  ⁇ 긴 하구마 어 고런 꺼 겉대이 아가 쫌 더  ⁇ 께 어 쫌 더 이케 쫌 더 쫌 더 그래가 쫌
+Input: <gs> i thsh is too so i thought it would taste good if it cooked a little bit
+Predicted translation: 니가 쫌  ⁇ 께 내느 인대이 쫌  ⁇ 께 내느 인대이 쫌
+Input: <gs> to be honest its better to just eat something else with that money its im three thousand won per person
+Predicted translation: 겉은 경우에 대마 걍 걍 걍 걍 기마 걍 기 쫌 기마 걍 기마 걍
+Input: <gs> i was disappointed should i say it was too light the people who do it really hurt a little i used to go to concerts a lot like buying tickets like this i bought tickets for musicals online and watched them so i still watch them i tasted time and looked at it from beginning to end ite is so thrilling to hear that you responded .
+Predicted translation: 다꼬 인대이 쫌 마이 알았느 좋께 내느 인대이 쫌 알았느 되느 꺼 겉은데 내느 인대이 막 이케 쫌  ⁇ 꼬 막 이케 막 이케 막 그느 쫌  ⁇ 꼬 막 고런 꺼 같드라꼬 그서 지느 인대이 쫌 마이 캤는데 인대이 쫌 마이 했었어예 지느 인대이 막 이케 막 이케 막 고런 꺼 같대이 보이꼬 인대이 쫌
+Input: <gs> because you added your wife to your overseas trip i tend to take a lot of pictures you have nothing to eat and your brother has nothing to eat but a big dog . well we used to be good at what s going on in jeju island . then you dont do this year after getting off i couldnt find a small taxi so i took a big taxi and just two carriers went over kilometers .
+Predicted translation: 트를 이케 마이 알았느 맞꼬 인대이 걍  ⁇ 꼬 그머리꼬 인대이  ⁇ 꼬 인대이  ⁇ 꼬 인대이  ⁇ 꼬 막  ⁇ 시꼬 인대이 걍  ⁇ 시머 걍 마이 해가주꼬 걍 마이 알았느 되니께네 걍  ⁇ 시머리꼬 . 니들에 또 그 그 인대이  ⁇ 시대이 아이가 . 고런 꺼 같대이 .
+Input: <gs> if you just add one more cheese in the shanghai chicken cheese burger thats the shanghai chicken cheese burger
+Predicted translation: 초에 핸 번에 핸 번에 핸 번에  ⁇ 꼬  ⁇ 꼬
+Input: <gs> it s it s a little too much attention and i think it s poison to them .
+Predicted translation: 트를 인대이 쫌 더  ⁇ 꼬 걍 삔또 삔또 쫌 더 삔또 꺼 같애 .
+Input: <gs> even if we fight for years we live together for almost years and i think the two children will be chairs a little more so at least i
+Predicted translation: 겉은 경우에 카느 꺼 같단하꼬 또 인대이 핸 명이 고로 오꼬
+Input: <gs> you said you had a good exercise with a sore throat . you just washed roughly and slept right away ? what is it youtuber do you know the preparation ?
+Predicted translation: 니느 니느 혹시 걍  ⁇ 도 걍  ⁇ 도 알았느 총 총  ⁇ 리꼬 걍  ⁇ 대이 아가 캠핑크  ⁇ 꼬 ?
+Input: <gs> its not like your waist or your back its not like you can come to your knees or you can come to your knees or you can come like this
+Predicted translation: 니 말하느 기 알았느 돟은 꺼 삘에 삘이머 삘이 삘이머  ⁇ 대이 아이가
+Input: <gs> so if i give birth to a child later im going to raise her in the opposite direction rather than a patriarchal and very strict family
+Predicted translation: 를  ⁇ 꼬 또 쌩머  ⁇ 꼬 또  ⁇ 꼬 막 이케  ⁇ 꼬 또  ⁇ 꼬
+Input: <gs> i cant study gold grass but it doesnt make sense to be a doctor
+Predicted translation: 이가 그래나가 쌩나 염을 꺼 겉은데
+Input: <gs> imasking if you could tell me my melon id and password and saying im going to put my phone out naturally .
+Predicted translation: 대이 내느 내나 친구나 인대이 걍 내 인대이 걍  ⁇ 대이 아가  ⁇ 대이 아가  ⁇ 대이 아가  ⁇ 대이 카느 기
+Input: <gs> i think its convenient for humans but in every way it was really long time ago
+Predicted translation: 니가 그기 쫌 알았느 되느 꺼 겉은데 내느 내나마대이 아이가 .
+Input: <gs> tron rock i know tron but its also there
+Predicted translation: 데 찰 읍대이 뭐 읍대이 아이가
+Input: <gs> i hope you have a little young day trying not to go through it yeah if you gain a lot of weight you have cholesterol levels when preparing for wedding men say that they like folic acid so they eat folic acid . you know the one that carries a small string on one side the one thats really small and the one thats light
+Predicted translation: 니느 막 고런 껄 쫌 마이 알았느 그도 고런 꺼 겉은데 니 말꼬 막 고런 꺼 같애예 . 어 니느 흔들꼬 막 맑대이 보이꼬 인대이 막 고런 껄 쫌 삘에 인대이 쫌 더 마이 했꼬 어 니느 값을 쫌 더  ⁇ 꼬 어 니느 맑을 쫌 더 맑꼬
+Input: <gs> should i do it i think i should do it but when you learn the machine its a little subdivided from that machine
+Predicted translation: 대이 쫌 더 카꼬 싶은데 카긴 하구마 지느 인대이 핸 번씩 쫌 더 이케
+Input: <gs> yeah i ve seen a lot of that stuff .
+Predicted translation: 니느 마이 마이 마이 했꼬 .
+Input: <gs> its a little bit reasonable to open the door for a little ventilation in the morning right
+Predicted translation: 고런  ⁇ 이 쫌  ⁇ 꼬 걍  ⁇ 꼬 막
+Input: <gs> i gave him a little bit of won each and even if he did a long time he gave him tens of millions of won
+Predicted translation: 이가 쫌 쭐았는데 걍 쭐단 말이라꼬
+Input: <gs> i want to grind all the fryers if you have a little thought about this if you express the product like this do you have any other sns ? but its a little expensive its like seconds or seconds i did it a lot like that even if i took pictures just taking pictures of landscapes or something
+Predicted translation: 이가 이케 쫌 알았느 칼 땐 인대이 내 인대이 쫌  ⁇ 꼬 막  ⁇ 꼬 막  ⁇ 꼬 어 쫌  ⁇ 예 지느 쫌  ⁇ 꼬 ?
+Input: <gs> i heard you ll be there soon . you ll take care of her for public school ?
+Predicted translation: 니느 걔 아가  ⁇ 꼬 고런 꺼 겉은데 걍  ⁇ 꼬 ?
+Input: <gs> its like we are reunited after years of age .
+Predicted translation: 이케 인대이  ⁇ 지를 인대이  ⁇ 지를 인대이  ⁇ 꼬
+Input: <gs> but he thinks it s better when there s a lot of kids he might like a little bit .
+Predicted translation: 데 어 쫌 마이 밸지를 캐야 되노 고런 기 쫌 마이 했지마
+Input: <gs> yesh i went to the villa and looked at it
+Predicted translation: 데 내나에 대꼬 인대이
+Input: <gs> it s hot it s hot it s warm it s a little warm .
+Predicted translation: 니느 삘이 쫄리꼬 삘이 삘이  ⁇ 지를
+Input: <gs> i just asked how to save money so i said its good to make a subscription account with this much installment savings and fund people around me say that people around me say that if you do that its so scattered so it started from the s of our age so its time to watch tv and let s move on to something else .
+Predicted translation: 니느 고런 꺼 겉은데 걍 그 돈을 핸 번에 대마 걍  ⁇ 을 꺼 겉은데 걍  ⁇ 꼬 막  ⁇ 꼬 막 이케 막 고런 꺼 겉대이 아가 걍 끕으로 인대이 걍  ⁇ 꼬 막 이케 막 이케 막 고런 꺼 겉대이 아가 걍  ⁇ 도 쫌 더 인대이  ⁇ 꼬 막 이케  ⁇ 꼬 인대이 고런 꺼 겉은데
+Input: <gs> the minimum cost is a little high so i thought a lot about it and ate it .
+Predicted translation: 겉은 꺼꼬 막 쫄대이 보이꼬 인대이  ⁇ 꼬 막 흔이 쫌 맑대이 .
+Input: <gs> helper if you do it again will you watch it again ?
+Predicted translation: 또 또 또 또 또 또 또 또 또 또 또 또 또 또 또 또 또
+Input: <gs> i m gonna buy it from the air . it s a little less pressure on my ankle . it s comfortable walking .
+Predicted translation: 에느 쫌  ⁇ 리다꼬  ⁇ 께  ⁇ 꼬 막  ⁇ 께  ⁇ 지를 .
+Input: <gs> its very proud and envious to see people who succeed at a young age i was doing this because i got a crisis so i thought you should go to the competition . im at a nightclub and the palace is shaking . when you watch tv in the past set the goal in detail anyway or what kind of singer was it ? then i wouldnt be able to go there this time you are economical but by doing that
+Predicted translation: 니느 니느 인대이 뭐  ⁇ 꼬 인대이 쫌  ⁇ 꼬 막 이케  ⁇ 꼬 막 이케  ⁇ 꼬 인대이 뭐 걍  ⁇ 꼬 막 고런 꺼 같거든예 . 고런 꺼 같았던 꺼 같았꼬 인대이 쫌 마이 인대이 쫌 마이 인대이 쫌  ⁇ 꼬 ? 니 말이라꼬 ? 어 쫌  ⁇ 꼬 ? 어떤 꺼 같았나 ?
+Input: <gs> i lread the food i like a little bit because i really like the type of seafood . so now i m being careful . but you know one pack is going to be a little short . you have to buy two packs . i thought it was because it came out because it was done and thought about why squid sashimi is coming out like this . uh thin ham like this dakgalbi is still hovering in my head right now ?
+Predicted translation: 데 어 쫌 찰 어 고런 긋도 어 쫌 쭐꼬 어 고런 껄 쫌 쭐이 있었꼬 어릴 꺼 같거든 . 어떤지를 . 어 고런 껄 쫌 마이 봅꼬 어 쫌 삔또 어 쫌 삔또 어 고런 껄로예 . 어 쫌 센스트가 쫌 더  ⁇ 꼬 어니예 .
+Input: <gs> i talked to my brother about it and he was a little more serious than usual .
+Predicted translation: 니느 고런 꺼 겉은데 그기 그기 그기 그기 그기 그기 그기 쫌 더 마이 알았느 그도
+Input: <gs> when i look at boys younger than me it feels like they are just looking at their younger brothers and they dont feel like men .
+Predicted translation: 금마 염꼬 또 찰도 염꼬 어플들꼬 막  ⁇ 꼬
+Input: <gs> in our case the size of the unit was a little unitary and there were not many people and now the executives were very strong .
+Predicted translation: 겉은 경우에느 그기 쫌  ⁇ 꼬 또 센치 밸로  ⁇ 이  ⁇ 사  ⁇ 사  ⁇
+Input: <gs> well there s nothing else to think about and i m just trying to focus on what s going on .
+Predicted translation: 겉은 꺼 겉대이 걍  ⁇ 꼬 걍  ⁇ 꼬 이른 긋도 있고이
+Input: <gs> but why did i always tell you that i have to eat it when i go to gangneung .
+Predicted translation: 데 내 내느 데 내 내느 데 내나 데 그라꼬 데 그라꼬 데 그라꼬 데
+Input: <gs> and he said look for something hot and not something like western style .
+Predicted translation: 니느  ⁇ 예 그기  ⁇ 지를 카꼬  ⁇ 지를 카꼬
+Input: <gs> but its just worrying about its frustrating im thinking of looking into stocks a little bit now but im still compare those worries like this i m a little bit vulnerable to this . you should say that you opened your eyes for the first time in financial technology before that i eshaped it like this
+Predicted translation: 트를 이케 어 쫌  ⁇ 께 걍 끕으로 이케  ⁇ 꼬 막 이케  ⁇ 꼬 그래도 쫌  ⁇ 긴 하구마 어 쫌  ⁇ 긴 하구마 어 고런 꺼 겉대이 아가 쫌 더  ⁇ 께 어 쫌 더 이케 쫌 더 쫌 더 그래가 쫌
+Input: <gs> i thsh is too so i thought it would taste good if it cooked a little bit
+Predicted translation: 니가 쫌  ⁇ 께 내느 인대이 쫌  ⁇ 께 내느 인대이 쫌
+Input: <gs> to be honest its better to just eat something else with that money its im three thousand won per person
+Predicted translation: 겉은 경우에 대마 걍 걍 걍 걍 기마 걍 기 쫌 기마 걍 기마 걍
+Input: <gs> i was disappointed should i say it was too light the people who do it really hurt a little i used to go to concerts a lot like buying tickets like this i bought tickets for musicals online and watched them so i still watch them i tasted time and looked at it from beginning to end ite is so thrilling to hear that you responded .
+Predicted translation: 다꼬 인대이 쫌 마이 알았느 좋께 내느 인대이 쫌 알았느 되느 꺼 겉은데 내느 인대이 막 이케 쫌  ⁇ 꼬 막 이케 막 이케 막 그느 쫌  ⁇ 꼬 막 고런 꺼 같드라꼬 그서 지느 인대이 쫌 마이 캤는데 인대이 쫌 마이 했었어예 지느 인대이 막 이케 막 이케 막 고런 꺼 같대이 보이꼬 인대이 쫌
+Input: <gs> because you added your wife to your overseas trip i tend to take a lot of pictures you have nothing to eat and your brother has nothing to eat but a big dog . well we used to be good at what s going on in jeju island . then you dont do this year after getting off i couldnt find a small taxi so i took a big taxi and just two carriers went over kilometers .
+Predicted translation: 트를 이케 마이 알았느 맞꼬 인대이 걍  ⁇ 꼬 그머리꼬 인대이  ⁇ 꼬 인대이  ⁇ 꼬 인대이  ⁇ 꼬 막  ⁇ 시꼬 인대이 걍  ⁇ 시머 걍 마이 해가주꼬 걍 마이 알았느 되니께네 걍  ⁇ 시머리꼬 . 니들에 또 그 그 인대이  ⁇ 시대이 아이가 . 고런 꺼 같대이 .
+Input: <gs> if you just add one more cheese in the shanghai chicken cheese burger thats the shanghai chicken cheese burger
+Predicted translation: 초에 핸 번에 핸 번에 핸 번에  ⁇ 꼬  ⁇ 꼬
+Input: <gs> it s it s a little too much attention and i think it s poison to them .
+Predicted translation: 트를 인대이 쫌 더  ⁇ 꼬 걍 삔또 삔또 쫌 더 삔또 꺼 같애 .
+Input: <gs> even if we fight for years we live together for almost years and i think the two children will be chairs a little more so at least i
+Predicted translation: 겉은 경우에 카느 꺼 같단하꼬 또 인대이 핸 명이 고로 오꼬
+Input: <gs> you said you had a good exercise with a sore throat . you just washed roughly and slept right away ? what is it youtuber do you know the preparation ?
+Predicted translation: 니느 니느 혹시 걍  ⁇ 도 걍  ⁇ 도 알았느 총 총  ⁇ 리꼬 걍  ⁇ 대이 아가 캠핑크  ⁇ 꼬 ?
+Input: <cc> so i cook soybean paste stew for clams and eat a little bit and other clams
+Predicted translation: 구구구구 쫌 마이 드구 쫌 마이 먹구유 근디 내는 인자 봅구
+Input: <cc> that s why i like it and i like it a little bit here and i like it a little bit and i like it so much .
+Predicted translation: 구 그른 꺼 같애유 그서 쫌 혀구 검거지 그른 꺼 같애유 그서 그른 꺼 같애유 그서
+Input: <cc> theres no ski mark on the white slope once a car goes and theres no ski mark . i guess im sensitive to the air so im sensitive to the temperature in spring its good for sprouts to come up like this ? is it because i want to eat something warm because its so cold it felt like that . i don t know why .
+Predicted translation: 구 머슨  ⁇ 두  ⁇ 도 쫌  ⁇ 여 가주구 검거지  ⁇ 한 꺼 같애 . 그릏다구 검거지  ⁇ 구유 . 그  ⁇ 구 머지 않구 쫌  ⁇ 구  ⁇ 구 머지 않구 머지 않구 머지 않구 머지 않구 쫌  ⁇ 두 가주구 그래두  ⁇ 두 쫌  ⁇ 두 몬  ⁇ 두 몬  ⁇ 두 몬  ⁇ 두 몬  ⁇  .
+Input: <cc> since then i left my hair unattended for an hour so my scalp hurts a little and my head got so damaged
+Predicted translation: 이 찰이  ⁇ 혀 오구 머리가 약깐  ⁇ 을  ⁇ 을  ⁇ 혀
+Input: <cc> it s a lot of fun getting to know you and getting to know you you know when the stock goes up and down you know when i what what what is it ?
+Predicted translation: 구 이릏게 이릏게 이릏게 이릏게 구  ⁇ 을 띠 구  ⁇ 을 띠 구 꺼 같드라구
+Input: <cc> no i dont think thats a bit of a problem so what are you going to do with the movie ?
+Predicted translation: 구 머 머 머 머 머 머 머스마한 꺼 같구유 ?
+Input: <cc> when something is going to get a little angry a little bit of mind is going to settle down when you listen to this singer s song .
+Predicted translation: 도 쫌 약깐 쫌 약깐 쫌 약깐 쫌 약깐 쫌 약깐 쫌 약깐 쫌 약깐 쫌 있었어서
+Input: <cc> or im not going to be photographed with parking violations and once i live with my parents in chilgeumdong
+Predicted translation: 이  ⁇ 도 쫌 다  ⁇ 도 다  ⁇ 도 알은 혀구 검거지 전이 있었어서
+Input: <cc> as the development is a little slower the growth is growing
+Predicted translation: 이 찰들이 있는 꺼 같구
+Input: <cc> then is it a little bit subject to change so are you sure you have good snow or rain ?
+Predicted translation: 구 쫌 약깐 밸이  ⁇ 을 쫌  ⁇ 을 쫌  ⁇ 을 쫌  ⁇ 을 쫌  ⁇ 다라구 혀구 ?
+Input: <cc> why don t you put it on a plate a little bit eat it throw it away and do it again ?
+Predicted translation: 구 검거지 쫌  ⁇ 구  ⁇ 구 검거지 이구 검거지 이케 해가주구 이케  ⁇ 도 있구려 검거지
+Input: <cc> it s delicious but it doesn t taste so good so as soon as i m in this paris i love it when i m on the outside and i m on the outside and i like it so much .
+Predicted translation: 도 검거지 이케 검거지 이릏게는 이케 혀구 검거지 이릏게는 거여 .
+Input: <cc> but in the past even if you leave the door open in summer spring or autumn
+Predicted translation: 구 우리가 알은 혀구 있잖여 근디 구 근디 구 근디 인자 그른 꺼 같으구
+Input: <cc> i grew up with kids and i worked and i studied and i became a little greedy .
+Predicted translation: 구 그리구 내는 쫌 마이 좋아혀구 그리구 내는 쫌 좋아구 그리구 내는 쫌 마이 좋아구
+Input: <cc> in geumsan our samjang has a lot of ginseng and if you tell us to pick another samjang we go around to pick grass
+Predicted translation: 구 인자 구 찰 구  ⁇ 도 검거지  ⁇ 구 인자 또 인자  ⁇ 구
+Input: <cc> they said that geumgangsan mountain is so beautiful so i remembered that time so i remembered baekdusan mountain
+Predicted translation: 게 구 며 구 꺼 같애유도 롯다구 검거지 그릏게 오니께
+Input: <cc> i dont think a wig would be bad but its hard to manage it and you have to get your hair color right wouldnt it be a little hard ?
+Predicted translation: 구 근디 구  ⁇ 게 근디 내는 쫌  ⁇ 을 꺼 같애유 근디 내는 내는 꺼 같애유 근디 내는 내는 내는 내는 내는 내는 내는 그래두  ⁇ 도 쫌
+Input: <cc> so i just saw it and i saw it yesterday and its a good food to eat in winter
+Predicted translation: 구 그양 구두구 그양 잘 알은 혀구 검거지 그른 꺼 같여 근디 구 댓도 알은 혀구
+Input: <cc> when i m alone it s really up to me . when we talk about our thoughts i just say that its the most important thing to crush the others thoughts i always tell my husband what if he thinks about me ? on the other hand it sometimes becomes a little downside . sloe time to look at my daughters name a little bit of things you said
+Predicted translation: 구 우리가 쫌 마이  ⁇ 을 띠 내는 내는 내는 내는 내는 내는 내는 내는 내는 내는 내는 내는 어렸을 띠 그는 그른 곳도 쫌 마이 나한티 약깐 쫌 마이 나한티 내는 내는 내는 내는 내는 내는 내는 내는 어 쫌 드 캉상한 꺼 같애 . 내는 어 쫌 드 말했던 꺼 같아 . 내는 내는 그른 꺼 같다구 생각혀 .
+Input: <cc> how do i always ask you how to put it in my room .
+Predicted translation: 구구구구구구구마마마마마마마구
+Input: <cc> well its said itll cost you a million won if you send kindergarten
+Predicted translation: 이 잘허믄 이릏게 이쁜 꺼 같애유 근디
+Input: <cc> its raining a lot so natural disasters are scary . . .
+Predicted translation: 이 마이 마이 마이 마이 마이 마이 마이 마이 마이 마이 마이 마이 마이 있어 .
+Input: <cc> its getting faster and you know how the road looks like now im just walking . i just went to eastern europe last spring and canada . i think its a big deal on this trip that i got a lot of healing at the sunset . ive been to yeosu before and around there its a pension with a view of the sea like this and i grill meat there so jeollado is famous for its delicious food
+Predicted translation: 구 그리구 내는 구  ⁇ 은 이케 가생이 가주구 검거지 이구 그양 이케 가생이 가주구 그양 이케 가생이 가주구 그양 그양 그양 그양 그양 이케  ⁇ 을 해가주구 이케 가생이 가주구 그양 이케  ⁇ 은 그양 이케 가생이 가주구 그양 이케 가능을 쫌 드러운 사람의  ⁇ 을 쫌 드니께 .
+Input: <cc> and there are a lot of people like me so if you want to read paper books you cant read them and theres a problem with dyslexia
+Predicted translation: 구 그리구 쫌 마이 혀구 있는 꺼 같으구 그리구 약깐 쫌 마이 다유 .
+Input: <cc> i mean if you think about it right now it s kind of silly to think about it but i ll be there later .
+Predicted translation: 구 근디 인자 그 그는 꺼 같애 근디 그릏지만 근디 인자 그라는 꺼 같애 근디
+Input: <cc> itad appointed a strong man as the minister of national defense its a little hard and dont you pay attention yes and they come in and sell all the ants so its giving it to such people or looking after them thats politics local politics itough i wouldnt have died alive so young people these days are very advantageous in terms of policy
+Predicted translation: 구 긍까  ⁇ 구  ⁇ 구  ⁇ 도  ⁇ 도 약깐  ⁇ 을 띠 약깐  ⁇ 여 디는 꺼 같애 .  ⁇ 하구 다  ⁇ 하구 검거지  ⁇ 여 디는 꺼 같애 .  ⁇ 하구 또  ⁇ 하구 너머  ⁇ 하구 어쩐도 알은 혀구 있드라구
+Input: <cc> no im not that old when his sister gets married if im really going the wrong way it changes the direction a little i hate men who are bluffing like this but first of all i really hate what they say yesh i keep feeling my personality as i grow up
+Predicted translation: 도 쫌  ⁇ 도 구성한 기다리면도 않지만 근디 구이라구 혀구 있긴 한디 근디 내는 어쩔리긴 한디
+Input: <cc> now that the tv came out im told that im responsible .
+Predicted translation: 이 또 검거지 그른 껄로 이케 돋드라구
+Input: <cc> buildings change but kids don t change that much when it comes to meeting kids .
+Predicted translation: 이 찰 찰게 해줄게 해줄게 해야지 근디
+Input: <cc> if you look up the comments and other articles it wasnt the one i wanted to see
+Predicted translation: 구 인자 구  ⁇ 구 검거지 그릏게 검거지 그릏게 검거지 그릏게 검거지 그릏게 검거지 그릏게 검거지
+Input: <cc> why are you so late and not thankful ? why is she here now ?
+Predicted translation: 구 캉상 이케  ⁇ 구  ⁇ 구  ⁇ 구
+Input: <cc> i didnt eat much yesterday so what kind of food is there on the internet these days what kind of dishes are there
+Predicted translation: 이 너머 쫌 드러서 캉상해서 그케는 알은 혀구 있어유 .
+Input: <cc> so im frustrated and my mother must be very frustrated and hard . is it a little time to focus on me and get to know myself ? theres an exchange between family and people he said he wouldnt see me but as he was over he was now before getting married so at that time my father wasnt the best but my grandfather was the best head of my family . my mom went through a lot of trouble after she died
+Predicted translation: 구 울 집 울 집두 마이 너머 너머 너머 너머 마이 알은 되구 근디 구 꺼 같애 . 그른 곳도 있다구 너머 마이 너머 마이 너머 마이 알은 혀구 어쩐가 알은 좋다구 알은 좋다구 알은 좋다구 근디 구두 몬 마이 드리구 근디 울 집에서 울 집에서 울 집하구 그른 곳도 있다구 근디 구 꺼 같애 .
+Input: <cc> hydrochloric acid lets your hands go in and melt and die .
+Predicted translation: 구 그양 구  ⁇ 을 띠 구  ⁇ 을 띠 검거지 전이 드다구
+Input: <cc> he s got a big voice he talks a lot about it and i can t do that kind of ear to mouth thing again .
+Predicted translation: 도 알은 혀구 검거지 이케 알은 혀구 검거지 그른 꺼구 그리구 마이 알은 혀구
+Input: <cc> so his brother in law s business is a business business and now he s in there like a tung puck and he s just in there and he s not social .
+Predicted translation: 는 인자 자는 인자 자는 자는 자는 인자 자는 인자 납사도 납사도 캉상도 맑다구
+Input: <cc> its a problem because im trying to stop it in a speculative manner .
+Predicted translation: 구 머 마이  ⁇ 리믄  ⁇ 다구  ⁇ 리믄  ⁇ 이 있었구
+Input: <cc> so what s wrong with the ray ? transson changed something . i think i took him far away i d love to go to the gym but we re gonna go to the car . its a little similar but since i worked i think this is my hobby these days i think its a little . it s getting dry and it turns brown and it s got to be sharp and it s got to be something that plants have to say .
+Predicted translation: 구 근디 구 납은 꺼 같으구 근디 구  ⁇ 다 보니께 근디 구  ⁇ 을 쫌  ⁇ 을  ⁇ 다 . 근디 구  ⁇ 을 쫌 드 찡구 쫌 마이 가생이 어 쫌 드 찡구 구  ⁇ 다 . 근디 내는 쫌 드 센치  ⁇ 다 . 근디 내는 내는 내는 내는 내는 내는 내는 내는 내는 내는 구  ⁇ 다 .
+Input: <cc> i think people who listen to me well and are a little oldfashioned have a good personality with some people
+Predicted translation: 구 사람의 사람들을 쫌 드 사람들을 쫌 드 사람들을 쫌
+Input: <cc> but now he supplements the parts he is not confident in
+Predicted translation: 구 인자 캉상은 근디 인자 캉상은 인자
+Input: <cc> sometimes when i was under a little stress my stomach just danced . how long will it last if im young but every time i wake up with my eyes closed i m fine again and i m so tired and i m just going to close my eyes and if i can t sleep it s getting worse . it s getting worse . i love working at that time . its a little difficult these days right are you still going to the gym these days ?
+Predicted translation: 도 쫌 돋구 머스마 때두 몬 버리 땜이 내는 내는 내는 내는 내는 내는 내는 내는 내는 내는 내는 내는 내는 내는 내는 내는 내는 내는 내는 내는 내는 내는 내는 내는 내는 내는 내는 내는 내는 내는 내는 내는 어 쫌 드러나 검거지  ⁇ 게 되구 싶으믄 좋다구 내 쫌 드  ⁇ 을 쫌 드 머 내는 내는 내는 내는 내는 내는 내는 내는 내는 내는 내는 내는 내는 내는 내는 내는 어 쫌 드러다 보니께 검거지 그른 기 쫌 드러두 있다구 그른 기 쫌
+Input: <cc> they break up because of a real problem but that s how kevin s gonna end up as a wreck .
+Predicted translation: 구마마마마마마마마마마마마마마마마마마마마마마마마마마나
+Input: <cc> ite is that a lot of people come down from the bar .
+Predicted translation: 이 마이 있는 사람 마이 마이 마이 마이 마이 마이 마이 마이 마이유 .
+Input: <cc> but i think theres nothing i can do about it near the university i think i started business easily and easily ruined .
+Predicted translation: 이 내마마마마나도 알은 혀구 근디 구 찡구 그양 근디 내는 꺼 같드라구 근디 내는 내는 내는 내는 내는 내는
+Input: <cc> so you always have to eat folic acid at that time and if you don t have folic acid you re going to have to eat it at that time and if you don t have deformity you don t have a brain .
+Predicted translation: 구 그리구 내는 구 납혀 주는 디서 검거지 이릏게는 디다 보니께 검거지 이후는 거여 .
+Num of Sample: 67
+Total Score: 0.47429297154255995
+Input: <kw> i think it s pretty rare if it s not .
+Predicted translation: 뱀  ⁇ 고 돋는 게 같아 .
+Input: <kw> the water here is also completely coarse . do you know how much i ve been feeling all day ? the gods are under the table . the signs are marked in different colors . the second option is economic sanctions . what terms ?
+Predicted translation:  ⁇   ⁇   ⁇ 다 .  ⁇   ⁇  .  ⁇   ⁇ 다 .  ⁇ 사하든  ⁇ 다 .  ⁇ 다 .  ⁇ 다 . 내  ⁇ 다 .  ⁇ 다 .  ⁇ 다 .  ⁇ 사 .
+Input: <kw> i can t meet with your ex wife with saddon .
+Predicted translation: 두 즈두 아이 되이까 내두 아이 되는데 .
+Input: <kw> why are you so upset about a few calls ? is it okay to smoke ? my mother and i eat cucumbers but the old guy did youtube and he was called goran s young goon . it s a quick move . i think it s close to jell kang neung so when i get to the store i think i m going to do it .
+Predicted translation: 두 울 집구석에 가능에  ⁇ 고 . 울 집두 아이 받은 없지 말은 없지 말은 기 내지 말은 말은 수 있더라 .
+Input: <kw> the total number of students in this class is forty . theres also a little bit of that because of that please answer this call . you just get married you stay with her you have a baby you re gonna be happy . thank you very much . he s right with you now .
+Predicted translation:  ⁇  이케  ⁇ 사에서 흔이 흔이 흔들의  ⁇  흔이 흔들두 흔들두 아이 오히  ⁇ 다 .
+Input: <kw> well of course it s a question but it s a lie if you haven t asked me about marriage .
+Predicted translation: 마이서  ⁇ 을  ⁇ 을  ⁇ 을  ⁇ 을  ⁇ 을  ⁇ 을  ⁇ 고 .
+Input: <kw> the third man in custody was arrested last night at . theyestudents gave me a lot of side dishes . did you purposely do something like that ? he s mean . let s take this and let s get that . i think proper reading is one of the great joys that loneliness can bring .
+Predicted translation:  ⁇ 은  ⁇ 고 .  ⁇ 이  ⁇ 다 .  ⁇ 이  ⁇ 이  ⁇ 이  ⁇ 이  ⁇ 다 .  ⁇ 이  ⁇ 로  ⁇ 다 .  ⁇ 사 .  ⁇ 이  ⁇ 사 .  ⁇ 다 .
+Input: <kw> maybe i wish i had a pretty kid .
+Predicted translation:  ⁇ 어 .
+Input: <kw> i didn t eat it . i didn t eat it .
+Predicted translation: 두 아이 먹으문 먹으문 .
+Input: <kw> take off the peel of the onion . what do you know about him ? he s a little bit of an asshole .
+Predicted translation:  ⁇ 이  ⁇ 을  ⁇ 을  ⁇ 을  ⁇ 을  ⁇ 을  ⁇ 다 .
+Input: <kw> the house that we take our child to is out of play .
+Predicted translation: 집은 집으는 집에서  ⁇ 고 .
+Input: <kw> oh go toward seoksu youre the same as me would you like to go together today ?
+Predicted translation:  ⁇ 고  ⁇ 고  ⁇ 고  ⁇ 다 .
+Input: <kw> go fuck my sister one more time . you said she was your little brother s lover . did you think we d dream about something like this today ? where s your new bride s lunch ? what s wrong with you ? i don t have a passport .
+Predicted translation:  ⁇ 은  ⁇ 고  ⁇  요 게 아니나 . 오놀 내 요  ⁇ 은  ⁇ 은  ⁇ 이  ⁇ 이  ⁇ 이  ⁇ 은  ⁇ 은  ⁇  요 자석이 아이 나대사  ⁇ 다 .
+Input: <kw> i m too desperate for the house and the house and i m not ready for anything .
+Predicted translation: 집 집구석에 집두 집두 집 집 집 집 집 집 집 집두
+Input: <kw> yeah . where s mom ?
+Predicted translation: 어데 어데 어데가 어데 .
+Input: <kw> did you make her eat this ? which car do you like ? he s not sixty years old but he s got a baby . i had a history of sleeping sleeping and waking up by fixing the tent well so that it doesnt fly away . man has shaped the shape of people living with each other s expectations . they re all similar and that s why it s been so hard .
+Predicted translation:  ⁇ 은  ⁇ 사  ⁇  ? 울  ⁇ 다 . 그녀가  ⁇ 다 . 그녀는 그녀는  ⁇ 다 . 그녀는 거구 울  ⁇ 다 .  ⁇ 을  ⁇ 이 납사로  ⁇ 다 . 그녀는 거래로  ⁇ 다 .
+Input: <kw> it s like feeling alive . i helped one of the other two workers better . murderer hasn t been arrested yet . my mother s foot made me feel good . are you going to send me a sample or are you going to bring it yourself ? what s the history that you define other than the nouns ?
+Predicted translation: 옳은  ⁇ 을  ⁇ 을  ⁇ 을  ⁇ 다 .  ⁇ 을  ⁇ 을 흔이  ⁇ 게 . 내 오놀 내 오놀은 거래요 . 내 오놀은 기 아니나 ? 내 오놀은 거 같아 .  ⁇ 다 . 니들에 옳은  ⁇ 다 .
+Input: <kw> remember the rain or the snow or the pain or the health or the youth or the age or the spread of black hair ?
+Predicted translation:  ⁇ 이  ⁇ 고  ⁇ 이  ⁇   ⁇  아이  ⁇ 을  ⁇  아이  ⁇  아이  ⁇ 이  ⁇   ⁇  아이  ⁇  아이  ⁇  아이 나면서  ⁇  아이  ⁇  아이  ⁇ 오지 ?
+Input: <kw> the visual effects of this film are really sophisticated .
+Predicted translation:  ⁇ 사 밸로 밸로 잤사 .
+Input: <kw> why don t you go grab a drink ? where are you going ? you need to take care of yourself so you don t get distracted by my work . are you here ? isn t that something you should understand ? it s beautiful . i love it .
+Predicted translation: 두 왜서 내지 말금  ⁇ 고 . 내 왜서 이케 마누 ? 내 아이 아이 아이 아이 아이 아이 아이 아이 아이 아이 나는 내 왜서 그래요 . 내 왜서 그래 ?
+Input: <kw> one more drink please . let s get that job started right now . we ll have to pull out the plug and keep it . when you re angry i don t know what to do . watch out for snakes in the back of the mountain . i spent all the money i had saved .
+Predicted translation: 두  ⁇ 두  ⁇ 두 아이 되는데 .  ⁇ 두 아이 오신지 .  ⁇ 에  ⁇ 두  ⁇ 두  ⁇ 두 아이 해볼게 .
+Input: <kw> i called for a murder at a hotel in korea on the th .
+Predicted translation:  ⁇ 이  ⁇ 이 풍이 흔이 흔이  ⁇ 이
+Input: <kw> you don t know what she s doing ? professor ha if you look like him he s not a joke . i ll be right there . you re calling him . thank you so much brother . when i was my year old brother thought to himself .
+Predicted translation: 사램한테 울  ⁇ 고 내지 마고 . 울 지굼 내 지굼 내 지굼 내지 않으문 .
+Input: <kw> i don t think it s easy to get rid of the guys who love girls .
+Predicted translation: 마  ⁇ 사할 게 같아 .
+Input: <kw> dude if you did you d be really lucky .
+Predicted translation:  ⁇ 다  ⁇ 다  ⁇ 다면
+Input: <kw> what do you do when you re not married ?
+Predicted translation: 무신 말야 ?
+Input: <kw> if you re going to throw it away you re going to give it to me or you re going to give it to a man who doesn t even know what he s doing .
+Predicted translation: 두 옳은  ⁇ 게  ⁇ 을  ⁇ 두 아이 나믄  ⁇  아이 했냐 .
+Input: <kw> so this is all from the house ? you don t mean you re gonna marry a woman with a child . it s over now . we re on our way to the hospital . why do you keep taking pictures ? i don t want your dog to steal from your father . he s still talking to me like this but how do you get to talk to me like that ?
+Predicted translation: 누리 말루두 아이 나떠러서 그래 ? 울 집구석키지 않고 그래 . 지굼 요 집구석키고는 게 아니고 그래 . 울 집구석이  ⁇ 이  ⁇ 아 . 요 자석이  ⁇ 고 있죠 ?
+Input: <kw> the mista parks are nice . that s nice .
+Predicted translation: 소직히  ⁇ 이  ⁇ 다 .
+Input: <kw> yeah well maybe it s the bar i m supposed to go to .
+Predicted translation:  ⁇ 은  ⁇ 두  ⁇ 두  ⁇ 두  ⁇  .
+Input: <kw> since i was a little far away i think i went out with a woman to get some air .
+Predicted translation: 두 아이 나구  ⁇ 고 싶고 싶고 싶는데
+Input: <kw> clean it up and it ll get to your mom if you put it in your panties . i m kind of shy so i said i d say goodbye first . you said you haven t eaten much in two days . one is nine and a half million won by just giving them a pair . i forgot something happened . in the mouth of a woman .
+Predicted translation: 두 아이 입구 인재 흔들에 흔들면 내 마카 납사 . 흔들에 흔들두 아이들에 흔들에  ⁇ 두 아이두 아이두 아이  ⁇ 두 몬 흔들두 아이 나대사 그래 .
+Input: <kw> i don t know why you re angry or why you re doing this but you need to talk to me . you know if you re close to the company what happened to you ? my mom is a little bit . oh my god i don t even know that . then you re my friend s minister .
+Predicted translation: 두 아이 내지 말금 내 근디 울 집두 아이 카는 게 같애 . 근디 울 집두 아이 아이 아이 아이 되잖아 . 근디 울 집구석에 내 아이 되지 ?
+Input: <kw> don t forget the trash cans are waiting here . why did you wake up already ? it s my son s job .
+Predicted translation: 두  ⁇   ⁇ 고  ⁇ 두 아이  ⁇ 다 .
+Input: <kw> so do you want to go to ode ? if you re doing this because of her she s not gonna stop you . a clean ledger contains a delicious soy sauce and a generous man s heart . why would you ask me that ? i d love to show you too cause i love your wife s name . mr . park did you just leave ?
+Predicted translation: 사램한테 그럴라고 그래 하이까 . 그제에  ⁇ 두 아이 해줄게 . 그래가  ⁇ 고 .  ⁇ 게 ? 내년이 아이 해줄래가 아이 되사 .  ⁇ 이 아이 되사 .  ⁇ 사 .  ⁇ 사 .
+Input: <kw> it takes too much effort to get rid of it .
+Predicted translation: 두 아이두 아이 들이 .
+Input: <kw> why don t all four of you just split up ? i don t give a shit . you need to talk to your mom okay ? bring the banana . it s because they know there s a heart in the plant . your motherinlaw has dementia ?
+Predicted translation: None
+Input: <kw> i thek im going to be so upset . in broad daylight a burglar broke into the house and broke out . so make sure you get it this time . i was wondering is he doing this here ? my wife s wife . not many of you are here without children .
+Predicted translation: 두 아이 카는 기 있지만 . 내지 않는 게 같애 .
+Input: <kw> its spring and the weather gets warmer so no wonder . thats what im saying too . we have to settle down here somehow . it s good to have a drink at the imperial master s . he s struggling with what he s done .
+Predicted translation:  ⁇ 루를  ⁇ 고 .  ⁇ 사 .  ⁇ 사 .  ⁇ 사 .  ⁇ 사 .  ⁇ 사 .  ⁇ 사 .
+Input: <kw> she s gonna be a mom . i want to keep asking you if you ve had too much dinner . if it s a girl thing i m a professional . i ve been so patient and i m sick of my stomach . then we ll rip it apart and then we ll get married . these days a lot of successful women make a perfect living .
+Predicted translation: 서 치두  ⁇ 사 . 내사님두 몬 카는 기보구 울 집두 아이 해줄게 . 내년 내 울 집두 아이 했사 . 내 울 집두 아이 했사 . 내 울 집두 몬  ⁇ 사 . 내 울 집에서 내사 . 내사 . 내사 .
+Input: <kw> he asked whether he was angry and straight with his lips above and below .
+Predicted translation: 사램 옳은 녈 납을 녈 녈 옳은 거짓이 없어 .
+Input: <kw> when you re sensitive it s a little . . .
+Predicted translation: 햇마이 슈지지지 .
+Input: <kw> i can t be the same as you and me but i don t understand why you re angry .
+Predicted translation: 사램한테두 못했사 못했다고 못했는데 .
+Input: <kw> let s play this show tonight and it s gonna be a lot of propaganda and it s gonna be a lot of propaganda .
+Predicted translation: 재로 요  ⁇ 이  ⁇ 이  ⁇ 이  ⁇ 이  ⁇ 이  ⁇ 이  ⁇ 고 .
+Input: <kw> come see this . don t let them see you . just keep your eyes open . see it s faster this way . that s a curse isn t it ? i don t have any real kids . no thanks .
+Predicted translation: 재마는 요 자석이 흔들고 .
+Input: <kw> so much salt in the soup . it took me a while to get to gaza . the oldest boy is doing his best . living like you is a waste . the weekend break was exactly what i needed . things are getting worse .
+Predicted translation: 재에  ⁇ 사 . 내사 . 내사 . 내사 . 내사 . 내사 . 내사에  ⁇ 사 . 그이 예자는 거문에 대신에 대신에 대신을  ⁇ 사 .
+Input: <kw> besides what did you and i have with him ? when we were kids you were the oldest and you were the only one who left us . it s just . . . hello tealee name metro motors tealee name the tuneup of the car you entrusted is over you can visit it anytime . you have to trust me . you have to convince my mother . so son . . .
+Predicted translation: 사램한테 옳은  ⁇ 이  ⁇ 다 . 마누가  ⁇ 을  ⁇ 사 . 그이  ⁇ 아는 기부사 . 그이 예자는 거야 . 울  ⁇ 사 . 마누래를  ⁇ 다 . 울  ⁇ 다 . 그이 옳은 마누래는  ⁇ 다 . 내 울 예자가  ⁇ 다 .
+Input: <kw> youre going to control me but i think im saying this and that
+Predicted translation: 이케 아들은 그른 데두 그래 하다잉 있다는 생각이
+Input: <kw> i couldnt go to the bathhouse and when other bacteria enter the skin i told you not to fix your picture four years ago . why did you do that ? in our house we raise rabbits . my nails are stuck and my skin s peeled off . i gave birth to six of them . the nose is noticeably large .
+Predicted translation: 사램한테  ⁇ 다 . 내 울 집구석에 가능에  ⁇ 에  ⁇ 다 .  ⁇ 에  ⁇ 이  ⁇ 다 .  ⁇ 다 . 내 울 집구석이  ⁇ 다 . 내 또 마누래에  ⁇ 다 .
+Input: <kw> why do you keep pushing from behind ? what s the worst case of spending the most money ? no matter what we study the english dictionary is a necessary tool . it was cold so i got a lot of steam in the window . my grandfather was famous in town for his shoe . smuggles over and over again .
+Predicted translation: 두  ⁇ 이  ⁇ 고 있다구 ? 울 납사 . 그이 납사 . 그이  ⁇ 사하시는 분이  ⁇ 고  ⁇ 고는  ⁇ 사 . 그이  ⁇ 사 .  ⁇ 이 납사로  ⁇ 다 .
+Input: <kw> i can t accept that my daughter in law is barren .
+Predicted translation: 누리지 말한 게 같든 기 없어 .
+Input: <kw> it was a four and a half point test .
+Predicted translation: 재 펭지지지지지지지 .
+Input: <kw> do you want to try and shorten the rest of your life after school ? twenty two is eleven so two . she s not sick . i don t know if i ll be able to catch you as soon as i hear it . is there a peaceful regime at last ? then get married .
+Predicted translation: 사램두 아이 내년한 게 같애 .  ⁇ 두 아이 해줄게 .  ⁇ 두 아이 해줄게 .  ⁇ 다 . 내년에  ⁇ 다 . 내 내 싫으문  ⁇ 사 .  ⁇ 다 . 내 울 집구석키지 않으문
+Input: <kw> you seem busy now so ill come back next time .
+Predicted translation: 두 아이 되시  ⁇ 다 .
+Input: <kw> then youll be the longestserving grandmother in the world .
+Predicted translation: 두 납이 아이에 납이 납이 아이에 납이
+Num of Sample: 66
+Total Score: 0.8787885004591487
