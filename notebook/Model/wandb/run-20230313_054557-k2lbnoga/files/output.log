@@ -1,0 +1,36 @@
+
+Initializing from scratch.
+Initializing from scratch.
+Saved checkpoint for step 1: /aiffel/aiffel/aiffelthon/tf_ckpts_vt1_v2/ckpt-1
+Saved checkpoint for step 1: /aiffel/aiffel/aiffelthon/tf_ckpts_vt1_v2/ckpt-2
+Saved checkpoint for step 1: /aiffel/aiffel/aiffelthon/tf_ckpts_vt1_v2/ckpt-3
+Input: <jj> How was your day?
+Predicted translation: 덴 ?
+Input: <jd> How was your day?
+Predicted translation: 고  ⁇ 게
+Input: <kw> How was your day?
+Predicted translation: 고고 고고 고지 ?
+Input: <cc> How was your day?
+Predicted translation: 어 어 어 어
+Input: <gs> How was your day?
+Predicted translation: 그  ⁇ 은 어 ?
+Input: <jj> Where are you going?
+Predicted translation: 거 거 ?
+Input: <jd> How was your day?
+Predicted translation: 고  ⁇ 게
+Input: <kw> How was your day?
+Predicted translation: 고고 고고 고지 ?
+Input: <cc> How was your day?
+Predicted translation: 어 어 어 어
+Input: <gs> How was your day?
+Predicted translation: 그  ⁇ 은 어 ?
+Input: <jj> Where are you going?
+Predicted translation: 거 거 ?
+Input: <jd> Where are you going?
+Predicted translation: 고 썬만만
+Input: <kw> Where are you going?
+Predicted translation: 지 자석이요 ?
+Input: <cc> Where are you going?
+Predicted translation: 어 가사이
+Input: <gs> Where are you going?
+Predicted translation: 그 쉰아 ?
