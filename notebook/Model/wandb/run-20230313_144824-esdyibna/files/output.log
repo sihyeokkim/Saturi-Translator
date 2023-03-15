@@ -1,0 +1,92 @@
+[33mWARNING: Keyring is skipped due to an exception: Failed to create the collection: Prompt dismissed..
+Collecting tensorflow==2.6.0
+  Downloading tensorflow-2.6.0-cp38-cp38-manylinux2010_x86_64.whl (458.4 MB)
+
+     |████████████████████████████████| 458.4 MB 26 kB/s
+[?25hRequirement already satisfied: keras~=2.6 in /home/seuyon0101/anaconda3/lib/python3.8/site-packages (from tensorflow==2.6.0) (2.11.0)
+Collecting numpy~=1.19.2
+  Downloading numpy-1.19.5-cp38-cp38-manylinux2010_x86_64.whl (14.9 MB)
+     |████████████████████████████████| 14.9 MB 69.9 MB/s
+[?25hRequirement already satisfied: protobuf>=3.9.2 in /home/seuyon0101/anaconda3/lib/python3.8/site-packages (from tensorflow==2.6.0) (3.19.6)
+Collecting absl-py~=0.10
+  Downloading absl_py-0.15.0-py3-none-any.whl (132 kB)
+     |████████████████████████████████| 132 kB 105.5 MB/s
+[?25hCollecting h5py~=3.1.0
+  Downloading h5py-3.1.0-cp38-cp38-manylinux1_x86_64.whl (4.4 MB)
+     |████████████████████████████████| 4.4 MB 82.3 MB/s
+[?25hRequirement already satisfied: tensorflow-estimator~=2.6 in /home/seuyon0101/anaconda3/lib/python3.8/site-packages (from tensorflow==2.6.0) (2.11.0)
+Requirement already satisfied: gast==0.4.0 in /home/seuyon0101/anaconda3/lib/python3.8/site-packages (from tensorflow==2.6.0) (0.4.0)
+Collecting clang~=5.0
+  Using cached clang-5.0.tar.gz (30 kB)
+Collecting keras-preprocessing~=1.1.2
+  Downloading Keras_Preprocessing-1.1.2-py2.py3-none-any.whl (42 kB)
+     |████████████████████████████████| 42 kB 2.6 MB/s
+[?25hRequirement already satisfied: wheel~=0.35 in /home/seuyon0101/anaconda3/lib/python3.8/site-packages (from tensorflow==2.6.0) (0.36.2)
+Requirement already satisfied: tensorboard~=2.6 in /home/seuyon0101/anaconda3/lib/python3.8/site-packages (from tensorflow==2.6.0) (2.11.2)
+Requirement already satisfied: typing-extensions~=3.7.4 in /home/seuyon0101/anaconda3/lib/python3.8/site-packages (from tensorflow==2.6.0) (3.7.4.3)
+Requirement already satisfied: google-pasta~=0.2 in /home/seuyon0101/anaconda3/lib/python3.8/site-packages (from tensorflow==2.6.0) (0.2.0)
+Collecting termcolor~=1.1.0
+  Downloading termcolor-1.1.0.tar.gz (3.9 kB)
+Requirement already satisfied: wrapt~=1.12.1 in /home/seuyon0101/anaconda3/lib/python3.8/site-packages (from tensorflow==2.6.0) (1.12.1)
+Requirement already satisfied: opt-einsum~=3.3.0 in /home/seuyon0101/anaconda3/lib/python3.8/site-packages (from tensorflow==2.6.0) (3.3.0)
+Collecting flatbuffers~=1.12.0
+  Downloading flatbuffers-1.12-py2.py3-none-any.whl (15 kB)
+Requirement already satisfied: six~=1.15.0 in /home/seuyon0101/anaconda3/lib/python3.8/site-packages (from tensorflow==2.6.0) (1.15.0)
+Requirement already satisfied: grpcio<2.0,>=1.37.0 in /home/seuyon0101/anaconda3/lib/python3.8/site-packages (from tensorflow==2.6.0) (1.51.3)
+Requirement already satisfied: astunparse~=1.6.3 in /home/seuyon0101/anaconda3/lib/python3.8/site-packages (from tensorflow==2.6.0) (1.6.3)
+Requirement already satisfied: google-auth<3,>=1.6.3 in /home/seuyon0101/anaconda3/lib/python3.8/site-packages (from tensorboard~=2.6->tensorflow==2.6.0) (2.16.2)
+Requirement already satisfied: tensorboard-plugin-wit>=1.6.0 in /home/seuyon0101/anaconda3/lib/python3.8/site-packages (from tensorboard~=2.6->tensorflow==2.6.0) (1.8.1)
+Requirement already satisfied: google-auth-oauthlib<0.5,>=0.4.1 in /home/seuyon0101/anaconda3/lib/python3.8/site-packages (from tensorboard~=2.6->tensorflow==2.6.0) (0.4.6)
+Requirement already satisfied: werkzeug>=1.0.1 in /home/seuyon0101/anaconda3/lib/python3.8/site-packages (from tensorboard~=2.6->tensorflow==2.6.0) (1.0.1)
+Requirement already satisfied: setuptools>=41.0.0 in /home/seuyon0101/anaconda3/lib/python3.8/site-packages (from tensorboard~=2.6->tensorflow==2.6.0) (52.0.0.post20210125)
+Requirement already satisfied: tensorboard-data-server<0.7.0,>=0.6.0 in /home/seuyon0101/anaconda3/lib/python3.8/site-packages (from tensorboard~=2.6->tensorflow==2.6.0) (0.6.1)
+Requirement already satisfied: requests<3,>=2.21.0 in /home/seuyon0101/anaconda3/lib/python3.8/site-packages (from tensorboard~=2.6->tensorflow==2.6.0) (2.25.1)
+Requirement already satisfied: markdown>=2.6.8 in /home/seuyon0101/anaconda3/lib/python3.8/site-packages (from tensorboard~=2.6->tensorflow==2.6.0) (3.4.1)
+Requirement already satisfied: pyasn1-modules>=0.2.1 in /home/seuyon0101/anaconda3/lib/python3.8/site-packages (from google-auth<3,>=1.6.3->tensorboard~=2.6->tensorflow==2.6.0) (0.2.8)
+Requirement already satisfied: cachetools<6.0,>=2.0.0 in /home/seuyon0101/anaconda3/lib/python3.8/site-packages (from google-auth<3,>=1.6.3->tensorboard~=2.6->tensorflow==2.6.0) (5.3.0)
+Requirement already satisfied: rsa<5,>=3.1.4 in /home/seuyon0101/anaconda3/lib/python3.8/site-packages (from google-auth<3,>=1.6.3->tensorboard~=2.6->tensorflow==2.6.0) (4.9)
+Requirement already satisfied: requests-oauthlib>=0.7.0 in /home/seuyon0101/anaconda3/lib/python3.8/site-packages (from google-auth-oauthlib<0.5,>=0.4.1->tensorboard~=2.6->tensorflow==2.6.0) (1.3.1)
+Requirement already satisfied: importlib-metadata>=4.4 in /home/seuyon0101/anaconda3/lib/python3.8/site-packages (from markdown>=2.6.8->tensorboard~=2.6->tensorflow==2.6.0) (6.0.0)
+Requirement already satisfied: zipp>=0.5 in /home/seuyon0101/anaconda3/lib/python3.8/site-packages (from importlib-metadata>=4.4->markdown>=2.6.8->tensorboard~=2.6->tensorflow==2.6.0) (3.4.1)
+Requirement already satisfied: pyasn1<0.5.0,>=0.4.6 in /home/seuyon0101/anaconda3/lib/python3.8/site-packages (from pyasn1-modules>=0.2.1->google-auth<3,>=1.6.3->tensorboard~=2.6->tensorflow==2.6.0) (0.4.8)
+Requirement already satisfied: certifi>=2017.4.17 in /home/seuyon0101/anaconda3/lib/python3.8/site-packages (from requests<3,>=2.21.0->tensorboard~=2.6->tensorflow==2.6.0) (2020.12.5)
+Requirement already satisfied: chardet<5,>=3.0.2 in /home/seuyon0101/anaconda3/lib/python3.8/site-packages (from requests<3,>=2.21.0->tensorboard~=2.6->tensorflow==2.6.0) (4.0.0)
+Requirement already satisfied: urllib3<1.27,>=1.21.1 in /home/seuyon0101/anaconda3/lib/python3.8/site-packages (from requests<3,>=2.21.0->tensorboard~=2.6->tensorflow==2.6.0) (1.26.15)
+Requirement already satisfied: idna<3,>=2.5 in /home/seuyon0101/anaconda3/lib/python3.8/site-packages (from requests<3,>=2.21.0->tensorboard~=2.6->tensorflow==2.6.0) (2.10)
+Requirement already satisfied: oauthlib>=3.0.0 in /home/seuyon0101/anaconda3/lib/python3.8/site-packages (from requests-oauthlib>=0.7.0->google-auth-oauthlib<0.5,>=0.4.1->tensorboard~=2.6->tensorflow==2.6.0) (3.2.2)
+Building wheels for collected packages: clang, termcolor
+  Building wheel for clang (setup.py) ... [?25ldone
+[?25h  Created wheel for clang: filename=clang-5.0-py3-none-any.whl size=30702 sha256=b520e9f914427924ebd9b7f95244d07d33490b4830c207132033daa68ee77d4b
+  Stored in directory: /home/seuyon0101/.cache/pip/wheels/f1/60/77/22b9b5887bd47801796a856f47650d9789c74dc3161a26d608
+  Building wheel for termcolor (setup.py) ... [?25ldone
+[?25h  Created wheel for termcolor: filename=termcolor-1.1.0-py3-none-any.whl size=4829 sha256=f8bacb352e6eafc6b3b9af7349f89926b97730f35eb4df73defa05336e9e4f0c
+  Stored in directory: /home/seuyon0101/.cache/pip/wheels/a0/16/9c/5473df82468f958445479c59e784896fa24f4a5fc024b0f501
+Successfully built clang termcolor
+Installing collected packages: numpy, absl-py, termcolor, keras-preprocessing, h5py, flatbuffers, clang, tensorflow
+  Attempting uninstall: numpy
+    Found existing installation: numpy 1.20.1
+    Uninstalling numpy-1.20.1:
+      Successfully uninstalled numpy-1.20.1
+  Attempting uninstall: absl-py
+    Found existing installation: absl-py 1.4.0
+    Uninstalling absl-py-1.4.0:
+      Successfully uninstalled absl-py-1.4.0
+  Attempting uninstall: termcolor
+    Found existing installation: termcolor 2.2.0
+    Uninstalling termcolor-2.2.0:
+      Successfully uninstalled termcolor-2.2.0
+  Attempting uninstall: h5py
+    Found existing installation: h5py 2.10.0
+    Uninstalling h5py-2.10.0:
+      Successfully uninstalled h5py-2.10.0
+  Attempting uninstall: flatbuffers
+    Found existing installation: flatbuffers 23.3.3
+    Uninstalling flatbuffers-23.3.3:
+      Successfully uninstalled flatbuffers-23.3.3
+  Attempting uninstall: tensorflow
+    Found existing installation: tensorflow 2.11.0
+    Uninstalling tensorflow-2.11.0:
+      Successfully uninstalled tensorflow-2.11.0
+Successfully installed absl-py-0.15.0 clang-5.0 flatbuffers-1.12 h5py-3.1.0 keras-preprocessing-1.1.2 numpy-1.19.5 tensorflow-2.6.0 termcolor-1.1.0
+2.11.0
+1.20.1

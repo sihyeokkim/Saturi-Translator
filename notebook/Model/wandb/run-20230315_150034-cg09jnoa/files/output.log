@@ -1,0 +1,29 @@
+2023-03-15 15:00:39.350358: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-15 15:00:39.393193: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-15 15:00:39.393435: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-15 15:00:39.394062: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-03-15 15:00:39.394820: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-15 15:00:39.395051: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-15 15:00:39.395252: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-15 15:00:40.179644: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-15 15:00:40.179950: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-15 15:00:40.180205: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-15 15:00:40.180392: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1525] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 14628 MB memory:  -> device: 0, name: Tesla V100-SXM2-16GB, pci bus id: 0000:00:04.0, compute capability: 7.0
+Initializing from scratch.
+Initializing from scratch.
+--- Logging error ---
+Traceback (most recent call last):
+  File "/home/seuyon0101/anaconda3/envs/aiffelthon/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/home/seuyon0101/anaconda3/envs/aiffelthon/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+OSError: [Errno 5] Input/output error
+Call stack:
+  File "/home/seuyon0101/anaconda3/envs/aiffelthon/lib/python3.9/threading.py", line 930, in _bootstrap
+    self._bootstrap_inner()
+  File "/home/seuyon0101/anaconda3/envs/aiffelthon/lib/python3.9/threading.py", line 973, in _bootstrap_inner
+    self.run()
+  File "/home/seuyon0101/anaconda3/envs/aiffelthon/lib/python3.9/site-packages/ipykernel/parentpoller.py", line 38, in run
+    get_logger().warning("Parent appears to have exited, shutting down.")
+Message: 'Parent appears to have exited, shutting down.'
