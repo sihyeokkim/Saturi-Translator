@@ -1,0 +1,13 @@
+
+Restored from /aiffel/aiffel/aiffelthon/tf_ckpts_vt1_v1/ckpt-2
+10000
+500
+(9969, 512)
+(9969, 512)
+(500, 512)
+(500, 512)
+(9969, 256)
+(9969, 256)
+(500, 256)
+(500, 256)
+[34m[1mwandb[39m[22m: [33mWARNING[39m Calling wandb.login() after wandb.init() has no effect.
