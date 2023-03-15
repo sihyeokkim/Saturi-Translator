@@ -1,0 +1,56 @@
+
+Restored from /home/seuyon0101/aiffel/MODEL/tf_ckpts_vt1_v4/ckpt-1
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_ckpts_vt1_v4/ckpt-2
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_ckpts_vt1_v4/ckpt-3
+Input: <jj> what are you doing?
+Predicted translation: 어떵 무신거 해사 되실거 ?
+Input: <cc> what are you doing?
+Predicted translation: 뭐랄까 ?
+Input: <gs> what are you doing?
+Predicted translation: 뭐 이른 꺼 뭐나 ?
+Input: <jd> what are you doing?
+Predicted translation: 무신 일케 헌 것이여 ?
+Input: <kw> what are you doing?
+Predicted translation: 무신 일이나 뭐야 ?
+Input: <jj> what are you eating?
+Predicted translation: 무신거 먹어보고싶어 ?
+Input: <cc> what are you doing?
+Predicted translation: 뭐랄까 ?
+Input: <gs> what are you doing?
+Predicted translation: 뭐 이른 꺼 뭐나 ?
+Input: <jd> what are you doing?
+Predicted translation: 무신 일케 헌 것이여 ?
+Input: <kw> what are you doing?
+Predicted translation: 무신 일이나 뭐야 ?
+Input: <jj> what are you eating?
+Predicted translation: 무신거 먹어보고싶어 ?
+Input: <cc> what are you eating?
+Predicted translation: 뭐라든디씨가 뭐나 ?
+Input: <gs> what are you eating?
+Predicted translation: 뭐 이른 꺼 뭐나 ?
+Input: <jd> what are you eating?
+Predicted translation: 무신 밥을 묵어 ?
+Input: <kw> what are you eating?
+Predicted translation: 무신 밥먹고싶어 ?
+(0, 96)
+(1, 32)
+(2, 0)
+(3, 64)
+(0, 96)
+(1, 0)
+(2, 32)
+(3, 64)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_ckpts_vt1_v4/ckpt-3
+Restored from /home/seuyon0101/aiffel/MODEL/tf_ckpts_vt1_v4/ckpt-3
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_ckpts_vt1_v4/ckpt-4
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_ckpts_vt1_v4/ckpt-5
+Input: <jj> what are you eating?
+Predicted translation: 먹어불믄 먹어불믄
+Input: <cc> what are you eating?
+Predicted translation: 아 긍까 밥 묵구 먹어 ?
+Input: <gs> what are you eating?
+Predicted translation: 니 니 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 고로 뭐 뭐 뭐 뭐 뭐 뭐 고로 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 고로 뭐 고로 뭐 고로 뭐 뭐 뭐 뭐 뭐 고로 뭐 고로 뭐 고로 뭐 고로 뭐 고로 뭐 고로 뭐 뭐 뭐 뭐 뭐 고로 뭐 고로 뭐 고로 뭐 고로 묵느 꺼꼬 뭐 고로 뭐 고로 뭐 고로 뭐 뭐 뭐 고로 묵느 꺼꼬 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 뭐 고로 묵느 건가 ?
+Input: <jd> what are you eating?
+Predicted translation: 밥 묵는 모 먹어본께
+Input: <kw> what are you eating?
+Predicted translation: 내 먹어두 되겠나 ?
