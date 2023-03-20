@@ -1,0 +1,138 @@
+(946750, 31)
+(946750, 31)
+(1500, 31)
+(1500, 31)
+Initializing from scratch.
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317/ckpt-1
+(128594, 47)
+(128594, 47)
+(1500, 47)
+(1500, 47)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317/ckpt-1
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317/ckpt-2
+(64138, 68)
+(64138, 68)
+(1500, 68)
+(1500, 68)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317/ckpt-2
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317/ckpt-3
+(26894, 203)
+(26894, 203)
+(1500, 203)
+(1500, 203)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317/ckpt-3
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317/ckpt-4
+(67325, 95)
+(67325, 95)
+(1500, 95)
+(1500, 95)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317/ckpt-4
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317/ckpt-5
+(26755, 168)
+(26755, 168)
+(1500, 168)
+(1500, 168)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317/ckpt-5
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317/ckpt-6
+(26647, 131)
+(26647, 131)
+(1500, 131)
+(1500, 131)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317/ckpt-6
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317/ckpt-7
+(26716, 108)
+(26716, 108)
+(1500, 108)
+(1500, 108)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317/ckpt-7
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317/ckpt-8
+(6591, 214)
+(6591, 214)
+(1500, 214)
+(1500, 214)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317/ckpt-8
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317/ckpt-9
+(10258, 240)
+(10258, 240)
+(1500, 240)
+(1500, 240)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317/ckpt-9
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317/ckpt-10
+(1587, 217)
+(1587, 217)
+(1500, 217)
+(1500, 217)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317/ckpt-10
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317/ckpt-11
+(6680, 275)
+(6680, 275)
+(1500, 275)
+(1500, 275)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317/ckpt-11
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317/ckpt-12
+(1327, 394)
+(1327, 394)
+(1500, 394)
+(1500, 394)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317/ckpt-12
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317/ckpt-13
+Input: <jj> what are you eating?
+Predicted translation:  ⁇ 그 ⁇  그른 꺼
+Input: <cc> what are you eating?
+Predicted translation: 그 ⁇  뭐 ⁇   ⁇ 뭐
+Input: <gs> what are you eating?
+Predicted translation: 그 ⁇  뭐 ⁇   ⁇ 뭐
+Input: <jd> what are you eating?
+Predicted translation: 그 ⁇  뭐 ⁇  어뜬 꺼 뭐
+Input: <kw> what are you eating?
+Predicted translation: 그 ⁇   ⁇ 뭐 ⁇  뭐
+5.363466590999451
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 1500 entries, 0 to 1499
+Data columns (total 8 columns):
+ #   Column    Non-Null Count  Dtype
+---  ------    --------------  -----
+ 0   reg       1500 non-null   object
+ 1   topic     1500 non-null   object
+ 2   eng       1500 non-null   object
+ 3   dial      1500 non-null   object
+ 4   tok_len   1500 non-null   int64
+ 5   tok_cat   1500 non-null   int64
+ 6   toks_en   1500 non-null   object
+ 7   toks_dec  1500 non-null   object
+dtypes: int64(2), object(6)
+memory usage: 93.9+ KB
+2.8.0
+1.5.3
+1.23.5
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 1340262 entries, 0 to 1340261
+Data columns (total 8 columns):
+ #   Column    Non-Null Count    Dtype
+---  ------    --------------    -----
+ 0   reg       1340262 non-null  object
+ 1   topic     1340262 non-null  object
+ 2   eng       1340262 non-null  object
+ 3   dial      1340262 non-null  object
+ 4   tok_len   1340262 non-null  int64
+ 5   tok_cat   1340262 non-null  int64
+ 6   toks_en   1340262 non-null  object
+ 7   toks_dec  1340262 non-null  object
+dtypes: int64(2), object(6)
+memory usage: 81.8+ MB
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 1500 entries, 0 to 1499
+Data columns (total 8 columns):
+ #   Column    Non-Null Count  Dtype
+---  ------    --------------  -----
+ 0   reg       1500 non-null   object
+ 1   topic     1500 non-null   object
+ 2   eng       1500 non-null   object
+ 3   dial      1500 non-null   object
+ 4   tok_len   1500 non-null   int64
+ 5   tok_cat   1500 non-null   int64
+ 6   toks_en   1500 non-null   object
+ 7   toks_dec  1500 non-null   object
+dtypes: int64(2), object(6)
+memory usage: 93.9+ KB
+[34m[1mwandb[39m[22m: [33mWARNING[39m Calling wandb.login() after wandb.init() has no effect.

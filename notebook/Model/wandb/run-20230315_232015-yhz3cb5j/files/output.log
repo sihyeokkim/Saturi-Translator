@@ -1,0 +1,11 @@
+(863840, 23)
+(863840, 23)
+(1500, 23)
+(1500, 23)
+Initializing from scratch.
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_ckpt_t4000_v1/ckpt-1
+(121899, 57)
+(121899, 57)
+(1500, 57)
+(1500, 57)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_ckpt_t4000_v1/ckpt-1

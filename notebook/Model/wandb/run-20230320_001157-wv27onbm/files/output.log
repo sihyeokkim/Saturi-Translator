@@ -1,0 +1,46 @@
+
+2023-03-20 00:12:11.478542: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-20 00:12:11.673178: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-20 00:12:11.673437: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-20 00:12:11.676304: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-03-20 00:12:11.677047: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-20 00:12:11.677329: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-20 00:12:11.677529: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-20 00:12:13.517698: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-20 00:12:13.517987: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-20 00:12:13.518202: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-20 00:12:13.519416: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1525] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 14628 MB memory:  -> device: 0, name: Tesla V100-SXM2-16GB, pci bus id: 0000:00:04.0, compute capability: 7.0
+Input: <jj> what are you doing?
+Predicted translation:  ⁇ 하 ⁇  허는 게 무신거
+Input: <cc> what are you doing?
+Predicted translation: 머 머 머 머 머 머 머
+Input: <gs> what are you doing?
+Predicted translation: 뭐 ⁇  내 뭐 ⁇  카느 꺼
+Input: <jd> what are you doing?
+Predicted translation: 뭐 ⁇   ⁇ 뭐 ⁇  뭐
+Input: <kw> what are you doing?
+Predicted translation: 내 뭐러 카는 짓이냐?
+10.462064372999976
+Input: <jj> what are you doing?
+Predicted translation:  ⁇ 하 ⁇  허는 게 무신거
+Input: <cc> what are you doing?
+Predicted translation: 머 머 머 머 머 머 머
+Input: <gs> what are you doing?
+Predicted translation: 뭐 ⁇  내 뭐 ⁇  카느 꺼
+Input: <jd> what are you doing?
+Predicted translation: 뭐 ⁇   ⁇ 뭐 ⁇  뭐
+Input: <kw> what are you doing?
+Predicted translation: 내 뭐러 카는 짓이냐?
+4.885057104999987
+Input: <jj> what are you doing?
+Predicted translation:  ⁇ 하 ⁇  허는 게 무신거
+Input: <cc> what are you doing?
+Predicted translation: 머 머 머 머 머 머 머
+Input: <gs> what are you doing?
+Predicted translation: 뭐 ⁇  내 뭐 ⁇  카느 꺼
+Input: <jd> what are you doing?
+Predicted translation: 뭐 ⁇   ⁇ 뭐 ⁇  뭐
+Input: <kw> what are you doing?
+Predicted translation: 내 뭐러 카는 짓이냐?
+4.931015280999986

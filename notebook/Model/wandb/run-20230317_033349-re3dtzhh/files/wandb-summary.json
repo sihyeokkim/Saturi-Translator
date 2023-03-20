@@ -1,0 +1,1 @@
+{"train_loss": 3.46805419921875, "valid_loss": 0.4866927185058594, "valid_bleu_teacher_forced_input": 0.05731456848164503, "_timestamp": 1679027669.9473755, "_runtime": 3640.1976704597473, "_step": 14, "_wandb": {"runtime": 11593}}

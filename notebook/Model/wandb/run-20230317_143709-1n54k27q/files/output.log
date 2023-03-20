@@ -1,0 +1,129 @@
+(945858, 31)
+(945858, 31)
+(250, 31)
+(250, 31)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-13
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-14
+(128889, 47)
+(128889, 47)
+(250, 47)
+(250, 47)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-14
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-15
+(66532, 69)
+(66532, 69)
+(250, 69)
+(250, 69)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-15
+WARNING:tensorflow:5 out of the last 17 calls to <function model_validate at 0x7f5949011820> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-16
+(26620, 204)
+(26620, 204)
+(250, 204)
+(250, 204)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-16
+WARNING:tensorflow:5 out of the last 17 calls to <function model_validate at 0x7f5949011820> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-17
+(67215, 96)
+(67215, 96)
+(250, 96)
+(250, 96)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-17
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-18
+(26786, 169)
+(26786, 169)
+(250, 169)
+(250, 169)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-18
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-19
+(25911, 132)
+(25911, 132)
+(250, 132)
+(250, 132)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-19
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-20
+(26258, 109)
+(26258, 109)
+(250, 109)
+(250, 109)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-20
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-21
+(6512, 215)
+(6512, 215)
+(250, 215)
+(250, 215)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-21
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-22
+(10625, 241)
+(10625, 241)
+(250, 241)
+(250, 241)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-22
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-23
+(1125, 217)
+(1125, 217)
+(250, 217)
+(250, 217)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-23
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-24
+(6638, 276)
+(6638, 276)
+(250, 276)
+(250, 276)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-24
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-25
+(1293, 396)
+(1293, 396)
+(250, 396)
+(250, 396)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-25
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-26
+Input: <jj> what are you eating?
+Predicted translation: 거 뭐과  ⁇ 먹 ⁇
+Input: <cc> what are you eating?
+Predicted translation: 머슨 머슨 머슨 머
+Input: <gs> what are you eating?
+Predicted translation: 니느 뭐 ⁇  먹기론데
+Input: <jd> what are you eating?
+Predicted translation: 머슬 먹냐?  먹
+Input: <kw> what are you eating?
+Predicted translation: 뭐 ⁇  내 뭐 ⁇  먹나
+5.568389653999475
+Input: <jj> what are you doing?
+Predicted translation:  ⁇ 하 ⁇  허는 게 무신거
+Input: <cc> what are you eating?
+Predicted translation: 머슨 머슨 머슨 머
+Input: <gs> what are you eating?
+Predicted translation: 니느 뭐 ⁇  먹기론데
+Input: <jd> what are you eating?
+Predicted translation: 머슬 먹냐?  먹
+Input: <kw> what are you eating?
+Predicted translation: 뭐 ⁇  내 뭐 ⁇  먹나
+5.617604252001911
+Input: <jj> what are you doing?
+Predicted translation:  ⁇ 하 ⁇  허는 게 무신거
+Input: <cc> what are you doing?
+Predicted translation: 머 머 머 머 머 머 머
+Input: <gs> what are you doing?
+Predicted translation: 뭐 ⁇  내 뭐 ⁇  카느 꺼
+Input: <jd> what are you doing?
+Predicted translation: 뭐 ⁇   ⁇ 뭐 ⁇  뭐
+Input: <kw> what are you doing?
+Predicted translation: 내 뭐러 카는 짓이냐?
+5.420175002000178
+--- Logging error ---
+Traceback (most recent call last):
+  File "/home/seuyon0101/anaconda3/envs/aiffelthon/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/home/seuyon0101/anaconda3/envs/aiffelthon/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+OSError: [Errno 5] Input/output error
+Call stack:
+  File "/home/seuyon0101/anaconda3/envs/aiffelthon/lib/python3.9/threading.py", line 930, in _bootstrap
+    self._bootstrap_inner()
+  File "/home/seuyon0101/anaconda3/envs/aiffelthon/lib/python3.9/threading.py", line 973, in _bootstrap_inner
+    self.run()
+  File "/home/seuyon0101/anaconda3/envs/aiffelthon/lib/python3.9/site-packages/ipykernel/parentpoller.py", line 38, in run
+    get_logger().warning("Parent appears to have exited, shutting down.")
+Message: 'Parent appears to have exited, shutting down.'
+Arguments: ()

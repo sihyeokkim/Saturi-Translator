@@ -1,0 +1,79 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.13.11
+    framework: keras
+    is_jupyter_run: true
+    is_kaggle_kernel: false
+    python_version: 3.9.7
+    start_time: 1678928524.652919
+    t:
+      1:
+      - 2
+      - 3
+      - 55
+      2:
+      - 2
+      - 3
+      - 49
+      - 51
+      - 55
+      3:
+      - 2
+      - 16
+      - 23
+      4: 3.9.7
+      5: 0.13.11
+      8:
+      - 1
+      - 5
+batch_size:
+  desc: null
+  value: 32
+d_ff:
+  desc: null
+  value: 2048
+d_model:
+  desc: null
+  value: 512
+dropout:
+  desc: null
+  value: 0.2
+epochs:
+  desc: null
+  value: 1
+loss:
+  desc: null
+  value: SparseCategoricalCrossentropy
+metric:
+  desc: null
+  value: bleu
+model_name:
+  desc: null
+  value: Vanilla_Transformer_bpe_40009
+n_heads:
+  desc: null
+  value: 8
+n_layers:
+  desc: null
+  value: 6
+optimizer:
+  desc: null
+  value: ADAM
+pos_len:
+  desc: null
+  value: 512
+shared:
+  desc: null
+  value: true
+src_vocab_size:
+  desc: null
+  value: 4009
+tgt_vocab_size:
+  desc: null
+  value: 4009
+warmups:
+  desc: null
+  value: 4000

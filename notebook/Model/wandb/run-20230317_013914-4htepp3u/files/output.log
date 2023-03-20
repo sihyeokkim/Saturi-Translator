@@ -1,0 +1,50 @@
+2023-03-17 01:39:19.291743: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-17 01:39:19.343414: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-17 01:39:19.343698: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-17 01:39:19.345381: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-03-17 01:39:19.346106: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-17 01:39:19.346381: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-17 01:39:19.346578: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-17 01:39:20.143147: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-17 01:39:20.143493: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-17 01:39:20.143730: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-17 01:39:20.143979: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1525] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 14628 MB memory:  -> device: 0, name: Tesla V100-SXM2-16GB, pci bus id: 0000:00:04.0, compute capability: 7.0
+Input: <jj> what are you eating?
+Predicted translation: 도잉도잉도잉도잉도잉도잉도잉
+Input: <cc> what are you eating?
+Predicted translation: 도잉도잉도잉도잉도잉도잉도잉
+Input: <gs> what are you eating?
+Predicted translation: 도잉도잉도잉퐁도잉퐁 웹툰
+Input: <jd> what are you eating?
+Predicted translation: 도잉도잉도잉도잉도잉도잉도잉
+Input: <kw> what are you eating?
+Predicted translation: 도잉도잉도잉도잉도잉도잉도잉
+Initializing from scratch.
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 1229210 entries, 0 to 1229209
+Data columns (total 6 columns):
+ #   Column      Non-Null Count    Dtype
+---  ------      --------------    -----
+ 0   toks_en     1229210 non-null  object
+ 1   toks_dec    1229210 non-null  object
+ 2   source_txt  1229210 non-null  object
+ 3   target_txt  1229210 non-null  object
+ 4   topic       1229210 non-null  object
+ 5   reg         1229210 non-null  object
+dtypes: object(6)
+memory usage: 56.3+ MB
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 1500 entries, 0 to 1499
+Data columns (total 6 columns):
+ #   Column      Non-Null Count  Dtype
+---  ------      --------------  -----
+ 0   toks_en     1500 non-null   object
+ 1   toks_dec    1500 non-null   object
+ 2   source_txt  1500 non-null   object
+ 3   target_txt  1500 non-null   object
+ 4   topic       1500 non-null   object
+ 5   reg         1500 non-null   object
+dtypes: object(6)
+memory usage: 70.4+ KB
+[34m[1mwandb[39m[22m: [33mWARNING[39m Calling wandb.login() after wandb.init() has no effect.

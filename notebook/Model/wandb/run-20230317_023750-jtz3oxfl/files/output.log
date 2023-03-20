@@ -1,0 +1,64 @@
+2023-03-17 02:37:55.019311: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-17 02:37:55.062704: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-17 02:37:55.062939: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-17 02:37:55.064034: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-03-17 02:37:55.064788: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-17 02:37:55.065053: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-17 02:37:55.065261: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-17 02:37:55.812241: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-17 02:37:55.812539: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-17 02:37:55.812748: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-17 02:37:55.812980: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1525] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 14628 MB memory:  -> device: 0, name: Tesla V100-SXM2-16GB, pci bus id: 0000:00:04.0, compute capability: 7.0
+(863840, 23)
+(863840, 23)
+(1500, 23)
+(1500, 23)
+Input: <jj> what are you eating?
+Predicted translation: 오 오 오 오 만날띵 만날
+Input: <cc> what are you eating?
+Predicted translation: 숟 오 오 오 오 오 오
+Input: <gs> what are you eating?
+Predicted translation: 숟숟숟 오숟 만날 번
+Input: <jd> what are you eating?
+Predicted translation: 뿔 뿔 오 오 오띵띵
+Input: <kw> what are you eating?
+Predicted translation: 뿔 오 오 오 오 오 오
+Input: <jj> what are you eating?
+Predicted translation: 오 오 오 오 만날띵 만날
+Input: <cc> what are you eating?
+Predicted translation: 숟 오 오 오 오 오 오
+Input: <gs> what are you eating?
+Predicted translation: 숟숟숟 오숟 만날 번
+Input: <jd> what are you eating?
+Predicted translation: 뿔 뿔 오 오 오띵띵
+Input: <kw> what are you eating?
+Predicted translation: 뿔 오 오 오 오 오 오
+Input: <jd> kids when i was at work they came over and ate . and go out and the ladies they re all in the hangar . so i m gonna go study in the philippines and i m gonna ask you to let me go . you may not understand what i m saying when you re out of the navy . i m taking a leave of absence like this but it s not like it s like you know a normal company has a break . even if we are on our unit lets eradicate the bad practices a little bit all the people just went in with the thought of just catching it tomorrow morning . usually that s what happens when you get caught but there were kids smoking at the guard post . oh i thought youd leave but you didnt leave . no i m all the kids in town . i don t know what the fuck you re doing when you get off your phone . one more two more . so i hugged her and sent her to do well and looking at her grandmother and grandfather crying next to me its a little exaggerated if he wants a hamburger in his unit how do he eat what he wants out there ? that s why i m not hearing that five percent . its not like that but literally its a gathering of various people across the country i don t think she s gonna survive because she s just gone . yeah but the water s dirty . no i avoided it so come and catch it when you come let s say you re studying over there . they poured it there but it was like what the maneuver training time was he said this and that to the senior and said that he was like this and that and he said something to me and he opened me up . i went to the bar with all my seniors . i went to the bar yesterday .
+Predicted translation: 돈으 돈으 돈으 돈으 돈으 돈으 돈으 돈으 돈으 돈으 쐬씁 쐬 쐬씁 쐬씁씁씁씁씁 쐬씁 쐬씁 쐬씁씁씁씁씁씁씁씁 쐬씁 쐬씁 쐬씁 쐬씁 가격 가격 가격 가격 가격 쐬씁 쐬씁 쐬씁 쐬씁 쐬씁 쐬씁 쐬씁 쐬씁 쐬씁 쐬씁 쐬씁 쐬씁 쐬씁 쐬씁 쐬씁 쐬씁 쐬씁 쐬씁 쐬씁셋 쐬씁 가격 가격 가격 가격 가격 가격 가격 가격 가격씁 쐬씁 쐬씁 가격씁 쐬씁 쐬씁 쐬씁씁씁 쐬씁 쐬씁 쐬씁셋 쐬씁씁씁씁씁씁씁씁씁씁씁씁씁씁씁씁씁씁씁 쐬씁 쐬씁 쐬씁 쐬씁 쐬씁 쐬씁 쐬씁 가격 가격 가격 가격 쐬씁 쐬씁 쐬씁 쐬씁 쐬씁 쐬씁 가격 가격 가격 가격씁 쐬씁 쐬씁 쐬씁 쐬씁 쐬씁 가격 가격 가격 가격씁 가격씁 쐬씁 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 쐬씁 가격 가격 가격 가격 쐬씁 쐬씁 쐬씁 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 쐬씁 쐬씁 쐬씁 쐬씁 쐬씁 쐬씁 살았 쐬씁 가격씁 가격 쐬씁 가격 가격 가격씁 가격씁 가격씁 가격 가격 가격 가격 가격 가격 가격씁 가격 쐬씁 쐬씁 쐬씁 가격씁 가격씁 가격씁 가격 가격 가격씁 가격씁 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 쐬씁 가격 가격 가격씁 가격씁 가격 쐬씁 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격씁 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격 가격씁 가격씁씁씁
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 1229210 entries, 0 to 1229209
+Data columns (total 6 columns):
+ #   Column      Non-Null Count    Dtype
+---  ------      --------------    -----
+ 0   toks_en     1229210 non-null  object
+ 1   toks_dec    1229210 non-null  object
+ 2   source_txt  1229210 non-null  object
+ 3   target_txt  1229210 non-null  object
+ 4   topic       1229210 non-null  object
+ 5   reg         1229210 non-null  object
+dtypes: object(6)
+memory usage: 56.3+ MB
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 500 entries, 24 to 785
+Data columns (total 6 columns):
+ #   Column      Non-Null Count  Dtype
+---  ------      --------------  -----
+ 0   toks_en     500 non-null    object
+ 1   toks_dec    500 non-null    object
+ 2   source_txt  500 non-null    object
+ 3   target_txt  500 non-null    object
+ 4   topic       500 non-null    object
+ 5   reg         500 non-null    object
+dtypes: object(6)
+memory usage: 27.3+ KB
