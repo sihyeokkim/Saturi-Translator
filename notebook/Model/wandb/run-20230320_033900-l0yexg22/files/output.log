@@ -1,0 +1,31 @@
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 1340262 entries, 0 to 1340261
+Data columns (total 8 columns):
+ #   Column    Non-Null Count    Dtype
+---  ------    --------------    -----
+ 0   reg       1340262 non-null  object
+ 1   topic     1340262 non-null  object
+ 2   eng       1340262 non-null  object
+ 3   dial      1340262 non-null  object
+ 4   tok_len   1340262 non-null  int64
+ 5   tok_cat   1340262 non-null  int64
+ 6   toks_en   1340262 non-null  object
+ 7   toks_dec  1340262 non-null  object
+dtypes: int64(2), object(6)
+memory usage: 81.8+ MB
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 250 entries, 1362 to 893
+Data columns (total 8 columns):
+ #   Column    Non-Null Count  Dtype
+---  ------    --------------  -----
+ 0   reg       250 non-null    object
+ 1   topic     250 non-null    object
+ 2   eng       250 non-null    object
+ 3   dial      250 non-null    object
+ 4   tok_len   250 non-null    int64
+ 5   tok_cat   250 non-null    int64
+ 6   toks_en   250 non-null    object
+ 7   toks_dec  250 non-null    object
+dtypes: int64(2), object(6)
+memory usage: 17.6+ KB
+[34m[1mwandb[39m[22m: [33mWARNING[39m Calling wandb.login() after wandb.init() has no effect.

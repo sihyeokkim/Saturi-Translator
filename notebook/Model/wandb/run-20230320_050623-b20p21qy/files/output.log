@@ -1,0 +1,91 @@
+(945858, 31)
+(945858, 31)
+(250, 31)
+(250, 31)
+Initializing from scratch.
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_msp4000_ckpt_0320v1/ckpt-1
+(128889, 47)
+(128889, 47)
+(250, 47)
+(250, 47)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_msp4000_ckpt_0320v1/ckpt-1
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_msp4000_ckpt_0320v1/ckpt-2
+(66532, 69)
+(66532, 69)
+(250, 69)
+(250, 69)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_msp4000_ckpt_0320v1/ckpt-2
+WARNING:tensorflow:5 out of the last 17 calls to <function model_validate at 0x7fa1d4275c10> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_msp4000_ckpt_0320v1/ckpt-3
+(26620, 204)
+(26620, 204)
+(250, 204)
+(250, 204)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_msp4000_ckpt_0320v1/ckpt-3
+WARNING:tensorflow:5 out of the last 17 calls to <function model_validate at 0x7fa1d4275c10> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_msp4000_ckpt_0320v1/ckpt-4
+(67215, 96)
+(67215, 96)
+(250, 96)
+(250, 96)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_msp4000_ckpt_0320v1/ckpt-4
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_msp4000_ckpt_0320v1/ckpt-5
+(26786, 169)
+(26786, 169)
+(250, 169)
+(250, 169)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_msp4000_ckpt_0320v1/ckpt-5
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_msp4000_ckpt_0320v1/ckpt-6
+(25911, 132)
+(25911, 132)
+(250, 132)
+(250, 132)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_msp4000_ckpt_0320v1/ckpt-6
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_msp4000_ckpt_0320v1/ckpt-7
+(26258, 109)
+(26258, 109)
+(250, 109)
+(250, 109)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_msp4000_ckpt_0320v1/ckpt-7
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_msp4000_ckpt_0320v1/ckpt-8
+(6512, 215)
+(6512, 215)
+(250, 215)
+(250, 215)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_msp4000_ckpt_0320v1/ckpt-8
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_msp4000_ckpt_0320v1/ckpt-9
+(10625, 241)
+(10625, 241)
+(250, 241)
+(250, 241)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_msp4000_ckpt_0320v1/ckpt-9
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_msp4000_ckpt_0320v1/ckpt-10
+(1125, 217)
+(1125, 217)
+(250, 217)
+(250, 217)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_msp4000_ckpt_0320v1/ckpt-10
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_msp4000_ckpt_0320v1/ckpt-11
+(6638, 276)
+(6638, 276)
+(250, 276)
+(250, 276)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_msp4000_ckpt_0320v1/ckpt-11
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_msp4000_ckpt_0320v1/ckpt-12
+(1293, 396)
+(1293, 396)
+(250, 396)
+(250, 396)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_msp4000_ckpt_0320v1/ckpt-12
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_msp4000_ckpt_0320v1/ckpt-13
+Input: <jj> what are you doing?
+Predicted translation: 어떵허당 보난이
+Input: <cc> what are you doing?
+Predicted translation: 니는 뭐~ 그~ 뭐
+Input: <gs> what are you doing?
+Predicted translation: 니느 뭐~ 뭐~ 뭐
+Input: <jd> what are you doing?
+Predicted translation: 니는 뭐~ 머시기 머시기 머시기
+Input: <kw> what are you doing?
+Predicted translation: 지굼 뭐러 카는 기
+5.50107263999962
