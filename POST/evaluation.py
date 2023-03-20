@@ -37,10 +37,13 @@ def visualize_attention(src, tgt, enc_attns, dec_attns, dec_enc_attns):
         plt.show()
 
 # 번역 생성 함수
-def evaluate(sentence, model, src_tokenizer, tgt_tokenizer, max_len):
+def evaluate(sentence, model, src_tokenizer, tgt_tokenizer):
     sentence = preprocess_sentence(sentence)
     pieces = src_tokenizer.encode_as_pieces(sentence)
     tokens = src_tokenizer.encode_as_ids(sentence)
+    max_len = len(tokens)
+    if max_len > 512 :
+        max_len = 512
 
     _input = tf.keras.preprocessing.sequence.pad_sequences([tokens], maxlen=max_len, padding='post')
 
@@ -61,11 +64,11 @@ def evaluate(sentence, model, src_tokenizer, tgt_tokenizer, max_len):
         ids.append(predicted_id)
         output = tf.concat([output, tf.expand_dims([predicted_id], 0)], axis=-1)
     result = tgt_tokenizer.decode_ids(ids)
-    return pieces, result, enc_attns, dec_attns, dec_enc_attns
+    return ids, result, enc_attns, dec_attns, dec_enc_attns
 
 # 번역 생성 및 Attention 시각화 결합
-def translate(sentence, model, src_tokenizer, tgt_tokenizer, max_len, verbose =False , plot_attention=False):
-    pieces, result, enc_attns, dec_attns, dec_enc_attns = evaluate(sentence, model, src_tokenizer, tgt_tokenizer, max_len)
+def translate(sentence, model, src_tokenizer, tgt_tokenizer, verbose =False , plot_attention=False):
+    pieces, result, enc_attns, dec_attns, dec_enc_attns = evaluate(sentence, model, src_tokenizer, tgt_tokenizer)
     
     if verbose :
         print('Input: %s' % (sentence))

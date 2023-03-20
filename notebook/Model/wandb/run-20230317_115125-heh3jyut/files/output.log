@@ -1,0 +1,345 @@
+(946750, 33)
+(946750, 33)
+(1500, 33)
+(1500, 33)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317/ckpt-13
+(946750, 33)
+(946750, 33)
+(1500, 33)
+(1500, 33)
+Initializing from scratch.
+(946750, 33)
+(946750, 33)
+(1500, 33)
+(1500, 33)
+Initializing from scratch.
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-1
+(128594, 49)
+(128594, 49)
+(1500, 49)
+(1500, 49)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-1
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-2
+(64138, 70)
+(64138, 70)
+(1500, 70)
+(1500, 70)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-2
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-3
+(26894, 205)
+(26894, 205)
+(1500, 205)
+(1500, 205)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-3
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-4
+(67325, 97)
+(67325, 97)
+(1500, 97)
+(1500, 97)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-4
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-5
+(26755, 170)
+(26755, 170)
+(1500, 170)
+(1500, 170)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-5
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-6
+(26647, 133)
+(26647, 133)
+(1500, 133)
+(1500, 133)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-6
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-7
+(26716, 110)
+(26716, 110)
+(1500, 110)
+(1500, 110)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-7
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-8
+(6591, 216)
+(6591, 216)
+(1500, 216)
+(1500, 216)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-8
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-9
+(10258, 242)
+(10258, 242)
+(1500, 242)
+(1500, 242)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-9
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-10
+(1587, 219)
+(1587, 219)
+(1500, 219)
+(1500, 219)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-10
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-11
+(6680, 277)
+(6680, 277)
+(1500, 277)
+(1500, 277)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-11
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-12
+(1327, 396)
+(1327, 396)
+(1500, 396)
+(1500, 396)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-12
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_spm4000_ckpt_0317v1/ckpt-13
+Input: <jj> what are you eating?
+Predicted translation: 나맨 막이  ⁇ 먹 ⁇  먹어
+Input: <cc> what are you eating?
+Predicted translation: 뭘 먹고살다 이케
+Input: <gs> what are you eating?
+Predicted translation: 뭐 ⁇   ⁇ 그 ⁇  뭐꼬
+Input: <jd> what are you eating?
+Predicted translation: 뭘라까  ⁇ 먹 ⁇
+Input: <kw> what are you eating?
+Predicted translation: 뭐 ⁇  뭐 ⁇  뭐 ⁇  뭐
+5.5445162520045415
+2023-03-17 12:49:25.533532: W tensorflow/core/framework/op_kernel.cc:1745] OP_REQUIRES failed at strided_slice_op.cc:108 : INVALID_ARGUMENT: Index out of range using input dim 1; input has only 1 dims
+2023-03-17 12:49:43.280472: W tensorflow/core/framework/op_kernel.cc:1745] OP_REQUIRES failed at strided_slice_op.cc:108 : INVALID_ARGUMENT: Index out of range using input dim 1; input has only 1 dims
+2023-03-17 12:51:49.550457: W tensorflow/core/framework/op_kernel.cc:1745] OP_REQUIRES failed at strided_slice_op.cc:108 : INVALID_ARGUMENT: Index out of range using input dim 1; input has only 1 dims
+Input: <jj> what are you eating?
+Predicted translation:  ⁇ 그 ⁇  그러먼은
+Input: <cc> what are you eating?
+Predicted translation:  ⁇ 그 ⁇  그러먼은
+Input: <gs> what are you eating?
+Predicted translation:  ⁇ 그 ⁇  그러먼은
+Input: <jd> what are you eating?
+Predicted translation:  ⁇ 그 ⁇  그러먼은
+Input: <kw> what are you eating?
+Predicted translation:  ⁇ 그 ⁇  그러먼은
+5.323257844000182
+Input: <jj> what are you eating?
+Predicted translation:  ⁇ 그 ⁇  그러먼은
+Input: <cc> what are you eating?
+Predicted translation:  ⁇ 그 ⁇  그러먼은
+Input: <gs> what are you eating?
+Predicted translation:  ⁇ 그 ⁇  그러먼은
+Input: <jd> what are you eating?
+Predicted translation:  ⁇ 그 ⁇  그러먼은
+Input: <kw> what are you eating?
+Predicted translation:  ⁇ 그 ⁇  그러먼은
+5.5214064289975795
+Input: <jj> what are you eating?
+Predicted translation:  ⁇ 그 ⁇  그러먼은
+Input: <cc> what are you eating?
+Predicted translation:  ⁇ 그 ⁇  그러먼은
+Input: <gs> what are you eating?
+Predicted translation:  ⁇ 그 ⁇  그러먼은
+Input: <jd> what are you eating?
+Predicted translation:  ⁇ 그 ⁇  그러먼은
+Input: <kw> what are you eating?
+Predicted translation:  ⁇ 그 ⁇  그러먼은
+8.6555270989993
+Input: <jj> what are you eating?
+Predicted translation:  ⁇ 그 ⁇  그러먼은
+Input: <cc> what are you eating?
+Predicted translation:  ⁇ 그 ⁇  그러먼은
+Input: <gs> what are you eating?
+Predicted translation:  ⁇ 그 ⁇  그러먼은
+Input: <jd> what are you eating?
+Predicted translation:  ⁇ 그 ⁇  그러먼은
+Input: <kw> what are you eating?
+Predicted translation:  ⁇ 그 ⁇  그러먼은
+5.518744995002635
+Input: <jj> what are you eating?
+Predicted translation:  ⁇ 그 ⁇  그러먼은
+Input: <cc> what are you eating?
+Predicted translation:  ⁇ 그 ⁇  그러먼은
+Input: <gs> what are you eating?
+Predicted translation:  ⁇ 그 ⁇  그러먼은
+Input: <jd> what are you eating?
+Predicted translation:  ⁇ 그 ⁇  그러먼은
+Input: <kw> what are you eating?
+Predicted translation:  ⁇ 그 ⁇  그러먼은
+5.701806262004538
+Input: <jj> what are you eating?
+Predicted translation: 나맨 막이  ⁇ 먹 ⁇  먹어
+Input: <cc> what are you eating?
+Predicted translation: 뭘 먹고살다 이케
+Input: <gs> what are you eating?
+Predicted translation: 뭐 ⁇   ⁇ 그 ⁇  뭐꼬
+Input: <jd> what are you eating?
+Predicted translation: 뭘라까  ⁇ 먹 ⁇
+Input: <kw> what are you eating?
+Predicted translation: 뭐 ⁇  뭐 ⁇  뭐 ⁇  뭐
+5.338193608993606
+Input: <jd> Your hairstyle is different. You have to wear an inner clothes so its a little ambiguous. If it's hot, I can take it off, but if it's cold, I don't have an answer. If you don't get the sound of rain coming, you're gonna drink it inside, and you're gonna hear it. Then how annoying it would be I think I remember a little. If the fertilizer sacks are thin, they're like a hole in the ass, and they really hurt because they're hard and they're hard. And what is it Life has been such a good day. Its really ridiculous but in the end he couldnt come What should I do. It's dangerous, but I don't think it's going to have to be a bit of a climb for a while. Oh, right now you've got a great rotary loop that's been torn down.
+Predicted translation: 그 ⁇  스타일은 인제 다른게 스타일이어가지구  ⁇ 이 ⁇   ⁇ 이 ⁇   ⁇ 이 ⁇   ⁇ 이 ⁇   ⁇ 이 ⁇   ⁇ 이 ⁇   ⁇ 이 ⁇   ⁇ 이 ⁇   ⁇ 이 ⁇   ⁇ 이 ⁇   ⁇ 이 ⁇   ⁇ 이 ⁇   ⁇ 이 ⁇   ⁇ 이 ⁇   ⁇ 이 ⁇   ⁇ 이 ⁇   ⁇ 이 ⁇   ⁇ 이 ⁇   ⁇ 이 ⁇   ⁇ 이 ⁇   ⁇ 이 ⁇   ⁇ 이 ⁇   ⁇ 이 ⁇   ⁇ 이 ⁇   ⁇ 이 ⁇   ⁇ 이 ⁇   ⁇ 이 ⁇   ⁇ 이 ⁇   ⁇ 이 ⁇   ⁇ 이 ⁇   ⁇ 이 ⁇   ⁇ 이 ⁇   ⁇ 이 ⁇ 이 ⁇   ⁇ 이 ⁇   ⁇ 이 ⁇   ⁇ 이 ⁇   ⁇ 이 ⁇   ⁇ 이 ⁇   ⁇ 이 ⁇   ⁇ 이 ⁇   ⁇ 이 ⁇   ⁇ 이 ⁇   ⁇
+29.074083702005737
+Input: <jd> Theres a conflict between good and evil
+Predicted translation:  ⁇ 과 ⁇   ⁇ 과 ⁇   ⁇ 과 ⁇
+1.882407539000269
+Input: <jd> Before I graduated I bragged about being a filial son and a filial daughter. I want you to be nice and kind. What are you talking about?
+Predicted translation: 자슥을 자고로 졸어브러 효능을 딸라 효능을 효율화를 딸라  ⁇ 아 ⁇  효녀 효녀를 딸라
+5.478792317000625
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 1340262 entries, 0 to 1340261
+Data columns (total 8 columns):
+ #   Column    Non-Null Count    Dtype
+---  ------    --------------    -----
+ 0   reg       1340262 non-null  object
+ 1   topic     1340262 non-null  object
+ 2   eng       1340262 non-null  object
+ 3   dial      1340262 non-null  object
+ 4   tok_len   1340262 non-null  int64
+ 5   tok_cat   1340262 non-null  int64
+ 6   toks_en   1340262 non-null  object
+ 7   toks_dec  1340262 non-null  object
+dtypes: int64(2), object(6)
+memory usage: 81.8+ MB
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 250 entries, 24 to 400
+Data columns (total 8 columns):
+ #   Column    Non-Null Count  Dtype
+---  ------    --------------  -----
+ 0   reg       250 non-null    object
+ 1   topic     250 non-null    object
+ 2   eng       250 non-null    object
+ 3   dial      250 non-null    object
+ 4   tok_len   250 non-null    int64
+ 5   tok_cat   250 non-null    int64
+ 6   toks_en   250 non-null    object
+ 7   toks_dec  250 non-null    object
+dtypes: int64(2), object(6)
+memory usage: 17.6+ KB
+Input: <gs> Why dont you have boiled eggs in that province
+Predicted translation: 랑 그 ⁇  랑 그 ⁇  계란에서느 계란이
+2.0784217859982164
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 1340262 entries, 0 to 1340261
+Data columns (total 8 columns):
+ #   Column    Non-Null Count    Dtype
+---  ------    --------------    -----
+ 0   reg       1340262 non-null  object
+ 1   topic     1340262 non-null  object
+ 2   eng       1340262 non-null  object
+ 3   dial      1340262 non-null  object
+ 4   tok_len   1340262 non-null  int64
+ 5   tok_cat   1340262 non-null  int64
+ 6   toks_en   1340262 non-null  object
+ 7   toks_dec  1340262 non-null  object
+dtypes: int64(2), object(6)
+memory usage: 81.8+ MB
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 1340262 entries, 0 to 1340261
+Data columns (total 8 columns):
+ #   Column    Non-Null Count    Dtype
+---  ------    --------------    -----
+ 0   reg       1340262 non-null  object
+ 1   topic     1340262 non-null  object
+ 2   eng       1340262 non-null  object
+ 3   dial      1340262 non-null  object
+ 4   tok_len   1340262 non-null  int64
+ 5   tok_cat   1340262 non-null  int64
+ 6   toks_en   1340262 non-null  object
+ 7   toks_dec  1340262 non-null  object
+dtypes: int64(2), object(6)
+memory usage: 81.8+ MB
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 1340262 entries, 0 to 1340261
+Data columns (total 8 columns):
+ #   Column    Non-Null Count    Dtype
+---  ------    --------------    -----
+ 0   reg       1340262 non-null  object
+ 1   topic     1340262 non-null  object
+ 2   eng       1340262 non-null  object
+ 3   dial      1340262 non-null  object
+ 4   tok_len   1340262 non-null  int64
+ 5   tok_cat   1340262 non-null  int64
+ 6   toks_en   1340262 non-null  object
+ 7   toks_dec  1340262 non-null  object
+dtypes: int64(2), object(6)
+memory usage: 81.8+ MB
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 1340262 entries, 0 to 1340261
+Data columns (total 8 columns):
+ #   Column    Non-Null Count    Dtype
+---  ------    --------------    -----
+ 0   reg       1340262 non-null  object
+ 1   topic     1340262 non-null  object
+ 2   eng       1340262 non-null  object
+ 3   dial      1340262 non-null  object
+ 4   tok_len   1340262 non-null  int64
+ 5   tok_cat   1340262 non-null  int64
+ 6   toks_en   1340262 non-null  object
+ 7   toks_dec  1340262 non-null  object
+dtypes: int64(2), object(6)
+memory usage: 81.8+ MB
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 1340262 entries, 0 to 1340261
+Data columns (total 8 columns):
+ #   Column    Non-Null Count    Dtype
+---  ------    --------------    -----
+ 0   reg       1340262 non-null  object
+ 1   topic     1340262 non-null  object
+ 2   eng       1340262 non-null  object
+ 3   dial      1340262 non-null  object
+ 4   tok_len   1340262 non-null  int64
+ 5   tok_cat   1340262 non-null  int64
+ 6   toks_en   1340262 non-null  object
+ 7   toks_dec  1340262 non-null  object
+dtypes: int64(2), object(6)
+memory usage: 81.8+ MB
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 1340262 entries, 0 to 1340261
+Data columns (total 8 columns):
+ #   Column    Non-Null Count    Dtype
+---  ------    --------------    -----
+ 0   reg       1340262 non-null  object
+ 1   topic     1340262 non-null  object
+ 2   eng       1340262 non-null  object
+ 3   dial      1340262 non-null  object
+ 4   tok_len   1340262 non-null  int64
+ 5   tok_cat   1340262 non-null  int64
+ 6   toks_en   1340262 non-null  object
+ 7   toks_dec  1340262 non-null  object
+dtypes: int64(2), object(6)
+memory usage: 81.8+ MB
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 1340262 entries, 0 to 1340261
+Data columns (total 8 columns):
+ #   Column    Non-Null Count    Dtype
+---  ------    --------------    -----
+ 0   reg       1340262 non-null  object
+ 1   topic     1340262 non-null  object
+ 2   eng       1340262 non-null  object
+ 3   dial      1340262 non-null  object
+ 4   tok_len   1340262 non-null  int64
+ 5   tok_cat   1340262 non-null  int64
+ 6   toks_en   1340262 non-null  object
+ 7   toks_dec  1340262 non-null  object
+dtypes: int64(2), object(6)
+memory usage: 81.8+ MB
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 1340262 entries, 0 to 1340261
+Data columns (total 8 columns):
+ #   Column    Non-Null Count    Dtype
+---  ------    --------------    -----
+ 0   reg       1340262 non-null  object
+ 1   topic     1340262 non-null  object
+ 2   eng       1340262 non-null  object
+ 3   dial      1340262 non-null  object
+ 4   tok_len   1340262 non-null  int64
+ 5   tok_cat   1340262 non-null  int64
+ 6   toks_en   1340262 non-null  object
+ 7   toks_dec  1340262 non-null  object
+dtypes: int64(2), object(6)
+memory usage: 81.8+ MB
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 1340262 entries, 0 to 1340261
+Data columns (total 8 columns):
+ #   Column    Non-Null Count    Dtype
+---  ------    --------------    -----
+ 0   reg       1340262 non-null  object
+ 1   topic     1340262 non-null  object
+ 2   eng       1340262 non-null  object
+ 3   dial      1340262 non-null  object
+ 4   tok_len   1340262 non-null  int64
+ 5   tok_cat   1340262 non-null  int64
+ 6   toks_en   1340262 non-null  object
+ 7   toks_dec  1340262 non-null  object
+dtypes: int64(2), object(6)
+memory usage: 81.8+ MB
