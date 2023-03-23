@@ -1,0 +1,890 @@
+(507935, 30)
+(507935, 30)
+(250, 30)
+(250, 30)
+Initializing from scratch.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch  1: 100%|██████████████| 15873/15873 [09:00<00:00, 29.36it/s, Loss 4.4045]
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_custom_msp8000_ckpt_0322v_max_b3/ckpt-1
+(69308, 45)
+(69308, 45)
+(250, 45)
+(250, 45)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_custom_msp8000_ckpt_0322v_max_b3/ckpt-1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch  1: 100%|████████████████| 2166/2166 [01:46<00:00, 20.27it/s, Loss 3.7500]
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_custom_msp8000_ckpt_0322v_max_b3/ckpt-2
+(14921, 108)
+(14921, 108)
+(250, 108)
+(250, 108)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_custom_msp8000_ckpt_0322v_max_b3/ckpt-2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch  1:  98%|█████████████████▌| 457/467 [00:51<00:00, 10.29it/s, Loss 3.8294]
+
+Epoch  1: 100%|██████████████████| 467/467 [00:52<00:00,  8.90it/s, Loss 3.8266]
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_custom_msp8000_ckpt_0322v_max_b3/ckpt-3
+(36015, 63)
+(36015, 63)
+(250, 63)
+(250, 63)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_custom_msp8000_ckpt_0322v_max_b3/ckpt-3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch  1: 100%|████████████████| 1126/1126 [01:14<00:00, 15.06it/s, Loss 3.6018]
+WARNING:tensorflow:5 out of the last 17 calls to <function model_validate at 0x7f511a60eee0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_custom_msp8000_ckpt_0322v_max_b3/ckpt-4
+(5700, 239)
+(5700, 239)
+(250, 239)
+(250, 239)
+  0%|                                                   | 0/179 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch  1: 100%|██████████████████| 179/179 [00:43<00:00,  4.09it/s, Loss 3.8735]
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_custom_msp8000_ckpt_0322v_max_b3/ckpt-5
+(14100, 152)
+(14100, 152)
+(250, 152)
+(250, 152)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_custom_msp8000_ckpt_0322v_max_b3/ckpt-5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch  1: 100%|██████████████████| 441/441 [01:05<00:00,  6.74it/s, Loss 3.8377]
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_custom_msp8000_ckpt_0322v_max_b3/ckpt-6
+(14377, 203)
+(14377, 203)
+(250, 203)
+(250, 203)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_custom_msp8000_ckpt_0322v_max_b3/ckpt-6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch  1: 100%|██████████████████| 450/450 [01:26<00:00,  5.22it/s, Loss 3.7097]
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_custom_msp8000_ckpt_0322v_max_b3/ckpt-7
+(35025, 93)
+(35025, 93)
+(250, 93)
+(250, 93)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_custom_msp8000_ckpt_0322v_max_b3/ckpt-7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch  1: 100%|████████████████| 1095/1095 [01:48<00:00, 10.05it/s, Loss 3.5429]
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_custom_msp8000_ckpt_0322v_max_b3/ckpt-8
+(3471, 270)
+(3471, 270)
+(250, 270)
+(250, 270)
+  0%|                                                   | 0/109 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch  1: 100%|██████████████████| 109/109 [00:33<00:00,  3.28it/s, Loss 3.4479]
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_custom_msp8000_ckpt_0322v_max_b3/ckpt-9
+(14142, 125)
+(14142, 125)
+(250, 125)
+(250, 125)
+  0%|                                                   | 0/442 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch  1: 100%|██████████████████| 442/442 [00:56<00:00,  7.79it/s, Loss 3.3186]
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_custom_msp8000_ckpt_0322v_max_b3/ckpt-10
+(842, 217)
+(842, 217)
+(250, 217)
+(250, 217)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_custom_msp8000_ckpt_0322v_max_b3/ckpt-10
+
+
+
+
+Epoch  1: 100%|████████████████████| 27/27 [00:12<00:00,  2.17it/s, Loss 3.3745]
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_custom_msp8000_ckpt_0322v_max_b3/ckpt-11
+(3466, 214)
+(3466, 214)
+(250, 214)
+(250, 214)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_custom_msp8000_ckpt_0322v_max_b3/ckpt-11
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch  1: 100%|██████████████████| 109/109 [00:26<00:00,  4.07it/s, Loss 3.2130]
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_custom_msp8000_ckpt_0322v_max_b3/ckpt-12
+(698, 337)
+(698, 337)
+(250, 337)
+(250, 337)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_custom_msp8000_ckpt_0322v_max_b3/ckpt-12
+
+
+
+
+
+Epoch  1: 100%|████████████████████| 22/22 [00:14<00:00,  1.56it/s, Loss 3.4261]
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_custom_msp8000_ckpt_0322v_max_b3/ckpt-13
+Input: <jj> i like this song .
+Predicted translation: 요 노래를 요 노래를 잘도 좋아하
+Input: <cc> i like this song .
+Predicted translation: 유 노래를 쫌 좋아하는 편이에
+Input: <gs> i like this song .
+Predicted translation: 예 노래가 쫌 예 노래를 드나
+Input: <jd> i like this song .
+Predicted translation: 요잉 노래를 좀 좋아하는 거이 같
+Input: <kw> i like this song .
+Predicted translation: 요 노래는 요 노래를 좋아하라
+4.303536022001936
+(507935, 30)
+(507935, 30)
+(250, 30)
+(250, 30)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_custom_msp8000_ckpt_0322v_max_b3/ckpt-13
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
