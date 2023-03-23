@@ -1,0 +1,84 @@
+{
+    "os": "Linux-5.15.0-1030-gcp-x86_64-with-glibc2.31",
+    "python": "3.9.16",
+    "heartbeatAt": "2023-03-23T03:54:08.238579",
+    "startedAt": "2023-03-23T03:54:07.720047",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "aiffel/saturi/notebook/Model/[Aiffelthon]_Saturi_BaseModel_tokenizer_sy.ipynb",
+    "root": "/home/seuyon0101/aiffel/saturi",
+    "git": {
+        "remote": "https://github.com/seuyon0101/saturi.git",
+        "commit": "9f1a9ba87d1d045b3741ae0355ed1b6c709a5d08"
+    },
+    "email": "seuyon0101@gmail.com",
+    "host": "aiffel-online01-saturi",
+    "username": "seuyon0101",
+    "executable": "/home/seuyon0101/anaconda3/envs/saturi/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2299.998,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2299.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2299.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2299.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2299.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2299.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2299.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2299.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2299.998,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 290.5665702819824,
+        "used": 54.510841369628906
+    },
+    "gpu": "Tesla V100-SXM2-16GB",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "Tesla V100-SXM2-16GB",
+            "memory_total": 17179869184
+        }
+    ],
+    "memory": {
+        "total": 29.380165100097656
+    }
+}
