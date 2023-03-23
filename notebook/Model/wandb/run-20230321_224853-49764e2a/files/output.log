@@ -1,0 +1,1975 @@
+2023-03-21 22:48:58.578305: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-21 22:48:58.729025: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-21 22:48:58.729303: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-21 22:48:58.731750: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-03-21 22:48:58.732669: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-21 22:48:58.732923: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-21 22:48:58.733104: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-21 22:49:00.400864: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-21 22:49:00.401134: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-21 22:49:00.401330: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-21 22:49:00.402430: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1525] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 14628 MB memory:  -> device: 0, name: Tesla V100-SXM2-16GB, pci bus id: 0000:00:04.0, compute capability: 7.0
+  0%|                                                 | 0/29559 [00:00<?, ?it/s]
+(945858, 31)
+(945858, 31)
+(250, 31)
+(250, 31)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch  1: 100%|██████████████| 29559/29559 [23:23<00:00, 21.06it/s, Loss 2.2751]
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_custom_msp4000_ckpt_0321v1/ckpt-28
+  0%|                                                  | 0/4028 [00:00<?, ?it/s]
+(128889, 47)
+(128889, 47)
+(250, 47)
+(250, 47)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch  1: 100%|████████████████| 4028/4028 [04:25<00:00, 15.18it/s, Loss 2.4393]
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_custom_msp4000_ckpt_0321v1/ckpt-29
+(66532, 69)
+(66532, 69)
+(250, 69)
+(250, 69)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_custom_msp4000_ckpt_0321v1/ckpt-29
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch  1: 100%|████████████████| 2080/2080 [03:13<00:00, 10.73it/s, Loss 2.3986]
+WARNING:tensorflow:5 out of the last 17 calls to <function model_validate at 0x7f6d14222d30> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+  0%|                                                   | 0/832 [00:00<?, ?it/s]
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_custom_msp4000_ckpt_0321v1/ckpt-30
+(26620, 204)
+(26620, 204)
+(250, 204)
+(250, 204)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch  1: 100%|██████████████████| 832/832 [03:33<00:00,  3.90it/s, Loss 2.7134]
+WARNING:tensorflow:5 out of the last 17 calls to <function model_validate at 0x7f6d14222d30> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_custom_msp4000_ckpt_0321v1/ckpt-31
+(67215, 96)
+(67215, 96)
+(250, 96)
+(250, 96)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_custom_msp4000_ckpt_0321v1/ckpt-31
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch  1: 100%|████████████████| 2101/2101 [04:15<00:00,  8.23it/s, Loss 2.3396]
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_custom_msp4000_ckpt_0321v1/ckpt-32
+(26786, 169)
+(26786, 169)
+(250, 169)
+(250, 169)
+  0%|                                                   | 0/838 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch  1: 100%|██████████████████| 838/838 [02:59<00:00,  4.68it/s, Loss 2.4605]
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_custom_msp4000_ckpt_0321v1/ckpt-33
+(25911, 132)
+(25911, 132)
+(250, 132)
+(250, 132)
+  0%|                                                   | 0/810 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch  1: 100%|██████████████████| 810/810 [02:20<00:00,  5.77it/s, Loss 2.4463]
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_custom_msp4000_ckpt_0321v1/ckpt-34
+  0%|                                                   | 0/821 [00:00<?, ?it/s]
+(26258, 109)
+(26258, 109)
+(250, 109)
+(250, 109)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch  1: 100%|██████████████████| 821/821 [02:00<00:00,  6.83it/s, Loss 2.3759]
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_custom_msp4000_ckpt_0321v1/ckpt-35
+  0%|                                                   | 0/204 [00:00<?, ?it/s]
+(6512, 215)
+(6512, 215)
+(250, 215)
+(250, 215)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch  1: 100%|██████████████████| 204/204 [01:01<00:00,  3.32it/s, Loss 2.6036]
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_custom_msp4000_ckpt_0321v1/ckpt-36
+(10625, 241)
+(10625, 241)
+(250, 241)
+(250, 241)
+  0%|                                                   | 0/333 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch  1: 100%|██████████████████| 333/333 [01:45<00:00,  3.14it/s, Loss 2.5521]
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_custom_msp4000_ckpt_0321v1/ckpt-37
+  0%|                                                    | 0/36 [00:00<?, ?it/s]
+(1125, 217)
+(1125, 217)
+(250, 217)
+(250, 217)
+
+
+
+
+
+
+
+Epoch  1: 100%|████████████████████| 36/36 [00:18<00:00,  1.93it/s, Loss 2.5930]
+  0%|                                                   | 0/208 [00:00<?, ?it/s]
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_custom_msp4000_ckpt_0321v1/ckpt-38
+(6638, 276)
+(6638, 276)
+(250, 276)
+(250, 276)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch  1: 100%|██████████████████| 208/208 [01:18<00:00,  2.64it/s, Loss 2.6024]
+  0%|                                                   | 0/162 [00:00<?, ?it/s]
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_custom_msp4000_ckpt_0321v1/ckpt-39
+(1293, 396)
+(1293, 396)
+(250, 396)
+(250, 396)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch  1: 100%|██████████████████| 162/162 [00:33<00:00,  4.88it/s, Loss 2.7095]
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_custom_msp4000_ckpt_0321v1/ckpt-40
+Input: <jj> what are you doing?
+Predicted translation: -뭐- 뭐랜 하지
+Input: <cc> what are you doing?
+Predicted translation: 냐 뭐~ 냐 뭐~ 뭐
+Input: <gs> what are you doing?
+Predicted translation: 니느 뭐~ 뭐~ 뭐
+Input: <jd> what are you doing?
+Predicted translation: 모빠 모빠 모빠 모
+Input: <kw> what are you doing?
+Predicted translation: 뭐러 헤 먹었나 뭐
+5.052381655999852
+Using the latest cached version of the module from /home/seuyon0101/.cache/huggingface/modules/datasets_modules/metrics/sacrebleu/31e1673407d8789b8f5ddfd979948f6a1de0a6d691426d55fa74a35ffb0c1bdf (last modified on Wed Mar 15 03:45:23 2023) since it couldn't be found locally at sacrebleu, or remotely on the Hugging Face Hub.
+/bin/bash: /home/seuyon0101/anaconda3/envs/saturi/lib/libtinfo.so.6: no version information available (required by /bin/bash)
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: sacrebleu in /home/seuyon0101/.local/lib/python3.8/site-packages (2.3.1)
+Requirement already satisfied: colorama in /usr/lib/python3/dist-packages (from sacrebleu) (0.4.3)
+Requirement already satisfied: numpy>=1.17 in /home/seuyon0101/.local/lib/python3.8/site-packages (from sacrebleu) (1.24.2)
+Requirement already satisfied: tabulate>=0.8.9 in /home/seuyon0101/.local/lib/python3.8/site-packages (from sacrebleu) (0.9.0)
+Requirement already satisfied: portalocker in /home/seuyon0101/.local/lib/python3.8/site-packages (from sacrebleu) (2.7.0)
+Requirement already satisfied: lxml in /home/seuyon0101/.local/lib/python3.8/site-packages (from sacrebleu) (4.9.2)
+Requirement already satisfied: regex in /home/seuyon0101/.local/lib/python3.8/site-packages (from sacrebleu) (2022.10.31)
+Using the latest cached version of the module from /home/seuyon0101/.cache/huggingface/modules/datasets_modules/metrics/sacrebleu/31e1673407d8789b8f5ddfd979948f6a1de0a6d691426d55fa74a35ffb0c1bdf (last modified on Wed Mar 15 03:45:23 2023) since it couldn't be found locally at sacrebleu, or remotely on the Hugging Face Hub.
+Using the latest cached version of the module from /home/seuyon0101/.cache/huggingface/modules/datasets_modules/metrics/sacrebleu/31e1673407d8789b8f5ddfd979948f6a1de0a6d691426d55fa74a35ffb0c1bdf (last modified on Wed Mar 15 03:45:23 2023) since it couldn't be found locally at sacrebleu, or remotely on the Hugging Face Hub.
+/bin/bash: /home/seuyon0101/anaconda3/envs/saturi/lib/libtinfo.so.6: no version information available (required by /bin/bash)
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: sacrebleu in /home/seuyon0101/.local/lib/python3.8/site-packages (2.3.1)
+Requirement already satisfied: colorama in /usr/lib/python3/dist-packages (from sacrebleu) (0.4.3)
+Requirement already satisfied: regex in /home/seuyon0101/.local/lib/python3.8/site-packages (from sacrebleu) (2022.10.31)
+Requirement already satisfied: portalocker in /home/seuyon0101/.local/lib/python3.8/site-packages (from sacrebleu) (2.7.0)
+Requirement already satisfied: numpy>=1.17 in /home/seuyon0101/.local/lib/python3.8/site-packages (from sacrebleu) (1.24.2)
+Requirement already satisfied: lxml in /home/seuyon0101/.local/lib/python3.8/site-packages (from sacrebleu) (4.9.2)
+Requirement already satisfied: tabulate>=0.8.9 in /home/seuyon0101/.local/lib/python3.8/site-packages (from sacrebleu) (0.9.0)
+/bin/bash: /home/seuyon0101/anaconda3/envs/saturi/lib/libtinfo.so.6: no version information available (required by /bin/bash)
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: sacrebleu==2.3.1 in /home/seuyon0101/.local/lib/python3.8/site-packages (2.3.1)
+Requirement already satisfied: colorama in /usr/lib/python3/dist-packages (from sacrebleu==2.3.1) (0.4.3)
+Requirement already satisfied: lxml in /home/seuyon0101/.local/lib/python3.8/site-packages (from sacrebleu==2.3.1) (4.9.2)
+Requirement already satisfied: regex in /home/seuyon0101/.local/lib/python3.8/site-packages (from sacrebleu==2.3.1) (2022.10.31)
+Requirement already satisfied: portalocker in /home/seuyon0101/.local/lib/python3.8/site-packages (from sacrebleu==2.3.1) (2.7.0)
+Requirement already satisfied: tabulate>=0.8.9 in /home/seuyon0101/.local/lib/python3.8/site-packages (from sacrebleu==2.3.1) (0.9.0)
+Requirement already satisfied: numpy>=1.17 in /home/seuyon0101/.local/lib/python3.8/site-packages (from sacrebleu==2.3.1) (1.24.2)
+/bin/bash: /home/seuyon0101/anaconda3/envs/saturi/lib/libtinfo.so.6: no version information available (required by /bin/bash)
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: datasets in /home/seuyon0101/.local/lib/python3.8/site-packages (2.10.1)
+Requirement already satisfied: requests>=2.19.0 in /home/seuyon0101/.local/lib/python3.8/site-packages (from datasets) (2.28.2)
+Requirement already satisfied: fsspec[http]>=2021.11.1 in /home/seuyon0101/.local/lib/python3.8/site-packages (from datasets) (2023.3.0)
+Requirement already satisfied: pyyaml>=5.1 in /usr/lib/python3/dist-packages (from datasets) (5.3.1)
+Requirement already satisfied: pandas in /home/seuyon0101/.local/lib/python3.8/site-packages (from datasets) (1.5.3)
+Requirement already satisfied: xxhash in /home/seuyon0101/.local/lib/python3.8/site-packages (from datasets) (3.2.0)
+Requirement already satisfied: numpy>=1.17 in /home/seuyon0101/.local/lib/python3.8/site-packages (from datasets) (1.24.2)
+Requirement already satisfied: responses<0.19 in /home/seuyon0101/.local/lib/python3.8/site-packages (from datasets) (0.18.0)
+Requirement already satisfied: tqdm>=4.62.1 in /home/seuyon0101/.local/lib/python3.8/site-packages (from datasets) (4.65.0)
+Requirement already satisfied: huggingface-hub<1.0.0,>=0.2.0 in /home/seuyon0101/.local/lib/python3.8/site-packages (from datasets) (0.13.2)
+Requirement already satisfied: multiprocess in /home/seuyon0101/.local/lib/python3.8/site-packages (from datasets) (0.70.14)
+Requirement already satisfied: dill<0.3.7,>=0.3.0 in /home/seuyon0101/.local/lib/python3.8/site-packages (from datasets) (0.3.6)
+Requirement already satisfied: aiohttp in /home/seuyon0101/.local/lib/python3.8/site-packages (from datasets) (3.8.4)
+Requirement already satisfied: pyarrow>=6.0.0 in /home/seuyon0101/.local/lib/python3.8/site-packages (from datasets) (11.0.0)
+Requirement already satisfied: packaging in /home/seuyon0101/.local/lib/python3.8/site-packages (from datasets) (23.0)
+Requirement already satisfied: multidict<7.0,>=4.5 in /home/seuyon0101/.local/lib/python3.8/site-packages (from aiohttp->datasets) (6.0.4)
+Requirement already satisfied: frozenlist>=1.1.1 in /home/seuyon0101/.local/lib/python3.8/site-packages (from aiohttp->datasets) (1.3.3)
+Requirement already satisfied: attrs>=17.3.0 in /usr/lib/python3/dist-packages (from aiohttp->datasets) (19.3.0)
+Requirement already satisfied: charset-normalizer<4.0,>=2.0 in /home/seuyon0101/.local/lib/python3.8/site-packages (from aiohttp->datasets) (3.1.0)
+Requirement already satisfied: aiosignal>=1.1.2 in /home/seuyon0101/.local/lib/python3.8/site-packages (from aiohttp->datasets) (1.3.1)
+Requirement already satisfied: yarl<2.0,>=1.0 in /home/seuyon0101/.local/lib/python3.8/site-packages (from aiohttp->datasets) (1.8.2)
+Requirement already satisfied: async-timeout<5.0,>=4.0.0a3 in /home/seuyon0101/.local/lib/python3.8/site-packages (from aiohttp->datasets) (4.0.2)
+Requirement already satisfied: filelock in /home/seuyon0101/.local/lib/python3.8/site-packages (from huggingface-hub<1.0.0,>=0.2.0->datasets) (3.9.0)
+Requirement already satisfied: typing-extensions>=3.7.4.3 in /home/seuyon0101/.local/lib/python3.8/site-packages (from huggingface-hub<1.0.0,>=0.2.0->datasets) (4.5.0)
+Requirement already satisfied: certifi>=2017.4.17 in /usr/lib/python3/dist-packages (from requests>=2.19.0->datasets) (2019.11.28)
+Requirement already satisfied: idna<4,>=2.5 in /usr/lib/python3/dist-packages (from requests>=2.19.0->datasets) (2.8)
+Requirement already satisfied: urllib3<1.27,>=1.21.1 in /home/seuyon0101/.local/lib/python3.8/site-packages (from requests>=2.19.0->datasets) (1.26.15)
+Requirement already satisfied: python-dateutil>=2.8.1 in /home/seuyon0101/.local/lib/python3.8/site-packages (from pandas->datasets) (2.8.2)
+Requirement already satisfied: pytz>=2020.1 in /home/seuyon0101/.local/lib/python3.8/site-packages (from pandas->datasets) (2022.7.1)
+Requirement already satisfied: six>=1.5 in /usr/lib/python3/dist-packages (from python-dateutil>=2.8.1->pandas->datasets) (1.14.0)
+Using the latest cached version of the module from /home/seuyon0101/.cache/huggingface/modules/datasets_modules/metrics/sacrebleu/31e1673407d8789b8f5ddfd979948f6a1de0a6d691426d55fa74a35ffb0c1bdf (last modified on Wed Mar 15 03:45:23 2023) since it couldn't be found locally at sacrebleu, or remotely on the Hugging Face Hub.
+/bin/bash: /home/seuyon0101/anaconda3/envs/saturi/lib/libtinfo.so.6: no version information available (required by /bin/bash)
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: sacrebleu in /home/seuyon0101/.local/lib/python3.8/site-packages (2.3.1)
+Requirement already satisfied: tabulate>=0.8.9 in /home/seuyon0101/.local/lib/python3.8/site-packages (from sacrebleu) (0.9.0)
+Requirement already satisfied: regex in /home/seuyon0101/.local/lib/python3.8/site-packages (from sacrebleu) (2022.10.31)
+Requirement already satisfied: colorama in /usr/lib/python3/dist-packages (from sacrebleu) (0.4.3)
+Requirement already satisfied: numpy>=1.17 in /home/seuyon0101/.local/lib/python3.8/site-packages (from sacrebleu) (1.24.2)
+Requirement already satisfied: portalocker in /home/seuyon0101/.local/lib/python3.8/site-packages (from sacrebleu) (2.7.0)
+Requirement already satisfied: lxml in /home/seuyon0101/.local/lib/python3.8/site-packages (from sacrebleu) (4.9.2)
+/bin/bash: /home/seuyon0101/anaconda3/envs/saturi/lib/libtinfo.so.6: no version information available (required by /bin/bash)
+Usage:
+  pip install [options] <requirement specifier> [package-index-options] ...
+  pip install [options] -r <requirements file> [package-index-options] ...
+  pip install [options] [-e] <vcs project url> ...
+  pip install [options] [-e] <local project path> ...
+  pip install [options] <archive url/path> ...
+no such option: -m
+/bin/bash: /home/seuyon0101/anaconda3/envs/saturi/lib/libtinfo.so.6: no version information available (required by /bin/bash)
+Usage:
+  pip <command> [options]
+no such option: -m
+/bin/bash: /home/seuyon0101/anaconda3/envs/saturi/lib/libtinfo.so.6: no version information available (required by /bin/bash)
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: sacrebleu[ko] in /home/seuyon0101/.local/lib/python3.8/site-packages (2.3.1)
+Requirement already satisfied: numpy>=1.17 in /home/seuyon0101/.local/lib/python3.8/site-packages (from sacrebleu[ko]) (1.24.2)
+Requirement already satisfied: lxml in /home/seuyon0101/.local/lib/python3.8/site-packages (from sacrebleu[ko]) (4.9.2)
+Requirement already satisfied: tabulate>=0.8.9 in /home/seuyon0101/.local/lib/python3.8/site-packages (from sacrebleu[ko]) (0.9.0)
+Requirement already satisfied: portalocker in /home/seuyon0101/.local/lib/python3.8/site-packages (from sacrebleu[ko]) (2.7.0)
+Requirement already satisfied: regex in /home/seuyon0101/.local/lib/python3.8/site-packages (from sacrebleu[ko]) (2022.10.31)
+Requirement already satisfied: colorama in /usr/lib/python3/dist-packages (from sacrebleu[ko]) (0.4.3)
+Collecting mecab-ko==1.0.0
+  Downloading mecab_ko-1.0.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (578 kB)
+     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[39m [32m578.6/578.6 kB[39m [31m11.5 MB/s[39m eta [36m0:00:00
+[?25hCollecting mecab-ko-dic<2.0,>=1.0
+  Downloading mecab-ko-dic-1.0.0.tar.gz (33.2 MB)
+     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[39m [32m33.2/33.2 MB[39m [31m44.0 MB/s[39m eta [36m0:00:00
+[?25h  Preparing metadata (setup.py) ... [?25lerror
+  [1merror[22m: [1msubprocess-exited-with-error
+  [31m×[39m [32mpython setup.py egg_info[39m did not run successfully.
+  [31m│[39m exit code: [1m1
+  [31m╰─>[39m [31m[1 lines of output]
+  [31m   [39m ERROR: Can not execute `setup.py` since setuptools is not available in the build environment.
+  [31m   [39m [31m[end of output]
+  [1mnote[22m: This error originates from a subprocess, and is likely not a problem with pip.
+[1merror[22m: [1mmetadata-generation-failed
+[31m×[39m Encountered error while generating package metadata.
+[31m╰─>[39m See above for output.
+[1mnote[22m: This is an issue with the package mentioned above, not pip.
+[1mhint[22m: See above for details.
+[?25h/bin/bash: /home/seuyon0101/anaconda3/envs/saturi/lib/libtinfo.so.6: no version information available (required by /bin/bash)
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: sacrebleu in /home/seuyon0101/.local/lib/python3.8/site-packages (2.3.1)
+Requirement already satisfied: colorama in /usr/lib/python3/dist-packages (from sacrebleu) (0.4.3)
+Requirement already satisfied: tabulate>=0.8.9 in /home/seuyon0101/.local/lib/python3.8/site-packages (from sacrebleu) (0.9.0)
+Requirement already satisfied: lxml in /home/seuyon0101/.local/lib/python3.8/site-packages (from sacrebleu) (4.9.2)
+Requirement already satisfied: regex in /home/seuyon0101/.local/lib/python3.8/site-packages (from sacrebleu) (2022.10.31)
+Requirement already satisfied: numpy>=1.17 in /home/seuyon0101/.local/lib/python3.8/site-packages (from sacrebleu) (1.24.2)
+Requirement already satisfied: portalocker in /home/seuyon0101/.local/lib/python3.8/site-packages (from sacrebleu) (2.7.0)
+Using the latest cached version of the module from /home/seuyon0101/.cache/huggingface/modules/datasets_modules/metrics/sacrebleu/31e1673407d8789b8f5ddfd979948f6a1de0a6d691426d55fa74a35ffb0c1bdf (last modified on Wed Mar 15 03:45:23 2023) since it couldn't be found locally at sacrebleu, or remotely on the Hugging Face Hub.
+/bin/bash: /home/seuyon0101/anaconda3/envs/saturi/lib/libtinfo.so.6: no version information available (required by /bin/bash)
+Collecting sacrebleu
+  Using cached sacrebleu-2.3.1-py3-none-any.whl (118 kB)
+Requirement already satisfied: lxml in /home/seuyon0101/anaconda3/envs/saturi/lib/python3.9/site-packages (from sacrebleu) (4.9.2)
+Requirement already satisfied: numpy>=1.17 in /home/seuyon0101/anaconda3/envs/saturi/lib/python3.9/site-packages (from sacrebleu) (1.24.2)
+Collecting colorama
+  Using cached colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Collecting tabulate>=0.8.9
+  Using cached tabulate-0.9.0-py3-none-any.whl (35 kB)
+Collecting portalocker
+  Using cached portalocker-2.7.0-py2.py3-none-any.whl (15 kB)
+Collecting regex
+  Using cached regex-2022.10.31-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (769 kB)
+Installing collected packages: tabulate, regex, portalocker, colorama, sacrebleu
+Successfully installed colorama-0.4.6 portalocker-2.7.0 regex-2022.10.31 sacrebleu-2.3.1 tabulate-0.9.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████| 250/250 [19:35<00:00,  4.70s/it]
