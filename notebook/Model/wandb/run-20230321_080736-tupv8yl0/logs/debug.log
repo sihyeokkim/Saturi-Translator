@@ -1,0 +1,100 @@
+2023-03-21 08:07:36,621 INFO    MainThread:32220 [wandb_setup.py:_flush():76] Configure stats pid to 32220
+2023-03-21 08:07:36,621 INFO    MainThread:32220 [wandb_setup.py:_flush():76] Loading settings from /home/seuyon0101/.config/wandb/settings
+2023-03-21 08:07:36,621 INFO    MainThread:32220 [wandb_setup.py:_flush():76] Loading settings from /home/seuyon0101/aiffel/saturi/notebook/Model/wandb/settings
+2023-03-21 08:07:36,621 INFO    MainThread:32220 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-03-21 08:07:36,621 INFO    MainThread:32220 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2023-03-21 08:07:36,621 INFO    MainThread:32220 [wandb_init.py:_log_setup():506] Logging user logs to /home/seuyon0101/aiffel/saturi/notebook/Model/wandb/run-20230321_080736-tupv8yl0/logs/debug.log
+2023-03-21 08:07:36,621 INFO    MainThread:32220 [wandb_init.py:_log_setup():507] Logging internal logs to /home/seuyon0101/aiffel/saturi/notebook/Model/wandb/run-20230321_080736-tupv8yl0/logs/debug-internal.log
+2023-03-21 08:07:36,621 INFO    MainThread:32220 [wandb_init.py:_jupyter_setup():452] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7fa5194fb8b0>
+2023-03-21 08:07:36,622 INFO    MainThread:32220 [wandb_init.py:init():546] calling init triggers
+2023-03-21 08:07:36,622 INFO    MainThread:32220 [wandb_init.py:init():552] wandb.init called with sweep_config: {}
+config: {'model_name': 'Vanilla_Transformer', 'n_layers': 6, 'd_model': 512, 'n_heads': 8, 'd_ff': 2048, 'src_vocab_size': 4009, 'tgt_vocab_size': 4009, 'pos_len': 512, 'dropout': 0.2, 'shared': True, 'warmups': 4000, 'epochs': 1, 'optimizer': 'ADAM', 'loss': 'SparseCategoricalCrossentropy', 'metric': 'bleu'}
+2023-03-21 08:07:36,622 INFO    MainThread:32220 [wandb_init.py:init():602] starting backend
+2023-03-21 08:07:36,622 INFO    MainThread:32220 [wandb_init.py:init():606] setting up manager
+2023-03-21 08:07:36,627 INFO    MainThread:32220 [backend.py:_multiprocessing_setup():106] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2023-03-21 08:07:36,630 INFO    MainThread:32220 [wandb_init.py:init():613] backend started and connected
+2023-03-21 08:07:36,642 INFO    MainThread:32220 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2023-03-21 08:07:36,642 INFO    MainThread:32220 [wandb_run.py:_label_probe_notebook():1214] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2023-03-21 08:07:36,642 INFO    MainThread:32220 [wandb_init.py:init():701] updated telemetry
+2023-03-21 08:07:36,884 INFO    MainThread:32220 [wandb_init.py:init():741] communicating run to backend with 60.0 second timeout
+2023-03-21 08:07:36,998 INFO    MainThread:32220 [wandb_run.py:_on_init():2133] communicating current version
+2023-03-21 08:07:37,062 INFO    MainThread:32220 [wandb_run.py:_on_init():2142] got version response 
+2023-03-21 08:07:37,062 INFO    MainThread:32220 [wandb_init.py:init():789] starting run threads in backend
+2023-03-21 08:07:37,129 INFO    MainThread:32220 [wandb_run.py:_console_start():2114] atexit reg
+2023-03-21 08:07:37,130 INFO    MainThread:32220 [wandb_run.py:_redirect():1969] redirect: SettingsConsole.WRAP_RAW
+2023-03-21 08:07:37,130 INFO    MainThread:32220 [wandb_run.py:_redirect():2034] Wrapping output streams.
+2023-03-21 08:07:37,131 INFO    MainThread:32220 [wandb_run.py:_redirect():2059] Redirects installed.
+2023-03-21 08:07:37,131 INFO    MainThread:32220 [wandb_init.py:init():831] run started, returning control to user process
+2023-03-21 08:07:37,132 INFO    MainThread:32220 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-03-21 08:07:37,132 INFO    MainThread:32220 [wandb_init.py:_pause_backend():417] pausing backend
+2023-03-21 08:07:38,018 INFO    MainThread:32220 [wandb_init.py:_resume_backend():422] resuming backend
+2023-03-21 08:07:38,019 INFO    MainThread:32220 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-03-21 08:07:38,019 INFO    MainThread:32220 [wandb_init.py:_pause_backend():417] pausing backend
+2023-03-21 08:07:38,898 INFO    MainThread:32220 [wandb_init.py:_resume_backend():422] resuming backend
+2023-03-21 08:07:40,670 INFO    MainThread:32220 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-03-21 08:07:40,670 INFO    MainThread:32220 [wandb_init.py:_pause_backend():417] pausing backend
+2023-03-21 08:07:41,828 INFO    MainThread:32220 [wandb_init.py:_resume_backend():422] resuming backend
+2023-03-21 08:07:41,830 INFO    MainThread:32220 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-03-21 08:07:41,831 INFO    MainThread:32220 [wandb_init.py:_pause_backend():417] pausing backend
+2023-03-21 08:07:42,209 INFO    MainThread:32220 [wandb_init.py:_resume_backend():422] resuming backend
+2023-03-21 08:07:42,210 INFO    MainThread:32220 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-03-21 08:07:42,210 INFO    MainThread:32220 [wandb_init.py:_pause_backend():417] pausing backend
+2023-03-21 08:07:42,617 INFO    MainThread:32220 [wandb_init.py:_resume_backend():422] resuming backend
+2023-03-21 08:07:42,618 INFO    MainThread:32220 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-03-21 08:07:42,618 INFO    MainThread:32220 [wandb_init.py:_pause_backend():417] pausing backend
+2023-03-21 08:07:43,506 INFO    MainThread:32220 [wandb_init.py:_resume_backend():422] resuming backend
+2023-03-21 08:07:43,507 INFO    MainThread:32220 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-03-21 08:07:43,507 INFO    MainThread:32220 [wandb_init.py:_pause_backend():417] pausing backend
+2023-03-21 08:07:44,653 INFO    MainThread:32220 [wandb_init.py:_resume_backend():422] resuming backend
+2023-03-21 08:07:44,655 INFO    MainThread:32220 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-03-21 08:07:44,655 INFO    MainThread:32220 [wandb_init.py:_pause_backend():417] pausing backend
+2023-03-21 08:07:45,271 INFO    MainThread:32220 [wandb_init.py:_resume_backend():422] resuming backend
+2023-03-21 08:07:45,273 INFO    MainThread:32220 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-03-21 08:07:45,273 INFO    MainThread:32220 [wandb_init.py:_pause_backend():417] pausing backend
+2023-03-21 08:07:45,769 INFO    MainThread:32220 [wandb_init.py:_resume_backend():422] resuming backend
+2023-03-21 08:07:45,922 INFO    MainThread:32220 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-03-21 08:07:45,922 INFO    MainThread:32220 [wandb_init.py:_pause_backend():417] pausing backend
+2023-03-21 08:07:47,126 INFO    MainThread:32220 [wandb_init.py:_resume_backend():422] resuming backend
+2023-03-21 09:00:47,998 INFO    MainThread:32220 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-03-21 09:00:47,998 INFO    MainThread:32220 [wandb_init.py:_pause_backend():417] pausing backend
+2023-03-21 09:07:08,875 INFO    MainThread:32220 [wandb_init.py:_resume_backend():422] resuming backend
+2023-03-21 09:07:08,876 INFO    MainThread:32220 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-03-21 09:07:08,877 INFO    MainThread:32220 [wandb_init.py:_pause_backend():417] pausing backend
+2023-03-21 09:07:09,710 INFO    MainThread:32220 [wandb_init.py:_resume_backend():422] resuming backend
+2023-03-21 09:07:09,711 INFO    MainThread:32220 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-03-21 09:07:09,712 INFO    MainThread:32220 [wandb_init.py:_pause_backend():417] pausing backend
+2023-03-21 09:07:10,472 INFO    MainThread:32220 [wandb_init.py:_resume_backend():422] resuming backend
+2023-03-21 09:07:15,581 INFO    MainThread:32220 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-03-21 09:07:15,581 INFO    MainThread:32220 [wandb_init.py:_pause_backend():417] pausing backend
+2023-03-21 09:07:18,041 INFO    MainThread:32220 [wandb_init.py:_resume_backend():422] resuming backend
+2023-03-21 09:07:18,043 INFO    MainThread:32220 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-03-21 09:07:18,043 INFO    MainThread:32220 [wandb_init.py:_pause_backend():417] pausing backend
+2023-03-21 09:07:19,423 INFO    MainThread:32220 [wandb_init.py:_resume_backend():422] resuming backend
+2023-03-21 09:07:19,425 INFO    MainThread:32220 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-03-21 09:07:19,425 INFO    MainThread:32220 [wandb_init.py:_pause_backend():417] pausing backend
+2023-03-21 09:07:20,547 INFO    MainThread:32220 [wandb_init.py:_resume_backend():422] resuming backend
+2023-03-21 09:27:24,233 INFO    MainThread:32220 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-03-21 09:27:24,234 INFO    MainThread:32220 [wandb_init.py:_pause_backend():417] pausing backend
+2023-03-21 09:27:27,756 INFO    MainThread:32220 [wandb_init.py:_resume_backend():422] resuming backend
+2023-03-21 09:27:27,760 INFO    MainThread:32220 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-03-21 09:27:27,760 INFO    MainThread:32220 [wandb_init.py:_pause_backend():417] pausing backend
+2023-03-21 09:27:29,969 INFO    MainThread:32220 [wandb_init.py:_resume_backend():422] resuming backend
+2023-03-21 09:27:29,971 INFO    MainThread:32220 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-03-21 09:27:29,971 INFO    MainThread:32220 [wandb_init.py:_pause_backend():417] pausing backend
+2023-03-21 09:27:34,957 INFO    MainThread:32220 [wandb_init.py:_resume_backend():422] resuming backend
+2023-03-21 09:27:34,960 INFO    MainThread:32220 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-03-21 09:27:34,960 INFO    MainThread:32220 [wandb_init.py:_pause_backend():417] pausing backend
+2023-03-21 09:27:35,757 INFO    MainThread:32220 [wandb_init.py:_resume_backend():422] resuming backend
+2023-03-21 09:27:35,770 INFO    MainThread:32220 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-03-21 09:27:35,770 INFO    MainThread:32220 [wandb_init.py:_pause_backend():417] pausing backend
+2023-03-21 09:27:56,113 INFO    MainThread:32220 [wandb_init.py:_resume_backend():422] resuming backend
+2023-03-21 09:27:56,114 INFO    MainThread:32220 [wandb_run.py:_finish():1854] finishing run saturi/model_exp_custom_msp4009_0321/tupv8yl0
+2023-03-21 09:27:56,115 INFO    MainThread:32220 [jupyter.py:save_history():445] not saving jupyter history
+2023-03-21 09:27:56,115 INFO    MainThread:32220 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-03-21 09:27:56,115 INFO    MainThread:32220 [wandb_init.py:_jupyter_teardown():434] cleaning up jupyter logic
+2023-03-21 09:27:56,115 INFO    MainThread:32220 [wandb_run.py:_atexit_cleanup():2083] got exitcode: 0
+2023-03-21 09:27:56,115 INFO    MainThread:32220 [wandb_run.py:_restore():2066] restore
+2023-03-21 09:27:56,115 INFO    MainThread:32220 [wandb_run.py:_restore():2072] restore done
+2023-03-21 09:28:00,594 INFO    MainThread:32220 [wandb_run.py:_footer_history_summary_info():3422] rendering history
+2023-03-21 09:28:00,594 INFO    MainThread:32220 [wandb_run.py:_footer_history_summary_info():3454] rendering summary
+2023-03-21 09:28:00,598 INFO    MainThread:32220 [wandb_run.py:_footer_sync_info():3380] logging synced files
