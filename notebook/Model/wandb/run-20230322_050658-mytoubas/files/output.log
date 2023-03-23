@@ -1,0 +1,284 @@
+(947859, 26)
+(947859, 26)
+(250, 26)
+(250, 26)
+Restored from /home/seuyon0101/aiffel/MODEL/tf_spm8000_ckpt_0322v1/ckpt-29
+
+
+
+
+
+
+
+
+
+Epoch  1:   1%|▏               | 368/29621 [00:25<34:11, 14.26it/s, Loss 2.6659]
+Input: <jj> what are you doing?
+Predicted translation: 무신거 허고 인?
+Input: <cc> what are you doing?
+Predicted translation: 뭐헌티 허는 겨?
+Input: <gs> what are you doing?
+Predicted translation: 니느 뭐~
+Input: <jd> what are you doing?
+Predicted translation: 뭐한디야?
+Input: <kw> what are you doing?
+Predicted translation: 지굼 머럴 허구 있아요?
+4.005572918002144
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████| 250/250 [13:31<00:00,  3.24s/it]
+Input: <jj> what are you doing?
+Predicted translation: 무신거 허고 인?
+Input: <cc> what are you doing?
+Predicted translation: 뭐헌티 허는 겨?
+Input: <gs> what are you doing?
+Predicted translation: 니느 뭐~
+Input: <jd> what are you doing?
+Predicted translation: 뭐한디야?
+Input: <kw> what are you doing?
+Predicted translation: 지굼 머럴 허구 있아요?
+3.881734206999681
+Input: <jj> what are you doing?
+Predicted translation: 무신거 허고 인?
+Input: <cc> what are you doing?
+Predicted translation: 뭐헌티 허는 겨?
+Input: <gs> what are you doing?
+Predicted translation: 니느 뭐~
+Input: <jd> what are you doing?
+Predicted translation: 뭐한디야?
+Input: <kw> what are you doing?
+Predicted translation: 지굼 머럴 허구 있아요?
+3.838709818002826
+Input: <jj> what are you doing?
+Predicted translation: 무신거 허고 인?
+Input: <cc> what are you doing?
+Predicted translation: 뭐헌티 허는 겨?
+Input: <gs> what are you doing?
+Predicted translation: 니느 뭐~
+Input: <jd> what are you doing?
+Predicted translation: 뭐한디야?
+Input: <kw> what are you doing?
+Predicted translation: 지굼 머럴 허구 있아요?
+3.8831886219995795
