@@ -1,0 +1,751 @@
+
+Restored from /home/seuyon0101/aiffel/MODEL/tf_cmsp8000_oversample_ckpt_valid_final_0327v2/ckpt-15
+Bucket  3: 100%|█████████████████████| 2/2 [00:00<00:00,  3.24it/s, Loss 3.9695]
+100%|████████████████████████████| 1/1 [00:00<00:00, 78.58it/s, val_Loss 2.4008]
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_cmsp8000_oversample_ckpt_valid_final_0327v2/ckpt-16
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bucket  2: 100%|███████████████| 1322/1322 [03:30<00:00,  6.28it/s, Loss 2.6587]
+
+100%|██████████████████████████| 19/19 [00:00<00:00, 39.65it/s, val_Loss 3.0113]
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_cmsp8000_oversample_ckpt_valid_final_0327v2/ckpt-17
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bucket  1: 100%|█████████████| 13412/13412 [15:12<00:00, 14.70it/s, Loss 2.2338]
+
+100%|████████████████████████| 190/190 [00:02<00:00, 77.07it/s, val_Loss 2.8528]
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_cmsp8000_oversample_ckpt_valid_final_0327v2/ckpt-18
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████| 125/125 [04:23<00:00,  2.11s/it]
+Input: <jj> i like this song .
+Predicted translation: 이 노래가 이.
+Input: <cc> i like this song .
+Predicted translation: 이 노래가 좋드라구.
+Input: <gs> i like this song .
+Predicted translation: 이런 노래가 좋드래이.
+Input: <jd> i like this song .
+Predicted translation: 이 노래가 좋다 이 곡
+Input: <kw> i like this song .
+Predicted translation: 이딴 노래 좋은데.
+5.3907706729951315
+Input: <jj> Let's do homework together .
+Predicted translation: 숙제를 같이 하게마씸.
+Input: <cc> Let's do homework together .
+Predicted translation: 숙제를 같이 하게 되구유
+Input: <gs> Let's do homework together .
+Predicted translation: 숙제도 같이 해래이 그라꼬
+Input: <jd> Let's do homework together .
+Predicted translation: 숙제를 같이 하게끄름 하
+Input: <kw> Let's do homework together .
+Predicted translation: 숙제를 마촤 내라.
+6.508285379997687
+Input: <jj> Are you going to sleep ?
+Predicted translation: 잠 잘꺼?
+Input: <cc> Are you going to sleep ?
+Predicted translation: 잠을 잘 겨?
+Input: <gs> Are you going to sleep ?
+Predicted translation: 니느 잠 잘 거야?
+Input: <jd> Are you going to sleep ?
+Predicted translation: 잠을 잘 거야?
+Input: <kw> Are you going to sleep ?
+Predicted translation: 너 잠 잘 자게?
+5.263141599003575
+Input: <jj> I want to go out to eat .
+Predicted translation: 먹고 싶은 생각사 해. 이
+Input: <cc> I want to go out to eat .
+Predicted translation: 먹구 싶은 게 아이다.
+Input: <gs> I want to go out to eat .
+Predicted translation: 어~ 나가서 먹느 께 좋겠대이
+Input: <jd> I want to go out to eat .
+Predicted translation: 나는 나가기 좋겄어.
+Input: <kw> I want to go out to eat .
+Predicted translation: 먹고 싶은 게 젤로 좋대.
+7.781379312000354
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 948219 entries, 0 to 949887
+Data columns (total 7 columns):
+ #   Column    Non-Null Count   Dtype
+---  ------    --------------   -----
+ 0   reg       948219 non-null  object
+ 1   topic     948219 non-null  object
+ 2   stdn      948219 non-null  object
+ 3   dial      948219 non-null  object
+ 4   eng       948219 non-null  object
+ 5   toks_en   948219 non-null  object
+ 6   toks_dec  948219 non-null  object
+dtypes: object(7)
+memory usage: 57.9+ MB
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 125 entries, 39379 to 297204
+Data columns (total 7 columns):
+ #   Column    Non-Null Count  Dtype
+---  ------    --------------  -----
+ 0   reg       125 non-null    object
+ 1   topic     125 non-null    object
+ 2   stdn      125 non-null    object
+ 3   dial      125 non-null    object
+ 4   eng       125 non-null    object
+ 5   toks_en   125 non-null    object
+ 6   toks_dec  125 non-null    object
+dtypes: object(7)
+memory usage: 7.8+ KB
+[34m[1mwandb[39m[22m: [33mWARNING[39m Calling wandb.login() after wandb.init() has no effect.

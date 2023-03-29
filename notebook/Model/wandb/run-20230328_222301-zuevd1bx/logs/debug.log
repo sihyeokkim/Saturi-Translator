@@ -1,0 +1,56 @@
+2023-03-28 22:23:01,865 INFO    MainThread:23627 [wandb_setup.py:_flush():76] Configure stats pid to 23627
+2023-03-28 22:23:01,865 INFO    MainThread:23627 [wandb_setup.py:_flush():76] Loading settings from /home/seuyon0101/.config/wandb/settings
+2023-03-28 22:23:01,866 INFO    MainThread:23627 [wandb_setup.py:_flush():76] Loading settings from /home/seuyon0101/aiffel/saturi/notebook/Model/wandb/settings
+2023-03-28 22:23:01,866 INFO    MainThread:23627 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-03-28 22:23:01,866 INFO    MainThread:23627 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2023-03-28 22:23:01,866 INFO    MainThread:23627 [wandb_init.py:_log_setup():506] Logging user logs to /home/seuyon0101/aiffel/saturi/notebook/Model/wandb/run-20230328_222301-zuevd1bx/logs/debug.log
+2023-03-28 22:23:01,866 INFO    MainThread:23627 [wandb_init.py:_log_setup():507] Logging internal logs to /home/seuyon0101/aiffel/saturi/notebook/Model/wandb/run-20230328_222301-zuevd1bx/logs/debug-internal.log
+2023-03-28 22:23:01,866 INFO    MainThread:23627 [wandb_init.py:init():546] calling init triggers
+2023-03-28 22:23:01,866 INFO    MainThread:23627 [wandb_init.py:init():552] wandb.init called with sweep_config: {}
+config: {'model_name': 'Vanilla_Transformer', 'n_layers': 6, 'd_model': 512, 'n_heads': 8, 'd_ff': 2048, 'src_vocab_size': 8009, 'tgt_vocab_size': 8009, 'pos_len': 512, 'dropout': 0.2, 'shared': True, 'warmups': 13000, 'epochs': 1, 'optimizer': 'ADAM', 'loss': 'SparseCategoricalCrossentropy', 'metric': 'bleu'}
+2023-03-28 22:23:01,866 INFO    MainThread:23627 [wandb_init.py:init():568] re-initializing run, found existing run on stack: 9er9mp0h
+2023-03-28 22:23:01,868 INFO    MainThread:23627 [wandb_run.py:_finish():1854] finishing run saturi/model_exp_cmsp_8000_0328_oversample_valid_final_v3v/9er9mp0h
+2023-03-28 22:23:01,868 INFO    MainThread:23627 [jupyter.py:save_history():445] not saving jupyter history
+2023-03-28 22:23:01,869 INFO    MainThread:23627 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-03-28 22:23:01,869 INFO    MainThread:23627 [wandb_init.py:_jupyter_teardown():434] cleaning up jupyter logic
+2023-03-28 22:23:01,869 INFO    MainThread:23627 [wandb_run.py:_atexit_cleanup():2083] got exitcode: 0
+2023-03-28 22:23:01,869 INFO    MainThread:23627 [wandb_run.py:_restore():2066] restore
+2023-03-28 22:23:01,869 INFO    MainThread:23627 [wandb_run.py:_restore():2072] restore done
+2023-03-28 22:23:06,343 INFO    MainThread:23627 [wandb_run.py:_footer_history_summary_info():3422] rendering history
+2023-03-28 22:23:06,343 INFO    MainThread:23627 [wandb_run.py:_footer_history_summary_info():3454] rendering summary
+2023-03-28 22:23:06,346 INFO    MainThread:23627 [wandb_run.py:_footer_sync_info():3380] logging synced files
+2023-03-28 22:23:06,352 INFO    MainThread:23627 [wandb_init.py:init():602] starting backend
+2023-03-28 22:23:06,352 INFO    MainThread:23627 [wandb_init.py:init():606] setting up manager
+2023-03-28 22:23:06,357 INFO    MainThread:23627 [backend.py:_multiprocessing_setup():106] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2023-03-28 22:23:06,360 INFO    MainThread:23627 [wandb_init.py:init():613] backend started and connected
+2023-03-28 22:23:06,371 INFO    MainThread:23627 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2023-03-28 22:23:06,371 INFO    MainThread:23627 [wandb_run.py:_label_probe_notebook():1214] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2023-03-28 22:23:06,371 INFO    MainThread:23627 [wandb_init.py:init():701] updated telemetry
+2023-03-28 22:23:06,462 INFO    MainThread:23627 [wandb_init.py:init():741] communicating run to backend with 60.0 second timeout
+2023-03-28 22:23:07,475 INFO    MainThread:23627 [wandb_run.py:_on_init():2133] communicating current version
+2023-03-28 22:23:07,540 INFO    MainThread:23627 [wandb_run.py:_on_init():2142] got version response 
+2023-03-28 22:23:07,541 INFO    MainThread:23627 [wandb_init.py:init():789] starting run threads in backend
+2023-03-28 22:23:11,483 INFO    MainThread:23627 [wandb_run.py:_console_start():2114] atexit reg
+2023-03-28 22:23:11,484 INFO    MainThread:23627 [wandb_run.py:_redirect():1969] redirect: SettingsConsole.WRAP_RAW
+2023-03-28 22:23:11,484 INFO    MainThread:23627 [wandb_run.py:_redirect():2034] Wrapping output streams.
+2023-03-28 22:23:11,485 INFO    MainThread:23627 [wandb_run.py:_redirect():2059] Redirects installed.
+2023-03-28 22:23:11,485 INFO    MainThread:23627 [wandb_init.py:init():831] run started, returning control to user process
+2023-03-28 22:27:32,722 INFO    MainThread:23627 [wandb_setup.py:_flush():76] Configure stats pid to 23627
+2023-03-28 22:27:32,722 INFO    MainThread:23627 [wandb_setup.py:_flush():76] Loading settings from /home/seuyon0101/.config/wandb/settings
+2023-03-28 22:27:32,722 INFO    MainThread:23627 [wandb_setup.py:_flush():76] Loading settings from /home/seuyon0101/aiffel/saturi/notebook/Model/wandb/settings
+2023-03-28 22:27:32,722 INFO    MainThread:23627 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-03-28 22:27:32,722 INFO    MainThread:23627 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2023-03-28 22:27:32,722 INFO    MainThread:23627 [wandb_init.py:_log_setup():506] Logging user logs to /home/seuyon0101/aiffel/saturi/notebook/Model/wandb/run-20230328_222732-n8qe94gu/logs/debug.log
+2023-03-28 22:27:32,723 INFO    MainThread:23627 [wandb_init.py:_log_setup():507] Logging internal logs to /home/seuyon0101/aiffel/saturi/notebook/Model/wandb/run-20230328_222732-n8qe94gu/logs/debug-internal.log
+2023-03-28 22:27:32,723 INFO    MainThread:23627 [wandb_init.py:_jupyter_setup():452] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7f6c38502220>
+2023-03-28 22:27:32,723 INFO    MainThread:23627 [wandb_init.py:init():546] calling init triggers
+2023-03-28 22:27:32,723 INFO    MainThread:23627 [wandb_init.py:init():552] wandb.init called with sweep_config: {}
+config: {'model_name': 'Vanilla_Transformer', 'n_layers': 6, 'd_model': 512, 'n_heads': 8, 'd_ff': 2048, 'src_vocab_size': 8009, 'tgt_vocab_size': 8009, 'pos_len': 512, 'dropout': 0.2, 'shared': True, 'warmups': 13000, 'epochs': 1, 'optimizer': 'ADAM', 'loss': 'SparseCategoricalCrossentropy', 'metric': 'bleu'}
+2023-03-28 22:27:32,723 INFO    MainThread:23627 [wandb_init.py:init():568] re-initializing run, found existing run on stack: zuevd1bx
+2023-03-28 22:27:32,725 INFO    MainThread:23627 [wandb_run.py:_finish():1854] finishing run saturi/model_exp_cmsp_8000_0328_oversample_valid_final_v3v/zuevd1bx
+2023-03-28 22:27:32,726 INFO    MainThread:23627 [wandb_run.py:_atexit_cleanup():2083] got exitcode: 0
+2023-03-28 22:27:32,726 INFO    MainThread:23627 [wandb_run.py:_restore():2066] restore
+2023-03-28 22:27:32,726 INFO    MainThread:23627 [wandb_run.py:_restore():2072] restore done
+2023-03-28 22:27:36,385 INFO    MainThread:23627 [wandb_run.py:_footer_history_summary_info():3422] rendering history
+2023-03-28 22:27:36,385 INFO    MainThread:23627 [wandb_run.py:_footer_history_summary_info():3454] rendering summary
+2023-03-28 22:27:36,389 INFO    MainThread:23627 [wandb_run.py:_footer_sync_info():3380] logging synced files

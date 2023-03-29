@@ -1,0 +1,154 @@
+
+2023-03-27 23:57:32.819136: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-27 23:57:32.939841: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-27 23:57:32.940118: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-27 23:57:32.942548: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-03-27 23:57:32.943353: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-27 23:57:32.943598: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-27 23:57:32.943783: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-27 23:57:34.644327: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-27 23:57:34.644585: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-27 23:57:34.644795: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:936] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-03-27 23:57:34.645896: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1525] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 14628 MB memory:  -> device: 0, name: Tesla V100-SXM2-16GB, pci bus id: 0000:00:04.0, compute capability: 7.0
+
+
+
+
+  3%|█▍                                         | 4/125 [00:15<07:51,  3.89s/it]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████| 125/125 [04:07<00:00,  1.98s/it]
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 948219 entries, 0 to 949887
+Data columns (total 7 columns):
+ #   Column    Non-Null Count   Dtype
+---  ------    --------------   -----
+ 0   reg       948219 non-null  object
+ 1   topic     948219 non-null  object
+ 2   stdn      948219 non-null  object
+ 3   dial      948219 non-null  object
+ 4   eng       948219 non-null  object
+ 5   toks_en   948219 non-null  object
+ 6   toks_dec  948219 non-null  object
+dtypes: object(7)
+memory usage: 57.9+ MB
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 125 entries, 39379 to 297204
+Data columns (total 7 columns):
+ #   Column    Non-Null Count  Dtype
+---  ------    --------------  -----
+ 0   reg       125 non-null    object
+ 1   topic     125 non-null    object
+ 2   stdn      125 non-null    object
+ 3   dial      125 non-null    object
+ 4   eng       125 non-null    object
+ 5   toks_en   125 non-null    object
+ 6   toks_dec  125 non-null    object
+dtypes: object(7)
+memory usage: 7.8+ KB
+[34m[1mwandb[39m[22m: [33mWARNING[39m Calling wandb.login() after wandb.init() has no effect.

@@ -1,0 +1,213 @@
+
+Restored from /home/seuyon0101/aiffel/MODEL/tf_spm16000_ckpt_final_0329v/ckpt-3
+Bucket  3: 100%|█████████████████████| 2/2 [00:00<00:00,  3.03it/s, Loss 6.2093]
+100%|████████████████████████████| 1/1 [00:00<00:00, 77.92it/s, val_Loss 5.2977]
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_spm16000_ckpt_final_0329v/ckpt-4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bucket  2: 100%|███████████████| 1322/1322 [03:46<00:00,  5.84it/s, Loss 4.3553]
+100%|██████████████████████████| 19/19 [00:00<00:00, 38.21it/s, val_Loss 4.2313]
+Saved checkpoint for step 1: /home/seuyon0101/aiffel/MODEL/tf_spm16000_ckpt_final_0329v/ckpt-5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bucket  1:  13%|█▊            | 1724/13412 [02:05<14:09, 13.76it/s, Loss 3.8208]
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 948219 entries, 0 to 949887
+Data columns (total 7 columns):
+ #   Column    Non-Null Count   Dtype
+---  ------    --------------   -----
+ 0   reg       948219 non-null  object
+ 1   topic     948219 non-null  object
+ 2   stdn      948219 non-null  object
+ 3   dial      948219 non-null  object
+ 4   eng       948219 non-null  object
+ 5   toks_en   948219 non-null  object
+ 6   toks_dec  948219 non-null  object
+dtypes: object(7)
+memory usage: 57.9+ MB
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 125 entries, 39379 to 297204
+Data columns (total 7 columns):
+ #   Column    Non-Null Count  Dtype
+---  ------    --------------  -----
+ 0   reg       125 non-null    object
+ 1   topic     125 non-null    object
+ 2   stdn      125 non-null    object
+ 3   dial      125 non-null    object
+ 4   eng       125 non-null    object
+ 5   toks_en   125 non-null    object
+ 6   toks_dec  125 non-null    object
+dtypes: object(7)
+memory usage: 7.8+ KB
