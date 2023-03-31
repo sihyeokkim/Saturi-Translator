@@ -15,8 +15,9 @@
 |6. HW| (coordinator)|
 
 # Description :
-- ### This is a repository that contains code for Eng-to-Korean dialect translation Webapp.
-- ### We used kor-dialect corpus data downloaded from AIHUB(aihub.or.kr). 
+- ### Eng-to-Korean dialect translation(5 different dialect)
+- ### We trained our model using kor-dialect corpus data downloaded from AIHUB(aihub.or.kr), and paired with their english corpus by translation using hugging face NMT checkpoint.
+- ### Number of data pair for training : kangwon 35k, jeju 21k, jd 15k, cc 11k, gs 12k.
 </br>
 
 # How to use :
